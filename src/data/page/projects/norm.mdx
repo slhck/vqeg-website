@@ -1,0 +1,91 @@
+---
+title: "NORM"
+source: "projects/norm/index.html"
+---
+
+The No Reference (NR) Metrics group (NORM) is an open collaborative for developing NR metrics for monitoring visual service quality. NORM encourages knowledge sharing on all aspects of NR metric research and development. Current projects include:
+
+- Merging NR metrics, in preparation for ITU validation
+- Improved complexity metrics 
+
+NORM coordinates work using the VQEG reflector norm@vqeg.org
+
+## \#1) NR Metric Integration
+
+The NORM project seeks to merge multiple NR metrics into a single model that is accurate enough to be included in an ITU Recommendation.
+
+VQEG discussions from 2017-2019 indicated industry need for NR metrics that use the decoded video at the point of measurement to estimate:
+
+- Mean opinion score (MOS), to assess the overall quality
+- Root cause analysis (RCA) to identify the impact of specific visual impairments
+
+We seek a broad **scope**: camera capture, encoding, decoding, transcoding, scaling, transmission, aesthetics and artistic intent, image enhancement, monitor, and display device.
+
+Users must be able to **modify the scope** to ignore specific impairments. For example, broadcasters want MOS to ignore artistic intent and aesthetics. The omitted factors should not influence MOS.
+
+The **performance** goals are robust accuracy with a minimum of operational restriction. **Use cases** include Video on Demand (VoD), live broadcast services, social media, first responder video, medical, and AI vision systems (autonomous vehicles). Access to the **bitstream** is beneficial, but not required.
+
+NORM is an **open collaborative group** that intends to make all of its work public, royalty free.
+
+### Working Methods:
+
+- Current working document to coordinate the merging of NR metrics <a href="https://docs.google.com/document/d/1cEvPgddUwua9_dhiwMiF8mnTRGKCEGJs9Ysg3XJxX0g/edit?usp=sharing" rel="noopener" target="_blank" data-anchor="?usp=sharing">here</a>.
+- <a href="https://github.com/NTIA/NRMetricFramework" rel="noopener" target="_blank">NRMetricFramework</a> GitHub repository provides tools for developing NR metrics and NR metric performance analyses.
+- No reference resources [here](/projects/norm-resources "NORM Resources").
+- List of video impairments for RCA <a href="https://docs.google.com/spreadsheets/d/1A9pJd0RR1ZrvcmU_B9XuF6okQkq9nFlDekJWp-cq3Fo/edit?usp=sharing" rel="noopener" target="_blank" data-anchor="?usp=sharing">here</a>.
+
+## \#2) Improved Complexity Metric
+
+This effort began by clarifying SI and TI. The ITU-T Rec. P.910 definitions of SI and TI had contained ambiguities. Agreement was reached on how to eliminate these ambiguities. Our proposal was submitted to ITU-T Study Group 12, to revise P.910.
+
+Work continues on developing an improved metric that assesses the coding complexity of videos. Design specifications include:
+
+- Very light weight algorithm (low coding complexity)
+- Estimates a curve that relates coding complexity to bit-rate 
+- Includes motion estimation
+- Questions \#1: calculate the convex hull, to choose an optimal compression resolution and bitrate
+  - Given an original video predict bit-rate Y (MBit/s) where VMAF = 80. Assume the original and processed video have the same resolution.
+  - Later improvements will allow resolution changes and other VMAF targets.
+- Question \#2: extrapolate the impact of reducing resolution or bitrate
+  - "We are at bitrate X and we want to reduce the bitrate to X/2. How much will the quality drop?"
+  - This is question \#1 applied to a video that already has compression artifacts
+- Question \#3: a managed network only has access to compressed videos, and wants to understand the impact of increasing or decreasing bandwidth allocations
+  - "How much would the quality change (up or down) if we increase or decrease the bandwidth?"
+  - This question assumes that the head end could adjust its behavior to take advantage of increased bitrates, and that video complexity is somewhat stable over time
+- Vision of training libraries to enable research
+  - Videos without no scene cuts,
+  - FR metric ratings (e.g., VMAF)
+  - Training features (e.g., from <a href="https://github.com/facebookresearch/motion-search" rel="noopener" target="_blank">Motion search</a> repository)
+  - Variety of resolutions and bitrates of interest to modern paid video services (VMAF 60 to 95)
+  - Access to the source content is optional, if the other data is available
+
+### Working Documents:
+
+- <a href="https://docs.google.com/document/d/1pjAJet6YMznf1pPZ_5Xp0L3UiJvCh78x2LRIHvKApro/edit#heading=h.pod7m6xer5vu" rel="noopener" target="_blank" data-anchor="#heading=h.pod7m6xer5vu">Minutes (Google Doc)</a>
+- <a href="https://github.com/VQEG/siti-tools" rel="noopener" target="_blank">SI/TI</a> repository, Python code
+- <a href="https://github.com/facebookresearch/motion-search" rel="noopener" target="_blank">Motion search</a> repository, C++ code
+
+## \#3) Finished Project: Video Quality Metadata Standard
+
+Full reference video quality metrics are readily available in most modern transcoding pipelines. Including full-reference video quality metrics as metadata in compressed bitstreams would take very little space and provides a more accurate and “green” way of estimating source video quality.
+
+To realize this vision, we must establish a standard format to save such metadata at both elementary video bitstream level and system layer. Both hardware (device) makers and service providers have a lot to gain by offering such metadata in their compressed bitstreams.
+
+NR metrics would still be needed in situations like the following:
+
+- In the camera front-end, to estimate quality of raw input\
+  pixels
+- Legacy content (video quality metadata unavailable)
+- Some video broadcasting applications (e.g., transmission over\
+  noisy channels)
+- Non-transcoding image/video applications (e.g., editing, image enhancement)
+
+### Working Documents:
+
+- Audio call minutes <a href="https://docs.google.com/document/d/154y5_CElepcZV6TX-3g_HfZCAjWGN8I-Vb-4gjub6Rw/edit?usp=sharing" rel="noopener" target="_blank" data-anchor="?usp=sharing">here</a>.
+- Working document is <a href="https://docs.google.com/document/d/16ISQ4Mq4KzXVJffPNudvHl43IdXqVQMmBS7BNDFZndo/edit?usp=sharing" rel="noopener" target="_blank" data-anchor="?usp=sharing">here</a>.
+- T.35 Payload document is <a href="https://docs.google.com/document/d/1zrUnttz4LxYbBcIsf8nYQ__13TVom6iH54ZPK6GaNws/edit?usp=sharing" rel="noopener" target="_blank" data-anchor="?usp=sharing" title="T.35 Payload">here</a>.
+
+## \#4) Finished Project: Clarifying SI and TI metrics
+
+The VQEG NORM group worked to clarify the traditional SI and TI metrics in ITU-T Rec. P.910. The ITU updated <a href="https://www.itu.int/rec/t-rec-p.910/en" rel="noopener" target="_blank">P.910</a> to include these clarifications.

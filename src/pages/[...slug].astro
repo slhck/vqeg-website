@@ -1,0 +1,19 @@
+---
+import { getCollection, render } from 'astro:content';
+import ContentPage from '~/components/vqeg/ContentPage.astro';
+import VqegLayout from '~/layouts/VqegLayout.astro';
+
+export async function getStaticPaths() {
+  const pages = await getCollection('page');
+  return pages.filter((page) => page.id !== 'about').map((page) => ({ params: { slug: page.id }, props: { page } }));
+}
+
+const { page } = Astro.props;
+const { Content } = await render(page);
+---
+
+<VqegLayout title={page.data.title}>
+  <ContentPage title={page.data.title}>
+    <Content />
+  </ContentPage>
+</VqegLayout>

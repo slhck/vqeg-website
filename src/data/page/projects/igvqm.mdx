@@ -1,0 +1,23 @@
+---
+title: "Implementer’s Guide to Video Quality Metrics (IGVQM)"
+source: "projects/igvqm/index.html"
+---
+
+The goal of this group is to create an implementer's guide for video quality metrics. People who are interested in joining the project should either email the IGVQM Chairs or note their interest directly in the project's Google document.
+
+- Current working document: [https://docs.google.com/document/d/1w3rgGxDHFehwdwtVXENtngAPsMhGnPlAsiU2v0Tu6nU/edit?usp=sharing](https://docs.google.com/document/d/1w3rgGxDHFehwdwtVXENtngAPsMhGnPlAsiU2v0Tu6nU/edit?usp=sharing)
+- Received pointer to ITU-T Technical paper HSTP-VID-WPOM titled “[Working practices using objective metrics for evaluation of video\
+  coding efficiency experiments](https://urldefense.com/v3/__https:/www.itu.int/pub/T-TUT-ASC-2020-HSTP1__;!!Bt8RZUm9aw!tPQuB2rTi6XG9J2wGAKRAV98zxZtXweLDh8dnelE7_hPayE5D5X8ePM0uW2tHoLu$)”
+
+## Scope
+
+- Address video compression and scaling impairments only
+- Be constrained to full-reference (pixel) objective metrics
+- Examine applicability of no-reference objective metrics
+- Use existing "state-of-the-art" such full reference (FR) metrics (e.g. PSNR, SSIM, VMAF)
+- Even though proprietary metrics could perform better, the standardization community is looking for open-source solutions
+- Offer temporal aggregation methods of image quality metrics (such as PSNR and SSIM) into video quality metrics
+- Present statistical analysis of existing subjective datasets, constraining them to compression and scaling artifacts
+- Obtain reference implementations of such FR metrics, in order to avoid confusion that happens often, when researchers quote these metrics; for example, there are at least four different ways to aggregate PSNR scores and three popular implementations of SSIM
+- Highlight differences among objective metrics and use-cases: for example, in case of very small differences, which metric is more sensitive? Which quality range is better served by what metric?
+- Offer standard logistic mappings of objective metrics to a normalized linear scale (0-100?)

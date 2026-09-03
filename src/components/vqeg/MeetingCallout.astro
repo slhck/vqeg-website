@@ -1,0 +1,61 @@
+---
+const base = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE_URL : `${import.meta.env.BASE_URL}/`;
+const asset = `${base}media/ssanpki5/screen-icon.svg`;
+---
+
+<section class="vqeg-meeting-callout">
+  <img src={asset} alt="Screen" />
+  <div class="venues"><slot name="venues" /></div>
+  <div class="details"><slot /></div>
+</section>
+
+<style>
+  .vqeg-meeting-callout {
+    display: grid;
+    gap: 2rem;
+    align-items: center;
+    margin: 0 calc(50% - 50vw) 3.5rem;
+    padding: 3rem max(1.25rem, calc((100vw - 72rem) / 2 + 1.25rem));
+    background: #d63e04;
+    color: white;
+  }
+  .vqeg-meeting-callout img {
+    display: none;
+    width: 8rem;
+    margin: 0;
+  }
+  .vqeg-meeting-callout :global(h2) {
+    margin-top: 0;
+    color: white;
+  }
+  .vqeg-meeting-callout :global(a) {
+    color: white;
+  }
+  .vqeg-meeting-callout :global(ul),
+  .vqeg-meeting-callout :global(ol) {
+    margin-bottom: 0;
+  }
+  .vqeg-meeting-callout .details {
+    border-top: 1px solid rgb(255 255 255 / 0.5);
+    padding-top: 1.5rem;
+  }
+  @media (min-width: 768px) {
+    .vqeg-meeting-callout {
+      grid-template-columns: minmax(0, 0.85fr) minmax(0, 1.15fr);
+    }
+    .vqeg-meeting-callout .details {
+      border-top: 0;
+      border-left: 1px solid rgb(255 255 255 / 0.5);
+      padding-top: 0;
+      padding-left: 2.5rem;
+    }
+  }
+  @media (min-width: 1024px) {
+    .vqeg-meeting-callout {
+      grid-template-columns: 9rem minmax(0, 0.7fr) minmax(0, 1.3fr);
+    }
+    .vqeg-meeting-callout img {
+      display: block;
+    }
+  }
+</style>

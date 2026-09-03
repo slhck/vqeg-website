@@ -1,0 +1,107 @@
+---
+title: "SAM"
+source: "projects/sam/index.html"
+---
+
+Mission: to improve analysis methods and understanding of subjective experiments; and to improve the statistical analysis of objective media quality predictors/models.
+
+The SAM group addresses problems related to how to better analyze and improve data quality coming from subjective experiments and how to consider uncertainty in objective media quality predictors/models development. We also consider changed to subjective experiments protocols.
+
+## Working Methods
+
+- To join the SAM mailing list (<a href="mailto:vqeg-sam@googlegroups.com" id="LPlnk684877" rel="noopener noreferrer" target="_blank" data-auth="NotApplicable">vqeg-sam@googlegroups.com</a>) please send an e-mail to the chair at <a href="mailto:lucjan.janowski@agh.edu.pl" rel="noopener noreferrer" target="_blank" data-auth="NotApplicable" data-linkindex="2">lucjan.janowski@agh.edu.pl</a>
+- Chair: Lucjan Janowski
+- Vice-chairs: Zhi Li, Ioannis Katsavounidis, Patrick Le Callet
+
+### Biweekly teleconference calls
+
+We have monthly conference calls on Monday at 17:00 CET. 
+
+- Meeting minutes and date of the next call can be found in **<a href="https://docs.google.com/document/d/1_7b3EzCC2viI7va6WtWb1CRBC2t4vBDxrSVaFHDgszc/edit" rel="noopener" target="_blank">this document</a>**.
+- Please check the meeting minutes for changes to the meeting date, time, and software. 
+- Contact Zhi Li ([zli@netflix.com](mailto:zli@netflix.com)) for a meeting invitation. 
+
+### Documents
+
+- SAM meeting minutes and meeting information: **<a href="https://docs.google.com/document/d/1_7b3EzCC2viI7va6WtWb1CRBC2t4vBDxrSVaFHDgszc/edit" rel="noopener" target="_blank">this document</a>**
+
+### Repositories
+
+- SUREAL is a toolbox developed by Netflix that includes a number of models for the recovery of mean opinion scores (MOS) from noisy measurements obtained in psychovisual subjective experiments. [https://github.com/Netflix/sureal](https://github.com/Netflix/sureal)
+- Reference implementation of generalised score distribution in python [https://github.com/gsd-authors/gsd](http://github.com/gsd-authors/gsd)
+
+## Topics Currently Being Discussed
+
+- Further exploration of subject models and analysis for classical subjective experiments based on Absolute Category Rating (ACR)
+  - Interest expressed by Dietmar Saupe, Lucjan Janowski, Maria Martini, Kamran Javidi
+- Better understanding PC (Pair Comparison).
+  - Begin by understanding the differences between displaying content on two screens, scaled versions on a single screen, and temporally separated presentations on a single screen.
+  - Investigate how PC and ACR results compare when applied to high-quality content under varying levels of scale and compression.
+  - Extend the research by incorporating more diverse content, particularly user-generated content (UGC) with varying quality levels.
+- Linearity analysis – deciding if a metric is linearly related to subjective scores or not. If not, the analysis marks non linear regions
+  - Interest expressed by Bartłomiej Gibas
+
+## Extended List of Possible Future Topics
+
+### Theory development
+
+- Further exploration of subject models and analysis for classical subjective experiments based on ACR.
+- Proposal of a model for paired comparison (PC)
+  - The initial groundwork is done; next steps include reviewing existing literature.
+- Development of a model explaining the relationship between ACR and PC, allowing results from one experiment to be converted into equivalent results for the other.
+  - This requires understanding the limitations of such conversions.
+- Inclusion of multiple distortions and analysis of their interactions (e.g., bitrate + scale; additional factors: camera capture and content modifications).
+- Multi-dimensional modeling of perceived quality Combination and integration of multiple datasets 
+
+### Subject screening
+
+- Subject screening simulations
+- Subject screening for crowdsource experiments 
+
+### Metric analysis
+
+- Objective metric analysis using methods beyond R² 
+- Linearity analysis
+- BD-rate: Establish an official approach for BD-rate analysis, ensuring a more comprehensive understanding
+
+### Perceptually lossless metrics
+
+- Metrics that target the first level of just noticeable difference JND, indicating whether the compressed video is indistinguishable from the source 
+
+### New subjective methods beyond quality questions
+
+- Exploration of methods beyond traditional quality questions and approaches to analyzing them
+
+### New test designs for specific products and problems
+
+- Color analysis for Oculus devices
+- Study of the "uncanny valley" effect in generative AI and point clouds
+- Inclusion of multiple dimensions, such as how well the content fits the user’s expectations
+- Understanding the relationship between quality and overall service experience
+
+### Designing reliable subjective methods for crowdsourced experiments
+
+- Development of subjective methods that ensure reliable screening.
+- Brainstorm new rating scales that eliminate different scoring behaviors associated with the 5-point ACR scale in crowdsource tests, such as subjects only using one or two levels.
+  - 2-point ACR scale
+  - Pair comparison (PC) mapped to 5-point ACR scale
+  - PC where one side of the comparison is to small set of media with a known spread of quality from lab testing; audio quality tests often use such anchor sequences. 
+- Perform screening during the rating process, to identify poor performers by the end of each task
+  - For example, subject must correctly identify best and worst quality 
+
+## Completed SAM Projects
+
+### Bias-subtracted consistency-weighted MOS method for subject screening
+
+This method allows simultaneously extracts three parameters (quality, subjective bias, and subjective inconsistency), taking into account the relationship between these three parameters. The mean opinion score (MOS) estimation is improved by weighting individual ratings by subject consistency.   
+
+- This method is described in Clause 13.6 and Appendix III of <a href="https://www.itu.int/rec/t-rec-p.910/en" rel="noopener" target="_blank">ITU-T Rec. P.910</a>.
+- Software can be found in the <a href="https://github.com/Netflix/sureal" rel="noopener" target="_blank">SUREAL GitHub repository</a>, at [this specific web page](https://github.com/Netflix/sureal/tree/master/itut_p910_demo).
+
+### Spatial Information (SI) and Temporal Information (TI)
+
+The SAM group updated the SI and TI formulae in <a href="https://www.itu.int/rec/t-rec-p.910/en" rel="noopener" target="_blank">Rec. P.910</a> to account for modern video systems. See Clause 7.8. 
+
+### Merger of ITU-T Recs. P.910, P.911, and P.913
+
+The SAM group hosted discussions that culminated in ITU-T merging Recommendations P.910, P.911, and P.913 into a single standard in 2023. These edits added new techniques that had been vetted by VQEG over previous years.

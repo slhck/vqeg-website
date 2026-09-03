@@ -1,0 +1,187 @@
+---
+title: "NORM Resources"
+source: "projects/norm-resources/index.html"
+---
+
+This webpage lists potential resources for NR metrics, collected by the [No Reference Metric (NORM)](/projects/norm "No Reference Metrics (NORM)") VQEG project:
+
+- Algorithms
+- Development tools
+- Datasets
+- Industry design specifications
+
+This <a href="https://docs.google.com/spreadsheets/d/1A9pJd0RR1ZrvcmU_B9XuF6okQkq9nFlDekJWp-cq3Fo/edit?usp=sharing" rel="noopener" target="_blank" data-anchor="?usp=sharing">Google Sheet</a> identifies metric components: artifacts, features, measurement points, and key performance indicators.
+
+## **Algorithms**
+
+The following algorithms assess mean opinion score (MOS), root cause analysis (RCA), or both.
+
+- <a href="https://github.com/NTIA/NRMetricFramework" rel="noopener" target="_blank">Sawatch</a> version 2 (2000)—image and video, MOS and RCA, designed to NORM specifications
+- <a href="https://live.ece.utexas.edu/research/Quality/nrqa.htm" rel="noopener" target="_blank">BLIINDS</a> (2012)—image MOS
+- <a href="https://live.ece.utexas.edu/research/Quality/nrqa.htm" rel="noopener" target="_blank">BRISQUE</a> (2012)—image MOS
+- <a href="https://live.ece.utexas.edu/research/Quality/nrqa.htm" rel="noopener" target="_blank">DIIVINE</a> (2011)—image MOS
+- <a href="https://live.ece.utexas.edu/research/Quality/nrqa.htm" rel="noopener" target="_blank">NIQE</a> (2013)—image MOS, machine learning re-training tools provided
+- <a href="http://resources.mpi-inf.mpg.de/hdr/norm/" rel="noopener" target="_blank" title="NORM">NORM</a> (2018)—NR image quality metric for realistic image synthesis
+- <a href="http://vq.kt.agh.edu.pl/metrics.html" class="in-cell-link" rel="noopener" target="_blank">No-Reference Video Quality Indicators</a> (various dates)—RCA<a href="http://vq.kt.agh.edu.pl/metrics.html" class="in-cell-link" rel="noopener" target="_blank"></a>
+
+These No-Reference Video Quality Indicators (VQIs) were developed by Video Quality AGH team (VQ AGH). Executable form is freely and openly available for download through the http://vq.kt.agh.edu.pl/metrics.html website. Source code available upon request (only for a research purposes).
+
+- <a href="https://www.itu.int/pub/T-TUT-OPAVQ-2019-PSNTR" rel="noopener" target="_blank">PSTR-PXNR</a> (2019)—video MOS
+- <a href="https://github.com/cd-athena/VCA" rel="noopener" target="_blank">VQA</a>—open source video complexity analyzer
+
+The following full reference (FR) metrics may be helpful for creating simulated training datasets.
+
+- <a href="http://hdrvdp.sourceforge.net/wiki/" rel="noopener" target="_blank">HDR-VDP</a>—a visual metric that compares a pair of images (a reference and a test image)
+- <a href="http://resources.mpi-inf.mpg.de/hdr/metric/" rel="noopener" target="_blank">LPLD</a>—learning to predict localized distortions in rendered images
+- VMAF
+
+**Development Tools\**
+----------------------
+
+- <a href="https://github.com/NTIA/NRMetricFramework" rel="noopener" target="_blank">NRMetricFramework</a>—a software framework to train NR metrics, including subjective datasets suitable for training NR metrics and reports on the performance of various NR metrics
+- <a href="https://vqeg.org/publications/details.aspx?pub=3253" rel="noopener" target="_blank" data-anchor="?pub=3253">Confidence Intervals for Metrics</a>—describe the NR metric's performance as a certain number of people in an ad-hoc assessment; code provided in the NRMetricFramework
+
+**Datasets\**
+-------------
+
+See the "documentation" folder of <a href="https://github.com/NTIA/NRMetricFramework" rel="noopener" target="_blank">NRMetricFramework</a> for more information on most of these datasets, including references and download location. 
+
+- <a href="http://resources.mpi-inf.mpg.de/hdr/iqm-evaluation/" rel="noopener" target="_blank"></a>AGH-NTIA-Dolby
+- <a href="http://resources.mpi-inf.mpg.de/hdr/iqm-evaluation/" rel="noopener" target="_blank">Artifacts in synthetic (computer generated) images</a> (local distortion detectability)
+- Blurred image database with ground truths (<a href="http://www02.smt.ufrj.br/~eduardo/ImageDatabase.htm" rel="noopener" target="_blank">BID</a>)
+- <a href="https://vqeg.org/publications/details.aspx?pub=2820" rel="noopener" target="_blank" data-anchor="?pub=2820">CCRIQ</a> (videos and ratings on the <a href="https://www.cdvl.org/" rel="noopener" target="_blank">Consumer Digital Video Library</a>: search for key word "ccriq")
+- <a href="http://www.helsinki.fi/~tiovirta/Resources/CID2013/" rel="noopener" target="_blank">CID2013 Camera Image Database</a> (click <a href="https://www.youtube.com/watch?v=2KT0XUQSX0Q" rel="noopener" target="_blank">here</a> for the author's video presentation)
+- <a href="http://www.helsinki.fi/psychology/groups/visualcognition/" rel="noopener" target="_blank">CVD2014 Camera Video Database</a>
+- "<a href="https://vqeg.org/publications/3194.aspx" id="ContentPlaceHolderDefault_Main_ctl03_VideoQualityPubs_5_repMenu_PanelReport_0_hlPubTitle_0">ITS4S: A Video Quality Dataset with Four-Second Unrepeated Scenes</a>" (videos and ratings on the <a href="https://www.cdvl.org/" rel="noopener" target="_blank">Consumer Digital Video Library</a>: search for key word "its4s")
+- "<a href="https://vqeg.org/publications/3219.aspx" id="ContentPlaceHolderDefault_Main_ctl03_VideoQualityPubs_5_repMenu_PanelReport_1_hlPubTitle_1">ITS4S2: An Image Quality Dataset With Unrepeated Images From Consumer Cameras</a>"
+- "<a href="https://vqeg.org/publications/3220.aspx" id="ContentPlaceHolderDefault_Main_ctl03_VideoQualityPubs_5_repMenu_PanelReport_0_hlPubTitle_0">ITS4S3: A Video Quality Dataset With Unrepeated Videos, Camera Impairments, and Public Safety Scenarios</a>"
+- "<a href="https://vqeg.org/publications/3233.aspx" id="ContentPlaceHolderDefault_Main_ctl03_VideoQualityPubs_5_repMenu_PanelReport_4_hlPubTitle_4">ITS4S4: A Video Quality Study of Camera Pans</a>"
+- <a href="http://database.mmsp-kn.de/iqa-experts-300.html" rel="noopener" target="_blank">IQA-Experts-3000</a> Visual Quality Database
+- <a href="http://database.mmsp-kn.de/kadid-10k-database.html" rel="noopener" target="_blank">KADID-10k</a> Image Database
+- <a href="http://database.mmsp-kn.de/konpatch-30k-database.html" rel="noopener" target="_blank">KonPatch-30k</a> Image Database
+- <a href="http://database.mmsp-kn.de/konvid-1k-database.html" rel="noopener" target="_blank">KonViD-1K</a> Video Database
+- <a href="http://database.mmsp-kn.de/koniq-10k-database.html" rel="noopener" target="_blank">KonIQ-10K</a> Image Database
+- <a href="http://live.ece.utexas.edu/research/ChallengeDB/index.html" rel="noopener" target="_blank">LIVE Public-Domain Subjective In the Wild Image Quality Challenge Database</a>  
+- <a href="http://www.ene.unb.br/mylene/databases.html" rel="noopener" target="_blank"></a>NORM metric's <a href="http://resources.mpi-inf.mpg.de/hdr/norm/user_study.html" rel="noopener" target="_blank">user study dataset</a> (local distortion detectability)
+- <a href="https://ieee-dataport.org/documents/videoset" rel="noopener" target="_blank">USC JVC Just Noticeable Difference</a> (JND)
+- <a href="http://www.ene.unb.br/mylene/databases.html" rel="noopener" target="_blank">VARIUM</a>
+
+# Industry design specifications
+
+**Professionally Produced Entertainment Use Cases**
+
+- Video On Demand (VoD) Services
+  - Description: A studio produces a high quality movie and provides it to a VoD service provider. The perceptual quality of the video is assumed to be very high, but there could be production, transcoding, file format or transmission errors. A no-reference method to “watch” the movie and detect any impairments through “visual” inspection can save operational costs at the VoD service provider.
+  - Goal: Provide frame specific quality & artifact scores.
+  - Assumptions: The expectation of quality is very high. The metric should ignore impairments stemming from the production, aesthetics, and artistic intent. The metric should only detect artifacts that result from the transmission or file errors.
+  - Datasets: Professionally produced content. And the same content with visual artifacts injected from transmission errors.
+
+
+  - Description: A VoD service provider provider needs to measure the perceived video quality of a service after processing/transcoding to compliment the full-reference degradation measurements achieved with methods like VMAF.  
+  - Goal: Provide overall perceptual quality to meet their quality minimums prior to publishing the content on a CDN.
+  - Assumptions:  The expectation of quality is determined by the user’s expectation of a professional service offered in SD/DVD, HD, or UHD quality on a TV, tablet, or smartphone. Content will be encoded at various bitrates & resolutions and then decoded & scaled by the device.  
+  - Datasets: Professionally produced content encoded for a streaming VoD service.
+
+
+  - Description: A VoD service provider or network service provider needs to measure the perceived video quality of a service on a device to determine if it meets their quality goal and if not, what the visual impairments are and the possible root cause of the impairments. Could also be used for benchmarking service, device benchmarking, etc.
+  - Goal: Provide time bound quality scores, artifact scores, and root cause.
+  - Assumptions: The expectation of quality is determined by the user’s expectation of a professional service offered in SD/DVD, HD, or UHD quality on a TV, tablet, or smartphone. Content will be encoded at various bitrates & resolutions, transmitted over the Internet, received/buffered/rate adjusted, decoded & scaled by the device.
+  -  Datasets: Professionally produced content encoded for a streaming VoD service.
+  - Root Cause: Encoding artifacts, buffering in the client, representation changes.
+
+
+  - Content Contribution (e.g. validation of a very high quality file)
+  - Service Quality (e.g. validation after processing/transcoding)
+  - End User Quality (e.g. validation of quality as displayed to the user)
+- Broadcast/Live Services
+  - Description: A professional broadcast studio produces a high quality news or sporting event and provides it as a live service (broadcast). Studio production is typically high quality, however, outdoor events like sports will have higher variability in quality due to weather, lighting, and available transmission bandwidth to send the video to the production studio. In some cases the video will be pristine (Olympics) and in some cases the same as user generated content (remote news crews). Hence, there are capture issues as well as encoding and transmission.
+  - Goal: Provide frame specific quality & artifact scores.
+  - Service Quality (e.g. validation after processing/transcoding).
+
+
+  - Description: A VoD service provider or network service provider needs to measure the perceived video quality of a service on a device to determine if it meets their quality goal and if not, what the visual impairments are and the possible root cause of the impairments. Could also be used for benchmarking service, device benchmarking, etc.
+  - Goal: Provide time bound quality scores, artifact scores, and root cause.
+  - Assumptions: The expectation of quality is determined by the user’s expectation of a professional service offered in SD/DVD, HD, or UHD quality on a TV, tablet, or smartphone. Content will be encoded at various bitrates & resolutions and then decoded & scaled by the device.
+  - Datasets: Professionally produced content encoded for a streaming VoD service.
+  - Root Cause: Encoding artifacts, buffering in the client, representation changes.
+
+
+  - Content Contribution (e.g. validation of a live stream (maybe different types))
+  - End User Quality (e.g. validation of quality as displayed to the user)
+
+** User Generated Content Use Cases**
+
+- Social Media Live Content
+  - Content Capture (e.g. device quality (camera, encode, transmission))
+  - Service (e.g. real-time service encode and distribution)
+  - End User Quality (e.g. validation of quality as displayed to the user)
+- Social Media On Demand Content
+  - Content Capture (e.g. device quality (camera, encode, transmission))
+  - Service (e.g. service encode and distribution)
+  - End User Quality (e.g. validation of quality as displayed to the user)
+- Video Chat
+  - Content Capture (e.g. device quality (camera, encode, transmission))
+  - End User Quality (e.g. validation of quality as displayed to the user)
+
+**Industrial and Application Specific Use Cases**
+
+- Camera capture
+  - Description: Understand the quality impact of the entire pipeline (sensor, image processing, encode, decode and display). Optimize the recording bandwidth.
+- Digital surveillance (e.g., automotive , LIDAR camera to steer)
+- First Responder Video (e.g. fire, police, security, SAR, etc.)
+  - End User Quality (e.g. validation of quality as displayed to the user)
+  - AI Quality (e.g. ability of an AI system to recognize objects in the video)
+- Medical
+  - End User Quality (e.g. validation of quality as displayed to the user)
+- Artificial Intelligence (AI) Systems (e.g. video not intended for human viewing, like autonomous vehicle systems or video analytics)
+  - AI Quality (e.g. ability of an AI system to recognize objects in the video)
+- Network optimization
+  - Description: Allow different types of networks (5G, wireless, etc.) to understand the quality of video streams. For example, priority access in a limited wireless bandwidth situation is needed to optimize live video streams that provide situational awareness (e.g., a managed network of first responder cameras providing real-time video feeds to assist the decision making process and coordinate practitioner response).
+- Sensors (e.g., video used by device for automated response)
+- Immersive environment, including virtual reality, augmented reality, 360 degree video, and free point video.
+  - Description: Includes feedback, latency, functionality, and telepresence (perceive you are in another place).
+- KPI between network exchange contract (what quality I deliver, what quality I receive from vendor); ensure contract based on quality (service level agreement)
+
+## **Acceptable Constraints—Where Do We Start?**
+
+- Specify the task (e.g., entertainment, understand events, recognize people)
+- Specify amateur vs professional production
+- Specify user expectations (e.g., bit-rate range for this application, what does “good” mean in this context)
+- Quality as viewed right now (e.g., ignore potential value of zooming into a 40 MP image, ignore quality changes over time, aka the recency effect)
+
+**Additional Design Specifications for NR Metrics\**
+
+- Open source usage rights
+- One metric for both images and video.
+- Able to predict the quality of content directly from the camera.
+  - We need to characterize (but perhaps ignore) the real world subject, camera operator actions, lens, sensor, image processing, aesthetics, etc.
+- Extrapolate “what if”
+  - Predicted impact of changes to bit-rate, resolution, frame rate, etc.
+- Root cause analysis
+  - Why is the quality bad?
+- Measure immediate quality response
+  - Short observation window
+  - Add long observation window model later
+- Real-time implementation (compute problem)
+- Degrades gracefully
+  - Doesn’t just fail on unexpected conditions; no division by zero
+  - Can become less accurate but does not produce random results
+- Warns user when moving outside of intended usage
+- Computes confidence in ratings
+  - Accuracy level, confidence interval
+  - Help users trust and understand values
+- Distortion flexibility
+  - Works on different types of impairments
+  - Focus on type of artifacts that are appropriate for the current task / application
+- Non-static, multi-faceted model that can be trained on new applications
+- No hard coded constants
+- User expectations change; the NR metric can change with them
+- Produces both engineering values and experience values
+- Scalable
+  - No requirement for a specific frame size, resolution, frame rate, etc.
+  - Scalability of complexity; can scale down the implementation; may trade off performance and decoupled factors
+  - Computationally scalable
+- Easily explained to naïve users
+- Robust response to new content
+- Self-learning
+  - Implementation may collect historical data and pass it to a self-learning feedback loop. Users could optionally contribute to the pool of knowledge.

@@ -1,0 +1,165 @@
+---
+import Layout from '~/layouts/Layout.astro';
+import VqegFooter from '~/components/vqeg/VqegFooter.astro';
+import VqegHeader from '~/components/vqeg/VqegHeader.astro';
+
+interface Props {
+  title?: string;
+  description?: string;
+}
+
+const { title, description } = Astro.props;
+const metadata = { title, description };
+---
+
+<Layout metadata={metadata}>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&display=swap" rel="stylesheet" />
+  <VqegHeader />
+  <main>
+    <slot />
+  </main>
+  <VqegFooter />
+</Layout>
+
+<style is:global>
+  :root {
+    --vqeg-blue: #003366;
+    --vqeg-blue-dark: #001d3a;
+    --vqeg-red: #d63e04;
+  }
+  .text-vqeg-blue {
+    color: var(--vqeg-blue);
+  }
+  .bg-vqeg-blue {
+    background-color: var(--vqeg-blue);
+  }
+  .bg-vqeg-blue-dark {
+    background-color: var(--vqeg-blue-dark);
+  }
+  .bg-vqeg-red {
+    background-color: var(--vqeg-red);
+  }
+  .border-vqeg-blue {
+    border-color: var(--vqeg-blue);
+  }
+  .border-vqeg-blue\/10 {
+    border-color: rgb(0 51 102 / 0.1);
+  }
+  .border-vqeg-blue\/15 {
+    border-color: rgb(0 51 102 / 0.15);
+  }
+  .vqeg-content h1,
+  .vqeg-content h2,
+  .vqeg-content h3 {
+    color: var(--vqeg-blue);
+    font-weight: 700;
+  }
+  .vqeg-content h1 {
+    margin-bottom: 2.5rem;
+    font-size: clamp(2rem, 5vw, 3rem);
+    line-height: 1.15;
+  }
+  .vqeg-content h2 {
+    margin-top: 2.75rem;
+    margin-bottom: 1.25rem;
+    border-bottom: 3px solid var(--vqeg-red);
+    padding-bottom: 0.5rem;
+    font-size: 1.5rem;
+  }
+  .vqeg-content h3 {
+    margin-top: 2rem;
+    font-size: 1.2rem;
+  }
+  .vqeg-content p,
+  .vqeg-content li {
+    font-size: 1.0625rem;
+    line-height: 1.8;
+  }
+  .vqeg-content p {
+    margin: 1rem 0;
+  }
+  .vqeg-content ul,
+  .vqeg-content ol {
+    margin: 1rem 0;
+    padding-left: 1.25rem;
+  }
+  .vqeg-content ul {
+    list-style: disc;
+  }
+  .vqeg-content ol {
+    list-style: decimal;
+  }
+  .vqeg-content a,
+  footer a {
+    color: var(--vqeg-blue);
+    text-decoration: underline;
+    text-underline-offset: 0.2em;
+  }
+  footer a {
+    color: white;
+  }
+  .vqeg-content a:hover,
+  footer a:hover {
+    color: var(--vqeg-red);
+  }
+  .vqeg-content img {
+    margin: 1.75rem auto;
+    max-height: 32rem;
+    border-radius: 0.25rem;
+  }
+  .vqeg-content details.vqeg-archive-accordion {
+    margin: 0.75rem 0;
+    border: 1px solid #dbe3eb;
+    border-radius: 0.25rem;
+    background: #fff;
+  }
+  .vqeg-content details.vqeg-archive-accordion > summary {
+    display: flex;
+    cursor: pointer;
+    align-items: center;
+    justify-content: space-between;
+    gap: 1rem;
+    padding: 0.85rem 1rem;
+    color: var(--vqeg-blue);
+    font-weight: 700;
+    list-style: none;
+  }
+  .vqeg-content details.vqeg-archive-accordion > summary::-webkit-details-marker {
+    display: none;
+  }
+  .vqeg-content details.vqeg-archive-accordion > summary::after {
+    content: '+';
+    color: var(--vqeg-red);
+    font-size: 1.5rem;
+    font-weight: 400;
+    line-height: 1;
+  }
+  .vqeg-content details.vqeg-archive-accordion[open] > summary {
+    border-bottom: 1px solid #dbe3eb;
+  }
+  .vqeg-content details.vqeg-archive-accordion[open] > summary::after {
+    content: '−';
+  }
+  .vqeg-content details.vqeg-archive-accordion > ul,
+  .vqeg-content details.vqeg-archive-accordion > ol {
+    margin: 0.75rem 1rem 1rem;
+  }
+  .vqeg-content table {
+    display: block;
+    overflow-x: auto;
+    margin: 1.5rem 0;
+    border-collapse: collapse;
+  }
+  .vqeg-content th,
+  .vqeg-content td {
+    border: 1px solid #dbe3eb;
+    padding: 0.65rem 0.8rem;
+    text-align: left;
+  }
+  .vqeg-content th {
+    background: #f5f7fa;
+    color: var(--vqeg-blue);
+  }
+</style>

@@ -1,4 +1,4 @@
-dist
-node_modules
-.github
-.changeset
+dist/
+node_modules/
+public/media/
+src/data/page/

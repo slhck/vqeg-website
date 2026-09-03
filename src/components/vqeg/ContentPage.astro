@@ -1,0 +1,12 @@
+---
+interface Props {
+  title: string;
+}
+
+const { title } = Astro.props;
+---
+
+<article class="vqeg-content mx-auto max-w-6xl px-5 py-12">
+  <h1>{title}</h1>
+  <slot />
+</article>

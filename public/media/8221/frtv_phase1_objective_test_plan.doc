@@ -1,0 +1,880 @@
+{\rtf1\ansi \deff5\deflang1033{\fonttbl{\f1\froman\fcharset2\fprq2 Symbol;}{\f5\fswiss\fcharset0\fprq2 Arial;}{\f29\fswiss\fcharset0\fprq2 Arial Narrow;}{\f90\froman\fcharset0\fprq2 CG Times{\*\falt Times New Roman};}
+{\f91\fswiss\fcharset0\fprq0 Tahoma;}{\f92\fnil\fcharset77\fprq2 \'eb?\'92?\'ec\'86v\'a9;}}{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;
+\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;}{\stylesheet{
+\sb136\widctlpar\tx794\tx1191\tx1588\tx1985 \f5\fs22\lang2057 \snext0 Normal;}{\s1\fi-432\li432\sb480\widctlpar\tx432\tx794\tx2127\tx2410\tx2921\tx3261 \b\f5\fs22\lang2057 \sbasedon0\snext0 heading 1;}{
+\s2\fi-576\li576\sb313\widctlpar\tx576\tx794\tx2921\tx3261 \b\f5\fs22\lang2057 \sbasedon0\snext0 heading 2;}{\s3\fi-720\li720\sb181\widctlpar\tx720\tx794\tx2921\tx3261 \b\f5\fs22\lang2057 \sbasedon0\snext0 heading 3;}{
+\s4\fi-864\li864\sb181\widctlpar\tx864\tx1191\tx2921\tx3261 \b\f5\fs22\lang2057 \sbasedon3\snext0 heading 4;}{\s5\fi-1008\li1008\sb181\widctlpar\tx1008\tx1191\tx2921\tx3261 \b\f5\fs22\lang2057 \sbasedon3\snext0 heading 5;}{
+\s6\fi-1152\li1152\sb181\widctlpar\tx1152\tx1191\tx2921\tx3261 \b\f5\fs22\lang2057 \sbasedon3\snext0 heading 6;}{\s7\fi-1296\li1296\sb181\widctlpar\tx1191\tx1296\tx2921\tx3261 \b\f5\fs22\lang2057 \sbasedon3\snext0 heading 7;}{
+\s8\fi-1440\li1440\sb181\widctlpar\tx1191\tx1440\tx2921\tx3261 \b\f5\fs22\lang2057 \sbasedon3\snext0 heading 8;}{\s9\fi-1584\li1584\sb181\widctlpar\tx1191\tx1584\tx2921\tx3261 \b\f5\fs22\lang2057 \sbasedon3\snext0 heading 9;}{\*\cs10 \additive 
+Default Paragraph Font;}{\s15\fi-964\li964\sb136\widctlpar\tx964\tldot\tx8789\tqr\tx9639 \f5\fs22\lang2057 \sbasedon0\snext0 toc 8;}{\s16\fi-964\li964\sb136\widctlpar\tx964\tldot\tx8789\tqr\tx9639 \f5\fs22\lang2057 \sbasedon0\snext0 toc 7;}{
+\s17\fi-964\li964\sb136\widctlpar\tx964\tldot\tx8789\tqr\tx9639 \f5\fs22\lang2057 \sbasedon0\snext0 toc 6;}{\s18\fi-964\li964\sb136\widctlpar\tx964\tldot\tx8789\tqr\tx9639 \f5\fs22\lang2057 \sbasedon0\snext0 toc 5;}{
+\s19\fi-964\li964\sb136\widctlpar\tx964\tx8789\tqr\tx9639 \f5\fs22\lang2057 \sbasedon0\snext0 toc 4;}{\s20\fi-964\li964\sb136\widctlpar\tx964\tldot\tx8789\tqr\tx9639 \f5\fs22\lang2057 \sbasedon0\snext0 toc 3;}{
+\s21\fi-964\li964\sb136\widctlpar\tx964\tldot\tx8789\tqr\tx9639 \f5\fs22\lang2057 \sbasedon0\snext0 toc 2;}{\s22\fi-964\li964\sb240\widctlpar\tx964\tldot\tx8789\tqr\tx9639 \f5\fs22\lang2057 \sbasedon0\snext22 toc 1;}{
+\s23\li1698\sb136\widctlpar\tx794\tx1191\tx1588\tx1985 \f5\fs22\lang2057 \sbasedon0\snext0 index 7;}{\s24\li1415\sb136\widctlpar\tx794\tx1191\tx1588\tx1985 \f5\fs22\lang2057 \sbasedon0\snext0 index 6;}{
+\s25\li1132\sb136\widctlpar\tx794\tx1191\tx1588\tx1985 \f5\fs22\lang2057 \sbasedon0\snext0 index 5;}{\s26\li849\sb136\widctlpar\tx794\tx1191\tx1588\tx1985 \f5\fs22\lang2057 \sbasedon0\snext0 index 4;}{\s27\li566\sb136\widctlpar\tx794\tx1191\tx1588\tx1985 
+\f5\fs22\lang2057 \sbasedon0\snext0 index 3;}{\s28\li283\sb136\widctlpar\tx794\tx1191\tx1588\tx1985 \f5\fs22\lang2057 \sbasedon0\snext0 index 2;}{\s29\sb136\widctlpar\tx794\tx1191\tx1588\tx1985 \f5\fs22\lang2057 \sbasedon0\snext0 index 1;}{\*\cs30 
+\additive\sbasedon10 line number;}{\s31\sb136\widctlpar\tx794\tx1191\tx1588\tx1985 \f5\fs22\lang2057 \sbasedon0\snext29 index heading;}{\s32\widctlpar\tqc\tx4820\tqr\tx9639 \f5\fs16\lang2057 \sbasedon0\snext32 footer;}{\s33\qc\widctlpar \f5\fs20\lang2057 
+\sbasedon0\snext33 header;}{\*\cs34 \additive\fs16\up6 \sbasedon10 footnote reference;}{\s35\fi-256\li256\sb136\keep\widctlpar\tx256\tx794\tx1191\tx1588\tx1985 \f5\fs20\lang2057 \sbasedon0\snext35 footnote text;}{
+\s36\li794\sb136\widctlpar\tx794\tx1191\tx1588\tx1985 \f5\fs22\lang2057 \sbasedon0\snext36 Normal Indent;}{\s37\sb113\widctlpar\tx794\tx1191\tx1588\tx1985 \f5\fs18\lang2057 \sbasedon0\snext37 Table_Legend;}{
+\s38\qc\sa113\widctlpar\tx794\tx1191\tx1588\tx1985 \b\f5\fs22\lang2057 \sbasedon39\snext40 Table_Title;}{\s39\qc\sb567\sa113\widctlpar\tx794\tx1191\tx1588\tx1985 \f5\fs22\lang2057 \sbasedon0\snext38 Table_#;}{\s40\sb142\sa142\widctlpar \f5\fs18\lang2057 
+\sbasedon37\snext40 Table_Text;}{\s41\fi-397\li1191\sb86\widctlpar\tx794\tx1191\tx1588\tx1985 \f5\fs22\lang2057 \sbasedon0\snext41 enumlev1;}{\s42\fi-397\li1588\sb86\widctlpar\tx794\tx1191\tx1588\tx1985 \f5\fs22\lang2057 \sbasedon41\snext42 enumlev2;}{
+\s43\fi-397\li1985\sb86\widctlpar\tx794\tx1191\tx1588\tx1985 \f5\fs22\lang2057 \sbasedon42\snext43 enumlev3;}{\s44\qc\sb240\widctlpar\tx794\tx1191\tx1588\tx1985 \f5\fs22\lang2057 \sbasedon0\snext0 Figure;}{\s45\sb113\widctlpar\tx794\tx1191\tx1588\tx1985 
+\f5\fs18\lang2057 \sbasedon37\snext45 Figure_Legend;}{\s46\qc\sb567\sa113\widctlpar\tx794\tx1191\tx1588\tx1985 \f5\fs22\lang2057 \sbasedon39\snext47 Figure_#;}{\s47\qc\sa720\widctlpar\tx794\tx1191\tx1588\tx1985 \b\f5\fs22\lang2057 \sbasedon38\snext0 
+Figure_Title;}{\s48\qc\sb720\widctlpar\tx794\tx1191\tx1588\tx1985 \f5\fs22\lang2057 \sbasedon0\snext49 Annex_#;}{\s49\qc\sb136\widctlpar\tx794\tx1191\tx1588\tx1985 \f5\fs22\lang2057 \sbasedon0\snext50 Annex_Ref;}{
+\s50\qc\sb240\sa284\widctlpar\tx794\tx1191\tx1588\tx1985 \b\f5\fs22\lang2057 \sbasedon0\snext0 Annex_Title;}{\s51\qc\sb720\widctlpar\tx794\tx1191\tx1588\tx1985 \f5\fs22\lang2057 \sbasedon48\snext52 Appendix_#;}{
+\s52\qc\sb136\widctlpar\tx794\tx1191\tx1588\tx1985 \f5\fs22\lang2057 \sbasedon49\snext53 Appendix_Ref;}{\s53\qc\sb240\sa284\widctlpar\tx794\tx1191\tx1588\tx1985 \b\f5\fs22\lang2057 \sbasedon50\snext0 Appendix_Title;}{
+\s54\sb480\widctlpar\tx794\tx1191\tx1588\tx1985 \b\f5\fs22\lang2057 \sbasedon0\snext55 Ref_Title;}{\s55\fi-794\li794\sb136\widctlpar\tx794\tx1191\tx1588\tx1985 \f5\fs22\lang2057 \sbasedon0\snext55 Ref_Text;}{
+\s56\sb136\widctlpar\tx794\tqc\tx4820\tqr\tx9696 \f5\fs22\lang2057 \sbasedon0\snext0 Equation;}{\s57\widctlpar\tx6663 \f5\fs22\lang2057 \sbasedon0\snext57 Head;}{\s58\qc\sb240\widctlpar\tx794\tx1191\tx1588\tx1985 \b\f5\fs22\lang2057 \sbasedon0\snext1 
+Rec Title;}{\s59\sb313\widctlpar\tx432\tx794\tx2127\tx2410\tx2921\tx3261 \f5\fs22\lang2057 \sbasedon1\snext0 Normal after title;}{\s60\sb153\widctlpar\tx794\tx1191\tx1588\tx1985 \b\f5\fs22\lang2057 \sbasedon0\snext0 call;}{
+\s61\sb720\widctlpar\tx794\tx1191\tx1588\tx1985 \b\f5\fs22\lang2057 \sbasedon0\snext58 Rec_#;}{\s62\sb136\widctlpar\tqr\tx9866 \f5\fs22\ulw\lang2057 \sbasedon0\snext22 toc 0;}{\s63\fi-260\li260\ri-800\widctlpar \f90 \sbasedon0\snext63 bullet items;}{
+\s64\fi-1191\li1191\widctlpar\tx1191 \f5\fs22\lang2057 \sbasedon0\snext64 Infodoc;}{\s65\fi-1701\li1701\sb199\widctlpar\tx1276\tx1701 \f5\fs22\lang2057 \sbasedon0\snext65 Part;}{\s66\li794\sb136\widctlpar\tx5954\tqr\tx9639 \f5\fs22\lang2057 
+\sbasedon0\snext66 Address;}{\s67\fi-2268\li2268\sb199\widctlpar\tx794\tx1985\tx2268 \f5\fs22\lang2057 \sbasedon0\snext67 Qlist;}{\s68\qc\sb720\sa240\widctlpar \f5\fs22\ul\lang2057 \sbasedon0\snext0 Title 0;}{\s69\sa567\widctlpar\tx6663\tx7371 
+\f5\fs22\lang2057 \sbasedon57\snext57 meeting;}{\s70\li720\sa120\nowidctlpar \f5\fs22 \sbasedon0\snext70 Body Text;}{\s71\widctlpar \f92\fs20 \sbasedon0\snext71 ITU D-COM;}{\s72\sb480\widctlpar \f92\fs72\lang1031 \sbasedon0\snext72 MainTitle;}{
+\s73\sb120\sa120\widctlpar \b\f5\fs20 \sbasedon0\snext0 caption;}{\s74\qj\widctlpar\tqc\tx4820\tqr\tx9639 \f5\fs18\lang2057 \sbasedon32\snext74 Special Footer;}{\*\cs75 \additive\ul\cf2 \sbasedon10 Hyperlink;}{
+\s76\sb136\widctlpar\tx794\tx1191\tx1588\tx1985 \cbpat9 \f91\fs22\lang2057 \sbasedon0\snext76 Document Map;}}{\info{\title UIT - Secteur de la normalisation des t\'e9l\'e9communications}{\author Beerends}{\operator Beerends}
+{\creatim\yr1998\mo2\dy11\hr10\min3}{\revtim\yr1998\mo7\dy1\hr20\min12}{\printim\yr1998\mo7\dy1\hr20\min10}{\version2}{\edmins2}{\nofpages15}{\nofwords4400}{\nofchars25085}{\*\company ITU}{\vern57443}}
+\paperw11907\paperh16834\margl1089\margr1089\margt1134 \widowctrl\ftnbj\aenddoc\noextrasprl\prcolbl\cvmme\sprsspbf\brkfrm\swpbdr\hyphcaps0 \fet0{\*\ftnsep \pard\plain \sb136\widctlpar\tx794\tx1191\tx1588\tx1985 \f5\fs22\lang2057 ____________________
+
+\par }\sectd \binfsxn1\binsxn1\linex0\headery567\footery567\colsx709\endnhere\titlepg {\header \pard\plain \s33\qc\widctlpar \f5\fs20\lang2057 - {\field{\*\fldinst PAGE}{\fldrslt {\lang1024 7}}} -
+\par }{\footer \pard\plain \s32\widctlpar\tqc\tx4820\tqr\tx9639 \f5\fs16\lang2057 {\fs18 COM12\\D\\053rev5.DOC\tab }{\field{\*\fldinst {\fs18 savedate \\@ dd.MM.yy}}{\fldrslt {\fs18\lang1024 26.06.98}}}{\fs18 \tab }{\field{\*\fldinst {\fs18 printdate \\
+@ dd.MM.yy}}{\fldrslt {\fs18\lang1024 01.07.98}}}
+\par }{\footerf \pard\plain \sb136\widctlpar\brdrb\brdrs\brdrw15\brsp20 \brdrbtw\brdrs\brdrw15\brsp20 \tx1702 \f5\fs22\lang2057 
+\par {\pntext\tab}\pard\plain \s35\keep\widctlpar\tx256\tx794\tx1191\tx1588\tx1985{\*\pn \pnlvlcont\pnb0\pni0\pnf1\pnfs20\pnstart1\pnindent283\pnhang{\pntxtb \'b7}}\f5\fs20\lang2057 Contact Persons:\tab Mr. John G. Beerends \tab \tab Tel: \tab +3170 3325644
+
+\par \pard \s35\fi720\li720\keep\widctlpar\tx256\tx794\tx1191\tx1588\tx1985 \tab \tab \tab \tab \tab \tab \tab Fax: \tab +3170 3326477
+\par \pard \s35\fi-256\li3600\keep\widctlpar\tx256\tx794\tx1191\tx1588\tx1985 \tab \tab \tab E-mail:\tab j.g.beerends@research.kpn.com
+\par 
+\par \pard \s35\fi-256\li256\keep\widctlpar\tx256\tx794\tx1191\tx1588\tx1985 \tab \tab \tab \tab \tab Mr. Mihir Ravel\tab \tab \tab Tel:\tab +1 503-627-2768
+\par \tab \tab \tab \tab \tab \tab \tab \tab \tab \tab Fax: \tab +1 503-627-5177
+\par \tab \tab \tab \tab \tab \tab \tab \tab \tab \tab E-mail: \tab mihir.ravel@tek.com
+\par \pard\plain \s32\widctlpar\tx2160\tqc\tx4820\tx5760\tx6480\tqr\tx9639 \f5\fs16\lang2057 {\fs18 
+\par }\pard\plain \s74\qj\widctlpar\box\brdrs\brdrw15\brsp20 \tqc\tx4820\tqr\tx9639 \f5\fs18\lang2057 {\b Attention:} This is not an ITU publication made available to the public, but {\b an internal ITU Document}
+ intended only for use by the Member States of the ITU and by its Sector Members and their respective staff and collaborators in their ITU related work. It shall not be made available to, and used by, any other persons or entities without the prior writte
+n consent of the ITU.
+\par \pard\plain \s32\widctlpar\tqc\tx4820\tqr\tx9639 \f5\fs16\lang2057 {\fs18 COM12\\D\\053rev2.DOC\tab }{\field{\*\fldinst {\fs18 savedate \\@ dd.MM.yy}}{\fldrslt {\fs18\lang1024 26.06.98}}}{\fs18 \tab }{\field{\*\fldinst {\fs18 printdate \\@ dd.MM.yy}
+}{\fldrslt {\fs18\lang1024 01.07.98}}}{\fs18 
+\par }}{\*\pnseclvl1\pnucrm\pnstart1\pnindent720\pnhang{\pntxta .}}{\*\pnseclvl2\pnucltr\pnstart1\pnindent720\pnhang{\pntxta .}}{\*\pnseclvl3\pndec\pnstart1\pnindent720\pnhang{\pntxta .}}{\*\pnseclvl4\pnlcltr\pnstart1\pnindent720\pnhang{\pntxta )}}
+{\*\pnseclvl5\pndec\pnstart1\pnindent720\pnhang{\pntxtb (}{\pntxta )}}{\*\pnseclvl6\pnlcltr\pnstart1\pnindent720\pnhang{\pntxtb (}{\pntxta )}}{\*\pnseclvl7\pnlcrm\pnstart1\pnindent720\pnhang{\pntxtb (}{\pntxta )}}{\*\pnseclvl8
+\pnlcltr\pnstart1\pnindent720\pnhang{\pntxtb (}{\pntxta )}}{\*\pnseclvl9\pnlcrm\pnstart1\pnindent720\pnhang{\pntxtb (}{\pntxta )}}\pard\plain \sb136\widctlpar\tx794\tx1191\tx1588\tx1985 \f5\fs22\lang2057 {\b UIT - Secteur de la normalisation des t\'e9l
+\'e9communications
+\par }\pard \widctlpar\tx794\tx1191\tx1588\tx1985 {\b ITU - Telecommunication Standardization Sector
+\par UIT - Sector de Normalizaci\'f3n de las Telecomunicaciones
+\par }\pard \sb136\widctlpar\tx794\tx1191\tx1588\tx1985 
+\par \pard \sb136\widctlpar\tx794\tx1191\tx1588\tx1985\tx5104 {\field\flddirty{\*\fldinst eq \\b\\rc\\\}(\\a\\al(Commission d'\'e9tudes  ;Study Group;Comisi\'f3n de Estudio))}{\fldrslt }}  {\fs28 {\*\bkmkstart dsgno}{\*\bkmkend dsgno}12}\tab 
+{\field\flddirty{\*\fldinst eq \\b\\rc\\\}(\\a\\al(Contribution tardive;Delayed Contribution  ;Contribuci\'f3n tard\'eda))}{\fldrslt }}  {\b\fs28 {\*\bkmkstart dcontno}{\*\bkmkend dcontno}D.053 rev5}
+\par Gaithersburg, 27-29 May 1998
+\par \pard \sb136\widctlpar\tx5104 \tab {\field\flddirty{\*\fldinst eq \\b\\rc\\\}(\\a\\al(Texte disponible seulement en  ;Text available only in;Texto disponible solamente en))}{\fldrslt }}  {\b\fs28 {\*\bkmkstart dlang}{\*\bkmkend dlang}E
+\par }\pard \sb136\widctlpar\tx794\tx1191\tx1588\tx1985 {\lang1036 Questions: 10/12, 11/12
+\par 
+\par }\pard\plain \s64\fi-1191\li1191\widctlpar\tx1191 \f5\fs22\lang2057 SOURCE:\tab Co-chair objective testgroup, John Beerends KPN Research
+\par 
+\par TITLE:\tab Evaluation of new methods for objective testing of video quality: objective test plan revised
+\par 
+\par \pard \s64\qc\fi-1191\li1191\widctlpar\tx1191 {\b Abstract
+\par }\pard\plain \sb136\widctlpar\tx794\tx1191\tx1588\tx1985 \f5\fs22\lang2057 
+This contribution presents an objective test plan that has been drafted by members of the VQEG (Video Quality Experts Group) ad hoc committee for the objective test plan. This test plan was offered to the participating ITU Study Groups (ITU-T Study Groups
+ 9 and 12 and ITU-R Study Group 11) for further review and comment. It was further modified during the 
+second VQEG meeting (Gaithersburg USA May 1998), taking into account their comments. The objective test plan will be used to evaluate video quality in the bit rate range of 768 kbit/s to 50 Mbit/s. In conjunction with the subjective test plan, it will be 
+used to evaluate several proposed methods for objectively assessing video quality by measuring the correlation between subjective and objective assessments. It is expected that parts of this test plan will be included in new Draft Recommendations in the a
+rea of video quality, probably as an Annex.
+\par 
+\par \pard \qc\sb136\widctlpar\tx794\tx1191\tx1588\tx1985 {\b\fs28 
+\par \page 
+\par VQEG OBJECTIVE VIDEO QUALITY MODEL TEST PLAN
+\par }\pard \sb136\widctlpar\tx794\tx1191\tx1588\tx1985 {\fs24 
+\par }\pard\plain \s22\fi-964\li964\sb240\widctlpar\tx964\tldot\tx8789\tqr\tx9639 \f5\fs22\lang2057 {\field\fldedit{\*\fldinst {\caps\fs24  TOC \\o "1-3" }}{\fldrslt {\lang1024 1 Introduction\tab }{\field{\*\fldinst {\lang1024  GOTOBUTTON _Toc423269665  }
+{\field{\*\fldinst {\lang1024  PAGEREF _Toc423269665 }}{\fldrslt {\lang1024 3}}}}}{\lang1024 
+\par 2 Data formats and processing\tab }{\field{\*\fldinst {\lang1024  GOTOBUTTON _Toc423269666  }{\field{\*\fldinst {\lang1024  PAGEREF _Toc423269666 }}{\fldrslt {\lang1024 4}}}}}{\lang1024 
+\par }\pard\plain \s21\fi-964\li964\sb136\widctlpar\tx964\tldot\tx8789\tqr\tx9639 \f5\fs22\lang2057 {\lang1024 2.1 Video data format, general\tab }{\field{\*\fldinst {\lang1024  GOTOBUTTON _Toc423269667  }{\field{\*\fldinst {\lang1024  PAGEREF _Toc423269667 }
+}{\fldrslt {\lang1024 4}}}}}{\lang1024 
+\par 2.2 Model input and output data format\tab }{\field{\*\fldinst {\lang1024  GOTOBUTTON _Toc423269668  }{\field{\*\fldinst {\lang1024  PAGEREF _Toc423269668 }}{\fldrslt {\lang1024 4}}}}}{\lang1024 
+\par 2.3 Test sequence normalization\tab }{\field{\*\fldinst {\lang1024  GOTOBUTTON _Toc423269669  }{\field{\*\fldinst {\lang1024  PAGEREF _Toc423269669 }}{\fldrslt {\lang1024 5}}}}}{\lang1024 
+\par 2.4 Test sequence objective analysis\tab }{\field{\*\fldinst {\lang1024  GOTOBUTTON _Toc423269670  }{\field{\*\fldinst {\lang1024  PAGEREF _Toc423269670 }}{\fldrslt {\lang1024 6}}}}}{\lang1024 
+\par 2.5 Data format, specifics\tab }{\field{\*\fldinst {\lang1024  GOTOBUTTON _Toc423269671  }{\field{\*\fldinst {\lang1024  PAGEREF _Toc423269671 }}{\fldrslt {\lang1024 6}}}}}{\lang1024 
+\par }\pard\plain \s22\fi-964\li964\sb240\widctlpar\tx964\tldot\tx8789\tqr\tx9639 \f5\fs22\lang2057 {\lang1024 3 Testing procedures and schedule\tab }{\field{\*\fldinst {\lang1024  GOTOBUTTON _Toc423269672  }{\field{\*\fldinst {\lang1024 
+ PAGEREF _Toc423269672 }}{\fldrslt {\lang1024 7}}}}}{\lang1024 
+\par }\pard\plain \s21\fi-964\li964\sb136\widctlpar\tx964\tldot\tx8789\tqr\tx9639 \f5\fs22\lang2057 {\lang1024 3.1 Submission of intent before June 22 1998\tab }{\field{\*\fldinst {\lang1024  GOTOBUTTON _Toc423269673  }{\field{\*\fldinst {\lang1024 
+ PAGEREF _Toc423269673 }}{\fldrslt {\lang1024 7}}}}}{\lang1024 
+\par 3.2 Final Submission of executable model before August 7}{\lang1024\super th}{\lang1024  1998\tab }{\field{\*\fldinst {\lang1024  GOTOBUTTON _Toc423269674  }{\field{\*\fldinst {\lang1024  PAGEREF _Toc423269674 }}{\fldrslt {\lang1024 8}}}}}{\lang1024 
+
+\par 3.3 Results analysis\tab }{\field{\*\fldinst {\lang1024  GOTOBUTTON _Toc423269675  }{\field{\*\fldinst {\lang1024  PAGEREF _Toc423269675 }}{\fldrslt {\lang1024 8}}}}}{\lang1024 
+\par }\pard\plain \s22\fi-964\li964\sb240\widctlpar\tx964\tldot\tx8789\tqr\tx9639 \f5\fs22\lang2057 {\lang1024 4 Objective quality model evaluation criteria\tab }{\field{\*\fldinst {\lang1024  GOTOBUTTON _Toc423269676  }{\field{\*\fldinst {\lang1024 
+ PAGEREF _Toc423269676 }}{\fldrslt {\lang1024 8}}}}}{\lang1024 
+\par }\pard\plain \s21\fi-964\li964\sb136\widctlpar\tx964\tldot\tx8789\tqr\tx9639 \f5\fs22\lang2057 {\lang1024 4.1 Introduction to evaluation metrics\tab }{\field{\*\fldinst {\lang1024  GOTOBUTTON _Toc423269677  }{\field{\*\fldinst {\lang1024 
+ PAGEREF _Toc423269677 }}{\fldrslt {\lang1024 8}}}}}{\lang1024 
+\par 4.2 Prediction nonlinearity\tab }{\field{\*\fldinst {\lang1024  GOTOBUTTON _Toc423269678  }{\field{\*\fldinst {\lang1024  PAGEREF _Toc423269678 }}{\fldrslt {\lang1024 9}}}}}{\lang1024 
+\par 4.3 Evaluation metrics\tab }{\field{\*\fldinst {\lang1024  GOTOBUTTON _Toc423269679  }{\field{\*\fldinst {\lang1024  PAGEREF _Toc423269679 }}{\fldrslt {\lang1024 10}}}}}{\lang1024 
+\par 4.4 Generalizability\tab }{\field{\*\fldinst {\lang1024  GOTOBUTTON _Toc423269680  }{\field{\*\fldinst {\lang1024  PAGEREF _Toc423269680 }}{\fldrslt {\lang1024 10}}}}}{\lang1024 
+\par 4.5 Complexity\tab }{\field{\*\fldinst {\lang1024  GOTOBUTTON _Toc423269681  }{\field{\*\fldinst {\lang1024  PAGEREF _Toc423269681 }}{\fldrslt {\lang1024 11}}}}}{\lang1024 
+\par }\pard\plain \s22\fi-964\li964\sb240\widctlpar\tx964\tldot\tx8789\tqr\tx9639 \f5\fs22\lang2057 {\lang1024 5 Recommendation decision\tab }{\field{\*\fldinst {\lang1024  GOTOBUTTON _Toc423269682  }{\field{\*\fldinst {\lang1024  PAGEREF _Toc423269682 }
+}{\fldrslt {\lang1024 11}}}}}{\lang1024 
+\par }\pard\plain \s33\qc\widctlpar \f5\fs20\lang2057 }}\pard\plain \s33\qc\widctlpar \f5\fs20\lang2057 {\caps\fs24 
+\par \page }{\fs24 
+\par }\pard\plain \s1\fi-432\li432\sb480\widctlpar\tx432\tx794\tx2127\tx2410\tx2921\tx3261 \b\f5\fs22\lang2057 {\*\bkmkstart _Toc411186350}{\*\bkmkstart _Toc421104070}{\*\bkmkstart _Toc423269665}1\tab Introduction{\*\bkmkend _Toc411186350}
+{\*\bkmkend _Toc421104070}{\*\bkmkend _Toc423269665}
+\par \pard\plain \sb136\widctlpar\tx794\tx1191\tx1588\tx1985 \f5\fs22\lang2057 This document defines the procedure for evaluating the performance of objective video quality models submitted to the Video Quality Expert Group (VQEG{\cs34\fs16\up6 \chftn 
+{\footnote \pard\plain \s35\fi-256\li256\sb136\keep\widctlpar\tx256\tx794\tx1191\tx1588\tx1985 \f5\fs20\lang2057 {\cs34\fs22\up6 \chftn }{\fs22  Contact: Arthur Webster, +1 303-4973567, E-mail webster@its.bldrdoc.gov}}}
+) formed from experts of ITU-T Study Groups 9 and 12 and ITU-R Study Group 11. It is based on discussions at the 1{\super st}
+  Meeting of VQEG, October 14-16, 1997, Turin, Italy. This test plan was offered to the participating ITU Study Groups (ITU-T Study Groups 9 and 12 and ITU-R Study Group 11) for further review and comment. It was further modified during the 2{\super nd}
+  VQEG meeting, May 27-29,1998, Gaithersburg, USA.
+\par The objective models will be tested using a set of test sequences selected by the VQEG Independents Labs and Selection Committee (ILSC). The test sequences will be processed through a number of hypothetical reference conditions (HRC\rquote 
+s) to be finalized by the ILSC and based on the list of HRC\rquote s proposed at the May 27-29,1998, Gaithersburg, USA.
+\par The quality predictions of the models will be compared with subjective ratings by the viewers of the test sequences as defined by the VQEG Subjective Test Plan. The Subjective Test Plan has two separate but overlapping subjective test experiments to cover
+ the intende
+d bit rate range of 768 kbit/s to 50 Mbit/s, and the model performance will be compared separately with the results from each of the two subjective test experiments. Based on the VQEG evaluation of proposed models, the goal is to recommend method(s) for o
+bjective measurement of digital video quality for bit rates ranging from 768 kbit/s to 50 Mbit/s. The preference is one recommended model, but multiple models are possible. The final list of HRC\rquote s is given in the subjective testplan.
+\par \page 
+\par \pard\plain \s1\fi-432\li432\sb480\widctlpar\tx432\tx794\tx2127\tx2410\tx2921\tx3261 \b\f5\fs22\lang2057 {\*\bkmkstart _Toc411186351}{\*\bkmkstart _Toc421104071}{\*\bkmkstart _Toc423269666}2\tab Data formats and processing{\*\bkmkend _Toc411186351}
+{\*\bkmkend _Toc421104071}{\*\bkmkend _Toc423269666}
+\par \pard\plain \s2\fi-576\li576\sb313\widctlpar\tx576\tx794\tx2921\tx3261 \b\f5\fs22\lang2057 {\*\bkmkstart _Toc411186352}{\*\bkmkstart _Toc421104072}{\*\bkmkstart _Toc423269667}2.1\tab Video data format, general{\*\bkmkend _Toc411186352}
+{\*\bkmkend _Toc421104072}{\*\bkmkend _Toc423269667}
+\par \pard\plain \sb136\widctlpar\tx794\tx1191\tx1588\tx1985 \f5\fs22\lang2057 
+Objective models will take two Rec. 601 digital video sequences as input, referred to as Source and Processed, with the goal of predicting the quality difference between the Source and Processed sequences. The video sequences will be in either 625/50 or 5
+25/60 format. The choice of HRC\rquote s and Processing will assure that the following operations {\ul do not} occur between Source and Processed sequence pairs:
+\par {\pntext\pard\plain\f1\fs22\lang2057 \'b7\tab}\pard \fi-360\li360\sb136\widctlpar\tx794\tx1191\tx1588\tx1985{\*\pn \pnlvlblt\pnf1\pnstart1\pnindent360\pnhang{\pntxtb \'b7}}Visible picture cropping
+\par {\pntext\pard\plain\f1\fs22\lang2057 \'b7\tab}Chroma/luma differential timing
+\par {\pntext\pard\plain\f1\fs22\lang2057 \'b7\tab}Picture jitter
+\par {\pntext\pard\plain\f1\fs22\lang2057 \'b7\tab}Spatial scaling (size change)
+\par \pard \sb136\widctlpar\tx794\tx1191\tx1588\tx1985 
+\par \pard\plain \s2\fi-576\li576\sb313\widctlpar\tx576\tx794\tx2921\tx3261 \b\f5\fs22\lang2057 {\*\bkmkstart _Toc421104073}{\*\bkmkstart _Toc423269668}2.2\tab Model input and output data format{\*\bkmkend _Toc421104073}{\*\bkmkend _Toc423269668}
+\par \pard\plain \sb136\widctlpar\tx794\tx1191\tx1588\tx1985 \f5\fs22\lang2057 The models will be given two ASCII lists of sequences to be processed, one for 525/60 and one for 625/50. {\lang1033 
+These input files are ASCII files, listing pairs of video sequence files to be processed.  Each line of this file has the following format:
+\par \tab <source-file>\tab  <processed-file>
+\par where <source-file> is the name of a source video sequence file and <processed-file> is the name of a processed video sequence file, whose format 
+is specified in section 2.5 of this document. File names may include a path. Source and processed video sequence files must contain the exact sequence pattern specified in section 2.3 and section 2.5. For example, an input file for the 525/60 case might c
+ontain the following:
+\par }{\b\lang1033 /video/src1_525.yuv     /video/src1_hrc2_525.yuv
+\par /video/src1_525.yuv     /video/src1_hrc1_525.yuv
+\par /video/src2_525.yuv     /video/src2_hrc1_525.yuv
+\par /video/src2_525.yuv     /video/src2_hrc2_525.yuv
+\par }From these lists the models are allowed to generate their model setting files from which the model can be ran.
+\par {\lang1033 
+The output file is an ASCII file created by the model program, listing the name of processed sequence and the resulting Video Quality Rating (VQR) of the model. The contents of the output file should be flushed after each sequence is processed, to allow t
+he testing labs the option of halting a processing run at any time. Alternately the models may create an individual output file for each setting file and collect all data into a single 
+output file using a separate collect program. Each line of the ASCII output  file has the following format:
+\par \tab <processed-file>  VQR
+\par Where <processed-file> is the name of the processed sequence run through this model, without any path information; and VQR is the Video Quality Rating produced by the objective model. For the input file example, this file contains the following:
+\par 
+\par }{\b\lang1033 src1_hrc2_525.yuv  0.150
+\par src1_hrc1_525.yuv  1.304
+\par src2_hrc1_525.yuv  0.102
+\par src2_hrc2_525.yuv  2.989
+\par }{\lang1033 
+\par Each proponent is also allowed to output a file containing Model Output Values (MOV\rquote s) which the proponents consider to be important. The format of this file will be
+\par }{\b\lang1033 src1_hrc2_525.yuv  0.150  }{\b MOV}{\b\sub 1}{\b   MOV}{\b\sub 2}{\b ,\'85   MOV}{\b\sub N}{\b\lang1033 
+\par src1_hrc1_525.yuv  1.304 }{\b  MOV}{\b\sub 1}{\b   MOV}{\b\sub 2}{\b ,\'85   MOV}{\b\sub N}{\b\lang1033 
+\par src2_hrc1_525.yuv  0.102}{\b   MOV}{\b\sub 1}{\b   MOV}{\b\sub 2}{\b ,\'85   MOV}{\b\sub N}{\b\lang1033 
+\par src2_hrc2_525.yuv  2.989}{\b   MOV}{\b\sub 1}{\b   MOV}{\b\sub 2}{\b ,\'85   MOV}{\b\sub N}{\b\lang1033 
+\par }
+\par {\lang1033 All video sequences will be displayed in overscan and the non-active video region is defined as:
+\par the top 14 frame lines 
+\par the bottom 14 frame lines 
+\par the left 14 pixels
+\par the right 14 pixels.
+\par Possib
+le small differences between individual monitors are averaged out in the analysis of the subjective data. A sanity check for large deviations from the above non-active region will be carried out by the subjective test labs. If in the normalization a diffe
+rent active region is found and the cropping size is such that it will be visible within the active video region this sequence will not be used. }
+\par \pard \sb136\widctlpar\tx0\tx794\tx1191\tx1588\tx1985 Models will only get one input parameter, the 525/60 versus 625/50 input format, in the form of two separate lists. All other parameters like screen distance (5H), maximum luminance level (70 cd/m{
+\fs15\up11 2}), background luminance,  video format, gamma of the monitor, etc are fixed for the test and thus are not required for the setting files.
+\par \pard\plain \s2\fi-576\li576\sb313\widctlpar\tx576\tx794\tx2921\tx3261 \b\f5\fs22\lang2057 {\b0 {\*\bkmkstart _Toc411186353}{\*\bkmkstart _Toc421104074}
+\par }{\*\bkmkstart _Toc423269669}2.3\tab Test sequence normalization{\*\bkmkend _Toc411186353}{\*\bkmkend _Toc421104074}{\*\bkmkend _Toc423269669}
+\par \pard\plain \sb136\widctlpar\tx794\tx1191\tx1588\tx1985 \f5\fs22\lang2057 {\lang1033 
+As a Source video sequence passes through an HRC, it is possible that the resulting Processed sequence has a number of scaling and alignment differences from the Source sequence. To facilitate a common analysis of various objective quality measurement met
+hods (referred to as models), Tektronix will normalize the Processed sequences to remove the following deterministic differences that may have been introduced by a typical HRC:
+\par {\pntext\pard\plain\f1\fs22\lang2057 \'b7\tab}}\pard \fi-360\li360\sb136\widctlpar\tx794\tx1191\tx1588\tx1985{\*\pn \pnlvlblt\pnf1\pnstart1\pnindent360\pnhang{\pntxtb \'b7}}Global temporal frame shift (aligned to {{\field{\*\fldinst SYMBOL 177 \\f 
+"Symbol" \\s 11}{\fldrslt\f1\fs22}}}0 field error)
+\par {\pntext\pard\plain\f1\fs22\lang2057 \'b7\tab}Global horizontal/vertical spatial image shift (aligned to {{\field{\*\fldinst SYMBOL 177 \\f "Symbol" \\s 11}{\fldrslt\f1\fs22}}}0.1 pixel)
+\par {\pntext\pard\plain\f1\fs22\lang2057 \'b7\tab}Global chroma/luma gain and offset ( accuracy to be defined)
+\par \pard \sb136\widctlpar\tx794\tx1191\tx1588\tx1985{\*\pn \pnlvlcont\pndec }
+The normalized sequences will be used for both subjective and objective ratings. The normalized sequences will be sent on D-1 digital video tape to the Subjective Testing Labs for the DSCQS (Double Stimulus Continuous Quality Scale) rating. The normalized
+ sequences will also be used for analysis by the objective models. The sequences will be available on computer tape for the objective ratings in the following two formats:
+\par {\pntext\pard\plain\b\i\f1\fs22\lang2057 \'b7\tab}\pard \fi-360\li360\sb136\widctlpar\tx360\tx794\tx1191\tx1588\tx1985{\*\pn \pnlvlblt\pnf1\pnstart1\pnindent360\pnhang{\pntxtb \'b7}}
+8 mm Exabyte format (archived in UNIX tar format with a block factor of 1){\b\i 
+\par {\pntext\pard\plain\b\i\f1\fs22\lang2057 \'b7\tab}}4 mm DDS3 format (details to be defined) {\b\i 
+\par }\pard \sb136\widctlpar\tx794\tx1191\tx1588\tx1985 
+The first and last second of the sequences will contain  an alignment pattern to facilitate the normalization operation. The pattern is a coded set of alternating light/dark blocks in the upper half of the image (provided by Tektronix) and will not be inc
+luded in the portion of the sequence shown to subjective assessors. The required normalization will be estimated with a non-confidential set of algorithms (provided by Tektronix) over the first second alignment pattern p
+ortion of the sequence. The normalization from the first second estimate will then be applied uniformly over the length of the sequence on the assumption that the differences needing normalization are invariant over the sequence length. The last second of
+ alignment pattern may be used to determine if the values have remained constant through the length of the sequence. Finally ten frames before the 8 seconds video sequence and ten frames after the 8 seconds video sequence will not be used in both the obje
+ctive and subjective evaluation. A complete sequence {\lang1033 on D-1 tape and Exabyte/DAT will be}:
+\par {\f29\lang1033 AlignmentPattern(1sec)+ VideoNotUsed(10frames)+ }{\b\f29\lang1033 Video(8sec)}{\f29\lang1033 +VideoNotUsed(10 frames)+AlignmentPattern(1 sec)}
+\par The normalization will be done by Tektronix between August 7{\super th}, 1998 and September 11{\super th} when all proponents have submitted and run their models.
+\par \pard\plain \s2\fi-576\li576\sb313\widctlpar\tx576\tx794\tx2921\tx3261 \b\f5\fs22\lang2057 {\*\bkmkstart _Toc411186354}{\*\bkmkstart _Toc421104075}
+\par {\*\bkmkstart _Toc423269670}2.4\tab Test sequence objective analysis{\*\bkmkend _Toc411186354}{\*\bkmkend _Toc421104075}{\*\bkmkend _Toc423269670} 
+\par \pard\plain \sb136\widctlpar\tx794\tx1191\tx1588\tx1985 \f5\fs22\lang2057 Each proponent receives normalized Source and Processed video sequences after September 25{\super th}, 1998. Each proponent analyzes all the 
+video sequences and sends the results to the Independent Labs and Selection Committee (ILSC) before December 11{\super th}, 1998.
+\par The independent lab(s) must have running in their lab the software that was provided by the proponents, see section {\b\i 3.2}
+. To reduce the work load on the independent lab(s), the independent lab(s) will verify a random sequence subset (about 20%) of all video sequences to verify that the software produces the same results as the proponents within an acceptable error of 0.1%.
+ The random 30 se
+quence subset will be selected by the ILSC and kept confidential to the ILSC. If errors greater than 0.1% are found, then the independent lab and proponent lab will work together to analyze intermediate results and attempt to discover sources of errors. I
+f processing and handling  errors are ruled out, then the ILSC will review the final and intermediate results and recommend further action.
+\par The model output will be a single Video Quality Rating (VQR) number calculated over the sequence length (or a subset)
+ not containing the alignment patterns. The VQR is expected to correlate with the Difference between the Source and Processed Mean Opinion Scores (MOS) resulting from the VQEG\rquote s subjective testing experiment. This Difference in subjective MOS
+\rquote s is referred to as DMOS. It is expected that the VQR\rquote s and DMOS\rquote 
+s will be positive in typical situations and increasing values will predict increasingly perceptible differences between Source and Processed sequences. Negative values of both may occur in certain situations and will be allowed.
+\par \pard\plain \s2\fi-576\li576\sb313\widctlpar\tx576\tx794\tx2921\tx3261 \b\f5\fs22\lang2057 {\*\bkmkstart _Toc411186355}{\*\bkmkstart _Toc421104076}
+\par {\*\bkmkstart _Toc423269671}2.5\tab Data format, specifics{\*\bkmkend _Toc411186355}{\*\bkmkend _Toc421104076}{\*\bkmkend _Toc423269671}
+\par \pard\plain \sb136\widctlpar\tx794\tx1191\tx1588\tx1985 \f5\fs22\lang2057 
+The test video sequences will be in ITU Recommendation 601 4:2:2 component video format using an aspect ratio of 4:3. This may be in either 525/60 or 625/50 line formats. The temporal ordering of fields F1 and F2 will be described below with the field con
+taining line 1 of (stored) video referred to as the Top-Field.
+\par {\i\fs24\ul Data storage:
+\par }A LINE: of video consists of 1440 8 bit data fields in the multiplexed order: Cb Y Cr [Y] ... . Hence there are 720 Y's and 360 Cb's and 360 Cr's per line of video.
+\par 
+\par A FRAME: of video consists of 486 active lines for 525/60 Hz material and 576 active lines for 625/50 Hz material. Each frame consists of two interlaced Fields, F1 and F2. The temporal ordering of F1 and F2 can be easily confused due to cropping and so we
+ make it specific as follows:
+\par For 525/60 material: F1--the Top-Field-- (containing line 1 of FILE storage) is temporally LATER (than field F2). F1 and F2 are stored interlaced.
+\par For 625/50 material: F1--the Top-Field-- is temporally EARLIER than F2.
+\par The Frame SIZE:
+\par  for 525/60 is: 699840 bytes/frame,
+\par  for 625/50 is: 829440 bytes/frame.
+\par 
+\par A FILE: is a contiguous byte stream composed of a sequences of frames as described in section 2.3 above. {\lang1033 These files will thus have a total byte count of
+\par for 525/60:  320 frames = 223948800 bytes/sequence,
+\par for 625/50:  270 frames = 223948800 bytes/sequence
+\par }
+\par Multiplex structure:  Cb Y Cr [Y] ...  1440 bytes/line
+\par 720  Y's/line
+\par 360 Cb's/line
+\par 360 Cr's/line
+\par 
+\par TABLE 2: Format summary
+\par \trowd \trgaph108\trleft-108\trbrdrt\brdrs\brdrw15\brdrcf1 \trbrdrl\brdrs\brdrw15\brdrcf1 \trbrdrb\brdrs\brdrw15\brdrcf1 \trbrdrr\brdrs\brdrw15\brdrcf1 \trbrdrh\brdrs\brdrw15\brdrcf1 \trbrdrv\brdrs\brdrw15\brdrcf1 \clbrdrt\brdrs\brdrw15\brdrcf1 \clbrdrl
+\brdrs\brdrw15\brdrcf1 \clbrdrb\brdrs\brdrw15\brdrcf1 \clbrdrr\brdrs\brdrw15\brdrcf1 \cellx1985\clbrdrt\brdrs\brdrw15\brdrcf1 \clbrdrl\brdrs\brdrw15\brdrcf1 \clbrdrb\brdrs\brdrw15\brdrcf1 \clbrdrr\brdrs\brdrw15\brdrcf1 \cellx5367\clbrdrt
+\brdrs\brdrw15\brdrcf1 \clbrdrl\brdrs\brdrw15\brdrcf1 \clbrdrb\brdrs\brdrw15\brdrcf1 \clbrdrr\brdrs\brdrw15\brdrcf1 \cellx8749 \pard \qc\sb136\widctlpar\intbl\tx794\tx1191\tx1588\tx1985 \cell -- 525/60 --\cell -- 625/50 --\cell \pard \widctlpar\intbl 
+\row \trowd \trgaph108\trleft-108\trbrdrt\brdrs\brdrw15\brdrcf1 \trbrdrl\brdrs\brdrw15\brdrcf1 \trbrdrb\brdrs\brdrw15\brdrcf1 \trbrdrr\brdrs\brdrw15\brdrcf1 \trbrdrh\brdrs\brdrw15\brdrcf1 \trbrdrv\brdrs\brdrw15\brdrcf1 \clbrdrt\brdrs\brdrw15\brdrcf1 
+\clbrdrl\brdrs\brdrw15\brdrcf1 \clbrdrb\brdrs\brdrw15\brdrcf1 \clbrdrr\brdrs\brdrw15\brdrcf1 \cellx1985\clbrdrt\brdrs\brdrw15\brdrcf1 \clbrdrl\brdrs\brdrw15\brdrcf1 \clbrdrb\brdrs\brdrw15\brdrcf1 \clbrdrr\brdrs\brdrw15\brdrcf1 \cellx5367\clbrdrt
+\brdrs\brdrw15\brdrcf1 \clbrdrl\brdrs\brdrw15\brdrcf1 \clbrdrb\brdrs\brdrw15\brdrcf1 \clbrdrr\brdrs\brdrw15\brdrcf1 \cellx8749 \pard \qc\sb136\widctlpar\intbl\tx794\tx1191\tx1588\tx1985 active lines\cell 486\cell 576\cell \pard \widctlpar\intbl \row 
+\pard \qc\sb136\widctlpar\intbl\tx794\tx1191\tx1588\tx1985 frame size (bytes)\cell 699840\cell 829440\cell \pard \widctlpar\intbl \row \pard \qc\sb136\widctlpar\intbl\tx794\tx1191\tx1588\tx1985 fields/sec (Hz)\cell 60\cell 50\cell \pard \widctlpar\intbl 
+\row \pard \qc\sb136\widctlpar\intbl\tx794\tx1191\tx1588\tx1985 Top-Field  (F1)\cell LATER\cell EARLIER\cell \pard \widctlpar\intbl \row \trowd \trgaph108\trleft-108\trbrdrt\brdrs\brdrw15\brdrcf1 \trbrdrl\brdrs\brdrw15\brdrcf1 \trbrdrb
+\brdrs\brdrw15\brdrcf1 \trbrdrr\brdrs\brdrw15\brdrcf1 \trbrdrh\brdrs\brdrw15\brdrcf1 \trbrdrv\brdrs\brdrw15\brdrcf1 \clbrdrt\brdrs\brdrw15\brdrcf1 \clbrdrl\brdrs\brdrw15\brdrcf1 \clbrdrb\brdrs\brdrw15\brdrcf1 \clbrdrr\brdrs\brdrw15\brdrcf1 \cellx1985
+\clbrdrt\brdrs\brdrw15\brdrcf1 \clbrdrl\brdrs\brdrw15\brdrcf1 \clbrdrb\brdrs\brdrw15\brdrcf1 \clbrdrr\brdrs\brdrw15\brdrcf1 \cellx5367\clbrdrt\brdrs\brdrw15\brdrcf1 \clbrdrl\brdrs\brdrw15\brdrcf1 \clbrdrb\brdrs\brdrw15\brdrcf1 \clbrdrr
+\brdrs\brdrw15\brdrcf1 \cellx8749 \pard \qc\sb136\widctlpar\intbl\tx794\tx1191\tx1588\tx1985 Seq-length (bytes)\cell {\lang1033 223948800}\cell {\lang1033 223948800}\cell \pard \widctlpar\intbl \row \pard\plain 
+\s1\fi-432\li432\sb480\widctlpar\tx432\tx794\tx2127\tx2410\tx2921\tx3261 \b\f5\fs22\lang2057 {\*\bkmkstart _Toc411186356}{\*\bkmkstart _Toc421104077}
+\par {\*\bkmkstart _Toc423269672}3\tab Testing procedures and schedule{\*\bkmkend _Toc411186356}{\*\bkmkend _Toc421104077}{\*\bkmkend _Toc423269672}
+\par \pard\plain \s2\fi-576\li576\sb313\widctlpar\tx576\tx794\tx2921\tx3261 \b\f5\fs22\lang2057 {\*\bkmkstart _Toc411186357}{\*\bkmkstart _Toc421104078}{\*\bkmkstart _Toc423269673}3.1\tab Submission of intent before June 22 1998{\*\bkmkend _Toc411186357}
+{\*\bkmkend _Toc421104078}{\*\bkmkend _Toc423269673}
+\par \pard\plain \sb136\widctlpar\tx794\tx1191\tx1588\tx1985 \f5\fs22\lang2057 
+The submission procedure is dealt with in separate ITU contributions (e.g., COM 12-30, December 1997). All proponents wishing to propose their objective video quality models for ITU recommendation should submit an intent to participate to the VQEG chair (
+see footnote 2, page 3) by June 22{\super nd,} 1998. The submission should include a written description of the model containing principles and available test results in a fashion that does not violate proponents\rquote  intellectual property rights. 
+
+\par \pard\plain \s2\fi-576\li576\sb313\widctlpar\tx576\tx794\tx2921\tx3261 \b\f5\fs22\lang2057 {\*\bkmkstart _Toc411186358}{\*\bkmkstart _Toc421104079}{\*\bkmkstart _Toc423269674}3.2\tab Final Submission of executable model before August 7{\super th} 1998
+{\*\bkmkend _Toc411186358}{\*\bkmkend _Toc421104079}{\*\bkmkend _Toc423269674}
+\par \pard\plain \sb136\widctlpar\tx794\tx1191\tx1588\tx1985 \f5\fs22\lang2057 
+A set of 4 source and processed video sequence pairs will be used as test vectors. They were made available to all proponents, at the beginning of April 1998, in the final file format to be used in the test. 
+\par Each proponent will send an executable of the model, together with the test vector outputs, by July 22{\super nd}
+ , 1998 to an independent lab(s) selected by the ILSC. The executable version of the model must run correctly on one of the three following computing environments:
+\par {\pntext\pard\plain\f1\fs22\lang2057 \'b7\tab}\pard \fi-360\li360\sb136\widctlpar\tx360\tx794\tx1191\tx1588\tx1985{\*\pn \pnlvlblt\pnf1\pnstart1\pnindent360\pnhang{\pntxtb \'b7}}
+SUN SPARC workstation running the Solaris 2.3 UNIX operating system (SUN OS 5.5). 
+\par {\pntext\pard\plain\f1\fs22\lang2057 \'b7\tab}WINDOWS NT Version 4.0 workstation.
+\par {\pntext\pard\plain\f1\fs22\lang2057 \'b7\tab}SGI workstation running IRIX Version no [to be decided]. 
+\par \pard \sb136\widctlpar\tx794\tx1191\tx1588\tx1985 Alternately, proponents may supply object code working on either the computers of the independent lab(s) or on a computer provided by the proponent. The proponents have untill August 7{\super th}
+ to get their code running.
+\par 
+\par The independent lab will verify that the software produces the same results as the proponent with a maximum error of 0.1%. If greater errors are found,  the independent lab and proponent lab will work together to discover the sources of errors and correct
+ them. If the errors cannot be corrected, then the ILSC will review the result{\*\bkmkstart _Toc411186359}{\*\bkmkstart _Toc421104080}s and recommend further action.
+\par \pard\plain \s2\fi-576\li576\sb313\widctlpar\tx576\tx794\tx2921\tx3261 \b\f5\fs22\lang2057 
+\par {\*\bkmkstart _Toc423269675}3.3\tab Results analysis{\*\bkmkend _Toc411186359}{\*\bkmkend _Toc421104080}{\*\bkmkend _Toc423269675}
+\par \pard\plain \sb136\widctlpar\tx794\tx1191\tx1588\tx1985 \f5\fs22\lang2057 The results as provided by the proponents and verified by the independent lab(s) will be analyzed to derive the evaluation metrics of section {\b 4}
+. These metrics are calculated by each proponent and verified by the ILSC, or they may be calculated completely by the ILSC and verified by the proponents. The results will be reported anonymously to the outside world (proponent a,b,c,..) but identified b
+y proponent to VQEG.
+\par \pard\plain \s1\fi-432\li432\sb480\widctlpar\tx432\tx794\tx2127\tx2410\tx2921\tx3261 \b\f5\fs22\lang2057 {\*\bkmkstart _Toc411186360}
+\par {\*\bkmkstart _Toc423269676}4\tab {\*\bkmkstart _Toc421104081}Objective quality model evaluation criteria{\*\bkmkend _Toc411186360}{\*\bkmkend _Toc421104081}{\*\bkmkend _Toc423269676}
+\par \pard\plain \s2\fi-576\li576\sb313\widctlpar\tx576\tx794\tx2921\tx3261 \b\f5\fs22\lang2057 {\*\bkmkstart _Toc411186361}{\*\bkmkstart _Toc421104082}{\*\bkmkstart _Toc423269677}4.1\tab Introduction to evaluation metrics{\*\bkmkend _Toc411186361}
+{\*\bkmkend _Toc421104082}{\*\bkmkend _Toc423269677}
+\par \pard\plain \sb136\widctlpar\tx794\tx1191\tx1588\tx1985 \f5\fs22\lang2057 
+A number of attributes characterize the performance of an objective video quality model as an estimator of video picture quality in a variety of applications. These attributes are listed in the following sections as:
+\par {\pntext\pard\plain\f1\fs22\lang2057 \'b7\tab}\pard \fi-360\li1080\sb136\widctlpar\tx794\tx1080\tx1191\tx1588\tx1985{\*\pn \pnlvlblt\pnf1\pnstart1\pnindent360\pnhang{\pntxtb \'b7}}Prediction Accuracy
+\par {\pntext\pard\plain\f1\fs22\lang2057 \'b7\tab}Prediction Monotonicity
+\par {\pntext\pard\plain\f1\fs22\lang2057 \'b7\tab}Prediction Consistency
+\par \pard \sb136\widctlpar\tx794\tx1191\tx1588\tx1985 This section lists a set of metrics to measure these attributes. The metrics are derived from the objective model outputs and the results 
+from viewer subjective rating of the test sequences. Both objective and subjective tests will provide a single number (figure of merit) for each Source and Processed sequence pair that correlates with the video quality difference between the Source and Pr
+ocessed sequences. It is presumed that the subjective results include mean ratings and error confidence intervals that take into account differences within the viewer population and differences between multiple subjective testing labs.
+\par 
+\par \pard\plain \s2\fi-576\li576\sb313\widctlpar\tx576\tx794\tx2921\tx3261 \b\f5\fs22\lang2057 {\*\bkmkstart _Toc411186362}{\*\bkmkstart _Toc421104083}{\*\bkmkstart _Toc423269678}4.2\tab Prediction nonlinearity{\*\bkmkend _Toc411186362}
+{\*\bkmkend _Toc421104083}{\*\bkmkend _Toc423269678}
+\par \pard\plain \sb136\widctlpar\tx794\tx1191\tx1588\tx1985 \f5\fs22\lang2057 The outputs by the objective video quality model (the VQR\rquote s) should be correlated with the viewer DMOS\rquote 
+s in a predictable and repeatable fashion. The relationship between predicted VQR and DMOS need not be linear as subjective testing can have nonlinear q
+uality rating compression at the extremes of the test range. It is not the linearity of the relationship that is critical, but the stability of the relationship and a data set\rquote 
+s error-variance from the relationship that determine predictive usefulne
+ss. To remove any nonlinearities due to the subjective rating process (see Figure 1.) and to facilitate comparison of the models in a common analysis space, the relationship between each model\rquote 
+s predictions and the subjective ratings will be estimated using a nonlinear regression between the model\rquote s set of VQR\rquote s and the corresponding DMOS\rquote s.
+\par {\fs24 
+\par }\pard \qc\sb136\widctlpar\tx794\tx1191\tx1588\tx1985 {\fs20 {\pict\wmetafile8\picw7620\pich5080\picwgoal4320\pichgoal2880 \box\brdrs\brdrw15 \picscalex89\picscaley90 
+010009000003f90300000600e200000000001400000026060f001e00ffffffff040014000000576f72640e004d6963726f736f667420576f7264050000000b0200000000050000000c02580284030d000000fb02000000000000000000000000000000000001000c040000002d010000040000000201010015000000fb02d6
+ff0000000000009001000000000400001254696d6573204e657720526f6d616e003400040000002d010100050000000902000000000400000002010100040000000201010007000000fc020100000000000000040000002d01020009000000fa02050003000000000000002200040000002d01030009000000fa0200000300
+0000000000002200040000002d010400e200000025036f002d003a02290036023500360248003302570033025b002f026d002c027d002c027d002902890023029000230290002002930020029f001a02b2001602b8001302bf001302bf001002c2001002c8000d02cb000a02d1000702d8000702de000102ea00fa010301f4
+010a01ee011001eb011601e4011c01e1012f01de015501b9016101b2016401af016a01ac017a019d017a0199017d019901a9016e01ac016701bf016101c5015b01cb015801ce015501d2014e01d8014b01de014501de014201e1014201e7013c01eb013501f7012901fd0126010002200107021c010a021601100210011302
+1001190203012c02f1002f02ea003202ea003902e4003c02de004802d1004b02d1004b02ce005802c2005802bf005b02bc006102b8006402b2006b02af00870293008a0293008d028d0090028a0093028a009302860096028600a6027700ac027400b3026d00b6026d00bc026700bf026700bf026400c2026400c8026100cc
+026100d2025b00d5025b00db025800de025800e1025400e5025400eb025100f1025100f4024e00fa024e0001034b0007034b000d0348001a03480020034500290345003c0342004203420045033f0058033f0058033b0009000000fa02000000000000000000002200040000002d01050004000000f001030004000000f001
+040007000000fc020000ffffff000000040000002d01030004000000020101000400000002010100040000002d01020009000000fa02000004000000000000002200040000002d0104000700000018043b026a001c024b00040000002d01050004000000f0010400040000002d010300040000000201010004000000020101
+00040000002d01020009000000fa02000004000000000000002200040000002d010400070000001804e1011e01c201ff00040000002d01050004000000f0010400040000002d01030004000000020101000400000002010100040000002d01020009000000fa02000004000000000000002200040000002d01040007000000
+18043b02e2001c02c300040000002d01050004000000f0010400040000002d01030004000000020101000400000002010100040000002d01020009000000fa02000004000000000000002200040000002d010400070000001804e1017801c2015901040000002d01050004000000f0010400040000002d0103000400000002
+0101000400000002010100040000002d01020009000000fa02000004000000000000002200040000002d0104000700000018043d0058031e003903040000002d01050004000000f0010400040000002d01030004000000020101000400000002010100040000002d01020009000000fa020000040000000000000022000400
+00002d0104000700000018047900fe025a00df02040000002d01050004000000f0010400040000002d01030004000000020101000400000002010100040000002d01020009000000fa02000004000000000000002200040000002d0104000700000018047900a4025a008502040000002d01050004000000f0010400040000
+002d01030004000000020101000400000002010100040000002d01020009000000fa02000004000000000000002200040000002d0104000700000018042d010e020e01ef01040000002d01050004000000f0010400040000002d01030004000000020101000400000002010100040000002d01020009000000fa0200000400
+0000000000002200040000002d0104000700000018048701960168017701040000002d01050004000000f0010400040000002d01030004000000020101000400000002010100040000002d01020009000000fa02000004000000000000002200040000002d010400070000001804d3004a02b4002b02040000002d01050004
+000000f0010400040000002d01030004000000020101000400000002010100040000002d01020009000000fa02000004000000000000002200040000002d010400070000001b040f01a600d2000f00040000002d01050004000000f0010400040000002d0103000400000002010100030000001e0007000000160408019f00
+d80015000400000002010100040000002d01010011000000320ada001500040004000000000084035802444d4f531e0025001e0017000400000002010100040000002701ffff0400000002010100040000002d01020009000000fa02000004000000000000002200040000002d010400070000001b04590286021c020d0204
+0000002d01050004000000f0010400040000002d0103000400000002010100030000001e0007000000160452027f02220213020400000002010100040000002d01010010000000320a24021302030004000000000084035802565152001e001e001b000400000002010100040000002701ffff040000002d01000003000000
+00000000000000000000000000000000000000}}{\fs24 
+\par 
+\par }\pard\plain \s47\qc\sa720\widctlpar\tx794\tx1191\tx1588\tx1985 \b\f5\fs22\lang2057 Figure 1.  Example Relationship between VQR and DMOS
+\par \pard\plain \sb136\widctlpar\tx794\tx1191\tx1588\tx1985 \f5\fs22\lang2057 The nonlinear regression will be fitted to the [VQR,DMOS] data set and be restricted to be monotonic over the range of VQR\rquote 
+s. The functional form of the nonlinear regression is not critical except that it be monotonic, reasonably general, and have a minimum number of free parameters to avoid overfitting of the data. As the nature of the nonlinearities are not well 
+known beforehand, several functional forms will be regressed for each model and the one with the best fit (in a least squares sense) will be used for that model. 
+\par The functional forms to be regressed are listed below. Each regression will be with the constraint that the function is monotonic on the full interval of quality values:
+\par \pard\plain \s57\widctlpar \f5\fs22\lang2057 {\b\i\lang1033 
+\par }\pard\plain \s4\fi-864\li864\widctlpar\tx864\tx1191\tx2921\tx3261 \b\f5\fs22\lang2057 {\b0 4.2.1.1\tab (1) The  4-parameter cubic polynomial 
+\par }\pard\plain \sb136\widctlpar\tx794\tx1191\tx1588\tx1985 \f5\fs22\lang2057       DMOS{\sub p}(VQR) = A0 + A1*(VQR ) + A2*(VQR)^2+  A3*(VQR)^3 
+\par       fitted to the data [VQR,DMOS].
+\par (2) The same polynomial form as in (1) applied to the "inverse data" [DMOS, VQR].
+\par (3) The 5-parameter logistic curve:
+\par         DMOS{\sub p}(VQR) = A0 + (A1-A0)/(1 + ( (X+A5)/A3)^A4 )
+\par         fitted to the data [VQR,DMOS].
+\par The chosen nonlinear regression function will be used to transform the set of VQR values to a set of  predicted MOS values, DMOS{\sub p}(VQR), which will then be compared with the actual DMOS values from the subjective tests. 
+\par Besides carrying out an analysis on the mean one can do the same analysis on the individual Opinion Scores (OS), leading to individual Differential Opinion Scores (DOS). This has the advantage of taking into account the variations between subjects. For ob
+jective models there is no variance and thus OS{\sub p}= MOS{\sub p }and DOS{\sub p}=DMOS{\sub p}.
+\par \pard\plain \s2\fi-576\li576\sb313\widctlpar\tx576\tx794\tx2921\tx3261 \b\f5\fs22\lang2057 {\*\bkmkstart _Toc411186363}{\*\bkmkstart _Toc421104084}
+\par {\*\bkmkstart _Toc423269679}4.3\tab Evaluation metrics{\*\bkmkend _Toc411186363}{\*\bkmkend _Toc421104084}{\*\bkmkend _Toc423269679}
+\par \pard\plain \sb136\widctlpar\tx794\tx1191\tx1588\tx1985 \f5\fs22\lang2057 This section lists the evaluation metrics to be calculated on the subjective and objective data. Once the nonlinear transformation of section {\b 4.2}
+ has been applied, the objective model\rquote s prediction performance is then evaluated by computing various metrics on the actual sets of subjectively measured  DMOS and the predicted DMOS{\sub p}
+. The set of differences between measured and predicted DMOS is defined as the quality-error set Qerror[]:
+\par \tab Qerror[i] = DMOS[i] \endash  DMOS{\sub p}[i] 
+\par where the index \lquote I\rquote  refers to an individual processed video sequence.
+\par {\i\ul Metrics relating to Prediction Accuracy of a model}{\ul 
+\par }\pard\plain \s57\widctlpar \f5\fs22\lang2057 {\lang1033 
+\par }\pard\plain \sb136\widctlpar\tx794\tx1191\tx1588\tx1985 \f5\fs22\lang2057 {\b Metric1:} \tab The  Pearson linear correlation coefficient between DOS{\sub p}  and DOS, including a test of significance of the difference.
+\par {\b Metric2:} \tab The  Pearson linear correlation coefficient between DMOS{\sub p}  and DMOS.
+\par {\i\ul Metrics relating to Prediction Monotonicity of a model}{\ul 
+\par }{\b Metric3}: \tab Spearman rank order correlation coefficient between DMOS{\sub p}  and DMOS.
+\par A pair-wise comparison of pairs of HRC\rquote 
+s on a scene by scene basis has also been proposed for examining the correlation between subjective preferences and objective preferences, and merits further investigation by the VQEG for inclusion in these tests.
+\par {\b 
+\par }\pard\plain \s57\widctlpar \f5\fs22\lang2057 {\i\ul Metrics relating to Prediction Consistency of a model}{\ul 
+\par }
+\par {\b Metric4}: \tab Outlier Ratio of  \ldblquote outlier-points\rdblquote  to total points N. 
+\par 
+\par \tab \tab  Outlier Ratio = (total number of outliers)/N
+\par \tab \tab 
+\par \pard\plain \sb136\widctlpar\tx794\tx1191\tx1588\tx1985 \f5\fs22\lang2057 where an outlier is a point for which:  ABS[ Qerror[i] ] > 2*DMOSStandardError[i]. 
+\par \pard\plain \s57\widctlpar \f5\fs22\lang2057 
+\par \pard\plain \sb136\widctlpar\tx794\tx1191\tx1588\tx1985 \f5\fs22\lang2057 Twice the DMOS Standard Error is used as the threshold for defining an outlier point. 
+\par \pard\plain \s57\widctlpar \f5\fs22\lang2057 
+\par {\lang1033 
+\par }\pard\plain \s2\fi-576\li576\sb313\widctlpar\tx576\tx794\tx2921\tx3261 \b\f5\fs22\lang2057 {\*\bkmkstart _Toc411186364}{\*\bkmkstart _Toc421104085}{\*\bkmkstart _Toc423269680}4.4\tab Generalizability{\*\bkmkend _Toc411186364}{\*\bkmkend _Toc421104085}
+{\*\bkmkend _Toc423269680}
+\par \pard\plain \sb136\widctlpar\tx794\tx1191\tx1588\tx1985 \f5\fs22\lang2057 
+Generalizability is the ability of a model to perform reliably over a very broad set of video content. This is obviously a critical selection factor given the very wide variety of content found in real applications. There is no specific metric that is spe
+cific to generalizability so this objective testing procedure requires the selection of as broad a set of representative test sequences as is possible. The test sequences and specific HRC\rquote s will be selected by the experts of the VQEG\rquote 
+s Independent Labs and Selection Committee (ILSC) and should ensure broad coverage of typical content (spatial detail, motion complexity, color, etc.) and typical video 
+processing conditions. The breadth of the test set will determine how well the generalizability of the models is tested. At least 20 different scenes are recommended as a minimum set of test sequences. It is suggested that some quantitative measures (e.g.
+, criticality, spatial and temporal energy) are used in the selection of the test sequences to verify the diversity of the test set.
+\par 
+\par \pard\plain \s2\fi-576\li576\sb313\widctlpar\tx576\tx794\tx2921\tx3261 \b\f5\fs22\lang2057 {\*\bkmkstart _Toc411186365}{\*\bkmkstart _Toc421104086}{\*\bkmkstart _Toc423269681}4.5\tab Complexity{\*\bkmkend _Toc411186365}{\*\bkmkend _Toc421104086}
+{\*\bkmkend _Toc423269681}
+\par \pard\plain \sb136\widctlpar\tx794\tx1191\tx1588\tx1985 \f5\fs22\lang2057 {\lang1033 
+The performance of a model as measured by the above Metrics #1-7 will be used as the primary basis for model recommendation. If several models are similar in performance, then the VQEG may choose to take model complexity into account in formulating their 
+recommendations if the intended application has a requirement for minimum complexity. The VQEG will define the complexity criteria if and when required. 
+\par }\pard\plain \s1\fi-432\li432\sb480\widctlpar\tx432\tx794\tx2127\tx2410\tx2921\tx3261 \b\f5\fs22\lang2057 {\*\bkmkstart _Toc411186366}{\*\bkmkstart _Toc421104087}
+\par {\*\bkmkstart _Toc423269682}5\tab Recommendation decision{\*\bkmkend _Toc411186366}{\*\bkmkend _Toc421104087}{\*\bkmkend _Toc423269682}
+\par \pard\plain \sb136\widctlpar\tx794\tx1191\tx1588\tx1985 \f5\fs22\lang2057 
+The VQEG will recommend methods of objective video quality assessment based on the primary evaluation metrics defined in section 4.3 The final decision(s) on ITU Recommendations will be made by the Study Groups involved: ITU-T SG 12, ITU-T SG\~
+9, and ITU-R SG\~11.
+\par It is expected that an important measure of model acceptability, and the strength of the recommendation, will be the relative comparison of model rating errors compared to rating
+ errors between different groups of subjective viewers. The selection procedure will require subjective rating cross-correlation data from the DSCQS experiments to estimate individual and population rating variances. This may require both duplication of s
+equences across different subjective testing labs and duplication of sequences within any one  subjective test experiment. 
+\par If  the metrics of section 4.3 are insufficient for developing a recommendation, then model complexity may be used as a further crite
+rion for evaluation. The preference is one recommended model, but multiple models are possible. If the VQEG judges that a significantly improved recommended model can be developed from some combination of the proposed objective quality models, then this a
+ctivity falls outside the scope of this plan and the VQEG may charter a follow-on task to address this activity.{\b\kerning28 
+\par }\pard\plain \s48\qc\sb720\widctlpar\tx794\tx1191\tx1588\tx1985 \f5\fs22\lang2057 \page Annex 1
+\par \pard\plain \s50\qc\sb240\sa284\widctlpar\tx794\tx1191\tx1588\tx1985 \b\f5\fs22\lang2057 Objective Video Quality Model Attributes
+\par \pard\plain \sb136\widctlpar\tx794\tx1191\tx1588\tx1985 \f5\fs22\lang2057 Section {\b 4} presents several important attributes, and supporting metrics, that relate to an objective quality model\rquote s ability to predict a viewer\rquote 
+s rating of the difference between two video sequences. This annex provides further background on the nature of these a
+ttributes, and serves as a guide to the selection of metrics appropriate for measuring each attribute. The discussion is in terms of the relation between the subjective DMOS data and the model\rquote s transformed DMOS{\sub p}
+ data. The schematic data and lines are not real, but idealized examples only meant to illustrate the discussion. In the interest of clarity, only a few points are used to illustrate the relationship between objective DMOS{\sub p}
+ and subjective DMOS, and error bars on the subjective DMOS data are left out. 
+\par {\i\fs24\ul Attribute1: Prediction Accuracy
+\par }This attribute is simply the ability of the model to predict the viewers\rquote  DMOS ratings with a minimum error \ldblquote on average\rdblquote . The model in Figure 2 is seen to have a lower average error between DMOS{\sub p}
+ and DMOS than the model in Figure 3, and has therefore greater prediction accuracy.
+\par {\fs24 
+\par }\pard \qc\sb136\widctlpar\tx794\tx1191\tx1588\tx1985 {\fs20 {\pict\wmetafile8\picw7620\pich5080\picwgoal4320\pichgoal2880 \box\brdrs\brdrw15 \picscalex85 
+0100090000039511000007001800000000001400000026060f001e00ffffffff040014000000576f72640e004d6963726f736f667420576f7264050000000b0200000000050000000c02580284030d000000fb02000000000000000000000000000000000001000c040000002d010000040000000201010015000000fb02d6
+ff0000000000009001000000000440001054696d6573204e657720526f6d616e005000040000002d01010005000000090200000000040000000201010007000000fc020100000000000000040000002d01020009000000fa02000004000000000000022200040000002d0103000700000018041d028800fe01690007000000
+fc020000ffffff000000040000002d01040009000000fa02000000000000000000002200040000002d01050004000000f0010300040000002d01020009000000fa02000004000000000000022200040000002d010300070000001804e1011e01c201ff00040000002d010400040000002d01050004000000f0010300040000
+002d01020009000000fa02000004000000000000022200040000002d0103000700000018043b02e2001c02c300040000002d010400040000002d01050004000000f0010300040000002d01020009000000fa02000004000000000000022200040000002d010300070000001804c3019601a4017701040000002d0104000400
+00002d01050004000000f0010300040000002d01020009000000fa02000004000000000000022200040000002d0103000700000018043d0058031e003903040000002d010400040000002d01050004000000f0010300040000002d01020009000000fa02000004000000000000022200040000002d01030007000000180479
+00fe025a00df02040000002d010400040000002d01050004000000f0010300040000002d01020009000000fa02000004000000000000022200040000002d010300070000001804f100e002d200c102040000002d010400040000002d01050004000000f0010300040000002d01020009000000fa0200000400000000000002
+2200040000002d0103000700000018048701f0016801d101040000002d010400040000002d01050004000000f0010300040000002d01020009000000fa02000004000000000000022200040000002d0103000700000018044b01b4012c019501040000002d010400040000002d01050004000000f0010300040000002d0102
+0009000000fa02000004000000000000022200040000002d010300070000001804d3008602b4006702040000002d010400040000002d01050004000000f0010300040000002d01020009000000fa02000004000000000000022200040000002d010300070000001b040f01a600d2000f00040000002d010400040000002d01
+050004000000f0010300030000001e000700000016040901a100d80015000400000002010100050000001402da001500040000002e01010011000000320ada001500040004000000000084035802444d4f531e0025001e001700040000002e010000050000001402000000000400000002010100040000002701ffff040000
+002d01020009000000fa02000004000000000000022200040000002d010300070000001b0459021c031c026702040000002d010400040000002d01050004000000f0010300030000001e000700000016045302170322026d020400000002010100040000002d0101000500000009020000000005000000140224026d020400
+00002e01010013000000320a24026d02050004000000000084035802444d4f5370001e0025001e0017001500040000002e010000050000001402987fb0a20400000002010100040000002701ffff040000002d01020009000000fa02000004000000000000022200040000002d0103000700000018042d010e020e01ef0104
+0000002d010400040000002d01050004000000f00103001000000026060f001600ffffffff0000850000001c000000780300003d02000009000000fa02050000000000ffffff002200040000002d01030007000000fc020000000000000000040000002d01060004000000060102001800000024030a008700390286003a02
+86003a0287003b0288003c0288003b0289003a028900390288003802870038021800000024030a008b0035028a0036028a0037028b0038028c0038028c0038028d0037028d0036028c0035028b0035021800000024030a00900031028f0032028f003302900034029100340291003402920033029200320291003102900031
+021800000024030a0095002e0294002f02940030029500310296003102960031029700300297002f0296002e0295002e021800000024030a009a002a0299002b0299002c029a002d029b002d029b002d029c002c029c002b029b002a029a002a021800000024030a009f0027029e0028029e0029029f002a02a0002a02a000
+2a02a1002902a1002802a00027029f0027021800000024030a00a4002302a3002402a3002502a4002602a5002602a5002602a6002502a6002402a5002302a40023021800000024030a00a9002002a8002102a8002202a9002302aa002302aa002302ab002202ab002102aa002002a90020021800000024030a00ad001c02ac
+001d02ac001e02ad001f02ae001f02ae001f02af001e02af001d02ae001c02ad001c021800000024030a00b2001902b1001a02b1001b02b2001c02b3001c02b3001c02b4001b02b4001a02b3001902b20019021800000024030a00b7001502b6001602b6001702b7001802b8001802b8001802b9001702b9001602b8001502
+b70015021800000024030a00bc001202bb001302bb001402bc001502bd001502bd001502be001402be001302bd001202bc0012021800000024030a00c1000e02c0000f02c0001002c1001102c2001102c2001102c3001002c3000f02c2000e02c1000e021800000024030a00c6000b02c5000c02c5000d02c6000e02c7000e
+02c7000e02c8000d02c8000c02c7000b02c6000b021800000024030a00cb000702ca000802ca000902cb000a02cc000a02cc000a02cd000902cd000802cc000702cb0007021800000024030a00d0000402cf000502cf000602d0000702d1000702d1000702d2000602d2000502d1000402d00004021800000024030a00d400
+0002d3000102d3000202d4000302d5000302d5000302d6000202d6000102d5000002d40000021800000024030a00d900fd01d800fe01d800ff01d9000002da000002da000002db00ff01db00fe01da00fd01d900fd011800000024030a00de00f901dd00fa01dd00fb01de00fc01df00fc01df00fc01e000fb01e000fa01df
+00f901de00f9011800000024030a00e300f601e200f701e200f801e300f901e400f901e400f901e500f801e500f701e400f601e300f6011800000024030a00e800f201e700f301e700f401e800f501e900f501e900f501ea00f401ea00f301e900f201e800f2011800000024030a00ed00ef01ec00f001ec00f101ed00f201
+ee00f201ee00f201ef00f101ef00f001ee00ef01ed00ef011800000024030a00f200eb01f100ec01f100ed01f200ee01f300ee01f300ee01f400ed01f400ec01f300eb01f200eb011800000024030a00f600e801f500e901f500ea01f600eb01f700eb01f700eb01f800ea01f800e901f700e801f600e8011800000024030a
+00fb00e401fa00e501fa00e601fb00e701fc00e701fc00e701fd00e601fd00e501fc00e401fb00e4011800000024030a000001e101ff00e201ff00e3010001e4010101e4010101e4010201e3010201e2010101e1010001e1011800000024030a000501dd010401de010401df010501e0010601e0010601e0010701df010701
+de010601dd010501dd011800000024030a000a01da010901db010901dc010a01dd010b01dd010b01dd010c01dc010c01db010b01da010a01da011800000024030a000f01d6010e01d7010e01d8010f01d9011001d9011001d9011101d8011101d7011001d6010f01d6011800000024030a001401d3011301d4011301d50114
+01d6011501d6011501d6011601d5011601d4011501d3011401d3011800000024030a001901cf011801d0011801d1011901d2011a01d2011a01d2011b01d1011b01d0011a01cf011901cf011800000024030a001d01cc011c01cd011c01ce011d01cf011e01cf011e01cf011f01ce011f01cd011e01cc011d01cc0118000000
+24030a002201c8012101c9012101ca012201cb012301cb012301cb012401ca012401c9012301c8012201c8011800000024030a002701c5012601c6012601c7012701c8012801c8012801c8012901c7012901c6012801c5012701c5011800000024030a002c01c1012b01c2012b01c3012c01c4012d01c4012d01c4012e01c3
+012e01c2012d01c1012c01c1011800000024030a003101be013001bf013001c0013101c1013201c1013201c1013301c0013301bf013201be013101be011800000024030a003601ba013501bb013501bc013601bd013701bd013701bd013801bc013801bb013701ba013601ba011800000024030a003b01b7013a01b8013a01
+b9013b01ba013c01ba013c01ba013d01b9013d01b8013c01b7013b01b7011800000024030a004001b3013f01b4013f01b5014001b6014101b6014101b6014201b5014201b4014101b3014001b3011800000024030a004401b0014301b1014301b2014401b3014501b3014501b3014601b2014601b1014501b0014401b00118
+00000024030a004901ac014801ad014801ae014901af014a01af014a01af014b01ae014b01ad014a01ac014901ac011800000024030a004e01a9014d01aa014d01ab014e01ac014f01ac014f01ac015001ab015001aa014f01a9014e01a9011800000024030a005301a5015201a6015201a7015301a8015401a8015401a801
+5501a7015501a6015401a5015301a5011800000024030a005801a2015701a3015701a4015801a5015901a5015901a5015a01a4015a01a3015901a2015801a2011800000024030a005d019e015c019f015c01a0015d01a1015e01a1015e01a1015f01a0015f019f015e019e015d019e011800000024030a0062019b0161019c
+0161019d0162019e0163019e0163019e0164019d0164019c0163019b0162019b011800000024030a0066019701650198016501990166019a0167019a0167019a01680199016801980167019701660197011800000024030a006b0194016a0195016a0196016b0197016c0197016c0197016d0196016d0195016c0194016b01
+94011800000024030a00700190016f0191016f019201700193017101930171019301720192017201910171019001700190011800000024030a0075018d0174018e0174018f0175019001760190017601900177018f0177018e0176018d0175018d011800000024030a007a01890179018a0179018b017a018c017b018c017b
+018c017c018b017c018a017b0189017a0189011800000024030a007f0186017e0187017e0188017f01890180018901800189018101880181018701800186017f0186011800000024030a00840182018301830183018401840185018501850185018501860184018601830185018201840182011800000024030a0089017f01
+8801800188018101890182018a0182018a0182018b0181018b0180018a017f0189017f011800000024030a008d017b018c017c018c017d018d017e018e017e018e017e018f017d018f017c018e017b018d017b011800000024030a00920178019101790191017a0192017b0193017b0193017b0194017a0194017901930178
+01920178011800000024030a00970174019601750196017601970177019801770198017701990176019901750198017401970174011800000024030a009c0171019b0172019b0173019c0174019d0174019d0174019e0173019e0172019d0171019c0171011800000024030a00a1016d01a0016e01a0016f01a1017001a201
+7001a2017001a3016f01a3016e01a2016d01a1016d011800000024030a00a6016a01a5016b01a5016c01a6016d01a7016d01a7016d01a8016c01a8016b01a7016a01a6016a011800000024030a00ab016601aa016701aa016801ab016901ac016901ac016901ad016801ad016701ac016601ab0166011800000024030a00b0
+016301af016401af016501b0016601b1016601b1016601b2016501b2016401b1016301b00163011800000024030a00b4015f01b3016001b3016101b4016201b5016201b5016201b6016101b6016001b5015f01b4015f011800000024030a00b9015c01b8015d01b8015e01b9015f01ba015f01ba015f01bb015e01bb015d01
+ba015c01b9015c011800000024030a00be015801bd015901bd015a01be015b01bf015b01bf015b01c0015a01c0015901bf015801be0158011800000024030a00c3015501c2015601c2015701c3015801c4015801c4015801c5015701c5015601c4015501c30155011800000024030a00c8015101c7015201c7015301c80154
+01c9015401c9015401ca015301ca015201c9015101c80151011800000024030a00cd014e01cc014f01cc015001cd015101ce015101ce015101cf015001cf014f01ce014e01cd014e011800000024030a00d2014a01d1014b01d1014c01d2014d01d3014d01d3014d01d4014c01d4014b01d3014a01d2014a01180000002403
+0a00d6014701d5014801d5014901d6014a01d7014a01d7014a01d8014901d8014801d7014701d60147011800000024030a00db014301da014401da014501db014601dc014601dc014601dd014501dd014401dc014301db0143011800000024030a00e0014001df014101df014201e0014301e1014301e1014301e2014201e2
+014101e1014001e00140011800000024030a00e5013c01e4013d01e4013e01e5013f01e6013f01e6013f01e7013e01e7013d01e6013c01e5013c011800000024030a00ea013901e9013a01e9013b01ea013c01eb013c01eb013c01ec013b01ec013a01eb013901ea0139011800000024030a00ef013501ee013601ee013701
+ef013801f0013801f0013801f1013701f1013601f0013501ef0135011800000024030a00f4013201f3013301f3013401f4013501f5013501f5013501f6013401f6013301f5013201f40132011800000024030a00f9012e01f8012f01f8013001f9013101fa013101fa013101fb013001fb012f01fa012e01f9012e01180000
+0024030a00fd012b01fc012c01fc012d01fd012e01fe012e01fe012e01ff012d01ff012c01fe012b01fd012b011800000024030a0002022701010228010102290102022a0103022a0103022a01040229010402280103022701020227011800000024030a000702240106022501060226010702270108022701080227010902
+26010902250108022401070224011800000024030a000c0220010b0221010b0222010c0223010d0223010d0223010e0222010e0221010d0220010c0220011800000024030a0011021d0110021e0110021f0111022001120220011202200113021f0113021e0112021d0111021d011800000024030a001602190115021a0115
+021b0116021c0117021c0117021c0118021b0118021a0117021901160219011800000024030a001b0216011a0217011a0218011b0219011c0219011c0219011d0218011d0217011c0216011b0216011800000024030a00200212011f0213011f02140120021501210215012102150122021401220213012102120120021201
+1800000024030a0024020f012302100123021101240212012502120125021201260211012602100125020f0124020f011800000024030a0029020b0128020c0128020d0129020e012a020e012a020e012b020d012b020c012a020b0129020b011800000024030a002e0207012d0208012d0209012e020a012f020a012f020a
+0130020901300208012f0207012e0207011800000024030a00330204013202050132020601330207013402070134020701350206013502050134020401330204011800000024030a003802000137020101370202013802030139020301390203013a0202013a02010139020001380200011800000024030a003d02fd003c02
+fe003c02ff003d0200013e0200013e0200013f02ff003f02fe003e02fd003d02fd001800000024030a004202f9004102fa004102fb004202fc004302fc004302fc004402fb004402fa004302f9004202f9001800000024030a004602f6004502f7004502f8004602f9004702f9004702f9004802f8004802f7004702f60046
+02f6001800000024030a004b02f2004a02f3004a02f4004b02f5004c02f5004c02f5004d02f4004d02f3004c02f2004b02f2001800000024030a005002ef004f02f0004f02f1005002f2005102f2005102f2005202f1005202f0005102ef005002ef001800000024030a005502eb005402ec005402ed005502ee005602ee00
+5602ee005702ed005702ec005602eb005502eb001800000024030a005a02e8005902e9005902ea005a02eb005b02eb005b02eb005c02ea005c02e9005b02e8005a02e8001800000024030a005f02e4005e02e5005e02e6005f02e7006002e7006002e7006102e6006102e5006002e4005f02e4001800000024030a006402e1
+006302e2006302e3006402e4006502e4006502e4006602e3006602e2006502e1006402e1001800000024030a006902dd006802de006802df006902e0006a02e0006a02e0006b02df006b02de006a02dd006902dd001800000024030a006d02da006c02db006c02dc006d02dd006e02dd006e02dd006f02dc006f02db006e02
+da006d02da001800000024030a007202d6007102d7007102d8007202d9007302d9007302d9007402d8007402d7007302d6007202d6001800000024030a007702d3007602d4007602d5007702d6007802d6007802d6007902d5007902d4007802d3007702d3001800000024030a007c02cf007b02d0007b02d1007c02d2007d
+02d2007d02d2007e02d1007e02d0007d02cf007c02cf001800000024030a008102cc008002cd008002ce008102cf008202cf008202cf008302ce008302cd008202cc008102cc001800000024030a008602c8008502c9008502ca008602cb008702cb008702cb008802ca008802c9008702c8008602c8001800000024030a00
+8b02c5008a02c6008a02c7008b02c8008c02c8008c02c8008d02c7008d02c6008c02c5008b02c5001800000024030a009002c1008f02c2008f02c3009002c4009102c4009102c4009202c3009202c2009102c1009002c1001800000024030a009402be009302bf009302c0009402c1009502c1009502c1009602c0009602bf
+009502be009402be001800000024030a009902ba009802bb009802bc009902bd009a02bd009a02bd009b02bc009b02bb009a02ba009902ba001800000024030a009e02b7009d02b8009d02b9009e02ba009f02ba009f02ba00a002b900a002b8009f02b7009e02b7001800000024030a00a302b300a202b400a202b500a302
+b600a402b600a402b600a502b500a502b400a402b300a302b3001800000024030a00a802b000a702b100a702b200a802b300a902b300a902b300aa02b200aa02b100a902b000a802b0001800000024030a00ad02ac00ac02ad00ac02ae00ad02af00ae02af00ae02af00af02ae00af02ad00ae02ac00ad02ac001800000024
+030a00b202a900b102aa00b102ab00b202ac00b302ac00b302ac00b402ab00b402aa00b302a900b202a9001800000024030a00b602a500b502a600b502a700b602a800b702a800b702a800b802a700b802a600b702a500b602a5001800000024030a00bb02a200ba02a300ba02a400bb02a500bc02a500bc02a500bd02a400
+bd02a300bc02a200bb02a2001800000024030a00c0029e00bf029f00bf02a000c002a100c102a100c102a100c202a000c2029f00c1029e00c0029e001800000024030a00c5029b00c4029c00c4029d00c5029e00c6029e00c6029e00c7029d00c7029c00c6029b00c5029b001800000024030a00ca029700c9029800c90299
+00ca029a00cb029a00cb029a00cc029900cc029800cb029700ca0297001800000024030a00cf029400ce029500ce029600cf029700d0029700d0029700d1029600d1029500d0029400cf0294001800000024030a00d4029000d3029100d3029200d4029300d5029300d5029300d6029200d6029100d5029000d40290001800
+000024030a00d9028d00d8028e00d8028f00d9029000da029000da029000db028f00db028e00da028d00d9028d001800000024030a00dd028900dc028a00dc028b00dd028c00de028c00de028c00df028b00df028a00de028900dd0289001800000024030a00e2028600e1028700e1028800e2028900e3028900e3028900e4
+028800e4028700e3028600e20286001800000024030a00e7028200e6028300e6028400e7028500e8028500e8028500e9028400e9028300e8028200e70282001800000024030a00ec027f00eb028000eb028100ec028200ed028200ed028200ee028100ee028000ed027f00ec027f001800000024030a00f1027b00f0027c00
+f0027d00f1027e00f2027e00f2027e00f3027d00f3027c00f2027b00f1027b001800000024030a00f6027800f5027900f5027a00f6027b00f7027b00f7027b00f8027a00f8027900f7027800f60278001800000024030a00fb027400fa027500fa027600fb027700fc027700fc027700fd027600fd027500fc027400fb0274
+001800000024030a00ff027100fe027200fe027300ff0274000003740000037400010373000103720000037100ff0271001800000024030a0004036d0003036e0003036f0004037000050370000503700006036f0006036e0005036d0004036d001800000024030a0009036a0008036b0008036c0009036d000a036d000a03
+6d000b036c000b036b000a036a0009036a001800000024030a000e0366000d0367000d0368000e0369000f0369000f03690010036800100367000f0366000e0366001800000024030a00130363001203640012036500130366001403660014036600150365001503640014036300130363001800000024030a0018035f0017
+036000170361001803620019036200190362001a0361001a03600019035f0018035f001800000024030a001d035c001c035d001c035e001d035f001e035f001e035f001f035e001f035d001e035c001d035c001800000024030a00220358002103590021035a0022035b0023035b0023035b0024035a002403590023035800
+220358001800000024030a00260355002503560025035700260358002703580027035800280357002803560027035500260355001800000024030a002b0351002a0352002a0353002b0354002c0354002c0354002d0353002d0352002c0351002b0351001800000024030a0030034e002f034f002f03500030035100310351
+00310351003203500032034f0031034e0030034e001800000024030a0035034a0034034b0034034c0035034d0036034d0036034d0037034c0037034b0036034a0035034a001800000024030a003a03470039034800390349003a034a003b034a003b034a003c0349003c0348003b0347003a0347001800000024030a003f03
+43003e0344003e0345003f03460040034600400346004103450041034400400343003f0343001800000024030a00440340004303410043034200440343004503430045034300460342004603410045034000440340001800000024030a0049033c0048033d0048033e0049033f004a033f004a033f004b033e004b033d004a
+033c0049033c001800000024030a004d0339004c033a004c033b004d033c004e033c004e033c004f033b004f033a004e0339004d0339001800000024030a00520335005103360051033700520338005303380053033800540337005403360053033500520335001800000024030a0057033200560333005603340057033500
+5803350058033500590334005903330058033200570332001800000024030a005c032e005b032f005b0330005c0331005d0331005d0331005e0330005e032f005d032e005c032e001800000024030a0061032b0060032c0060032d0061032e0062032e0062032e0063032d0063032c0062032b0061032b001800000024030a
+0066032700650328006503290066032a0067032a0067032a00680329006803280067032700660327001800000024030a006b0324006a0325006a0326006b0327006c0327006c0327006d0326006d0325006c0324006b0324001800000024030a006f0320006e0321006e0322006f0323007003230070032300710322007103
+2100700320006f0320001800000024030a0074031d0073031e0073031f0074032000750320007503200076031f0076031e0075031d0074031d000400000006010100040000002d010500040000002d0104000800000026060f000600ffffffff0100040000002d010000030000000000000000000000000000000000000000
+0000}}{\fs24          }{\fs20 {\pict\wmetafile8\picw7620\pich5080\picwgoal4320\pichgoal2880 \box\brdrs\brdrw15 \picscalex86 
+010009000003b110000007001800000000001400000026060f001e00ffffffff040014000000576f72640e004d6963726f736f667420576f7264050000000b0200000000050000000c02580284030d000000fb02000000000000000000000000000000000001000c040000002d010000040000000201010015000000fb02d6
+ff0000000000009001000000000440001054696d6573204e657720526f6d616e005000040000002d01010005000000090200000000040000000201010007000000fc020100000000000000040000002d01020009000000fa02000004000000000000022200040000002d010300070000001804ff016a00e0014b0007000000
+fc020000ffffff000000040000002d01040009000000fa02000000000000000000002200040000002d01050004000000f0010300040000002d01020009000000fa02000004000000000000022200040000002d010300070000001804690100014a01e100040000002d010400040000002d01050004000000f0010300040000
+002d01020009000000fa02000004000000000000022200040000002d0103000700000018045902e2003a02c300040000002d010400040000002d01050004000000f0010300040000002d01020009000000fa02000004000000000000022200040000002d010300070000001804ff017801e0015901040000002d0104000400
+00002d01050004000000f0010300040000002d01020009000000fa02000004000000000000022200040000002d0103000700000018043d0058031e003903040000002d010400040000002d01050004000000f0010300040000002d01020009000000fa02000004000000000000022200040000002d010300070000001804b5
+001c039600fd02040000002d010400040000002d01050004000000f0010300040000002d01020009000000fa02000004000000000000022200040000002d0103000700000018043d00a4021e008502040000002d010400040000002d01050004000000f0010300040000002d01020009000000fa0200000400000000000002
+2200040000002d01030007000000180487010e026801ef01040000002d010400040000002d01050004000000f0010300040000002d01020009000000fa02000004000000000000022200040000002d010300070000001804690196014a017701040000002d010400040000002d01050004000000f0010300040000002d0102
+0009000000fa02000004000000000000022200040000002d010300070000001804b5004a0296002b02040000002d010400040000002d01050004000000f0010300040000002d01020009000000fa02000004000000000000022200040000002d010300070000001b040f01a600d2000f00040000002d010400040000002d01
+050004000000f0010300030000001e000700000016040901a100d80015000400000002010100050000001402da001500040000002e01010011000000320ada001500040004000000000084035802444d4f531e0025001e001700040000002e010000050000001402000000000400000002010100040000002701ffff040000
+002d01020009000000fa02000004000000000000022200040000002d010300070000001b045902c2021c020d02040000002d010400040000002d01050004000000f0010300030000001e000700000016045302bd02220213020400000002010100040000002d01010005000000090200000000050000001402240213020400
+00002e01010013000000320a24021302050004000000000084035802444d4f5370001e0025001e0017001500040000002e010000050000001402987fb0a20400000002010100040000002701ffff1000000026060f001600ffffffff0000850000001c0000003c0300003d02000009000000fa02050000000000ffffff0022
+00040000002d01030007000000fc020000000000000000040000002d01060004000000060102001800000024030a008700390286003a0286003a0287003b0288003c0288003b0289003a028900390288003802870038021800000024030a008b0035028a0036028a0037028b0038028c0038028c0038028d0037028d003602
+8c0035028b0035021800000024030a00900031028f0032028f003302900034029100340291003402920033029200320291003102900031021800000024030a0095002d0294002e0294002f0295003002960030029600300297002f0297002e0296002d0295002d021800000024030a0099002a0298002b0298002c0299002d
+029a002d029a002d029b002c029b002b029a002a0299002a021800000024030a009e0026029d0027029d0028029e0029029f0029029f002902a0002802a00027029f0026029e0026021800000024030a00a3002202a2002302a2002402a3002502a4002502a4002502a5002402a5002302a4002202a3002202180000002403
+0a00a8001f02a7002002a7002102a8002202a9002202a9002202aa002102aa002002a9001f02a8001f021800000024030a00ac001b02ab001c02ab001d02ac001e02ad001e02ad001e02ae001d02ae001c02ad001b02ac001b021800000024030a00b1001702b0001802b0001902b1001a02b2001a02b2001a02b3001902b3
+001802b2001702b10017021800000024030a00b6001402b5001502b5001602b6001702b7001702b7001702b8001602b8001502b7001402b60014021800000024030a00ba001002b9001102b9001202ba001302bb001302bb001302bc001202bc001102bb001002ba0010021800000024030a00bf000c02be000d02be000e02
+bf000f02c0000f02c0000f02c1000e02c1000d02c0000c02bf000c021800000024030a00c4000802c3000902c3000a02c4000b02c5000b02c5000b02c6000a02c6000902c5000802c40008021800000024030a00c9000502c8000602c8000702c9000802ca000802ca000802cb000702cb000602ca000502c9000502180000
+0024030a00cd000102cc000202cc000302cd000402ce000402ce000402cf000302cf000202ce000102cd0001021800000024030a00d200fd01d100fe01d100ff01d2000002d3000002d3000002d400ff01d400fe01d300fd01d200fd011800000024030a00d700fa01d600fb01d600fc01d700fd01d800fd01d800fd01d900
+fc01d900fb01d800fa01d700fa011800000024030a00dc00f601db00f701db00f801dc00f901dd00f901dd00f901de00f801de00f701dd00f601dc00f6011800000024030a00e000f201df00f301df00f401e000f501e100f501e100f501e200f401e200f301e100f201e000f2011800000024030a00e500ef01e400f001e4
+00f101e500f201e600f201e600f201e700f101e700f001e600ef01e500ef011800000024030a00ea00eb01e900ec01e900ed01ea00ee01eb00ee01eb00ee01ec00ed01ec00ec01eb00eb01ea00eb011800000024030a00ee00e701ed00e801ed00e901ee00ea01ef00ea01ef00ea01f000e901f000e801ef00e701ee00e701
+1800000024030a00f300e301f200e401f200e501f300e601f400e601f400e601f500e501f500e401f400e301f300e3011800000024030a00f800e001f700e101f700e201f800e301f900e301f900e301fa00e201fa00e101f900e001f800e0011800000024030a00fd00dc01fc00dd01fc00de01fd00df01fe00df01fe00df
+01ff00de01ff00dd01fe00dc01fd00dc011800000024030a000101d8010001d9010001da010101db010201db010201db010301da010301d9010201d8010101d8011800000024030a000601d5010501d6010501d7010601d8010701d8010701d8010801d7010801d6010701d5010601d5011800000024030a000b01d1010a01
+d2010a01d3010b01d4010c01d4010c01d4010d01d3010d01d2010c01d1010b01d1011800000024030a001001cd010f01ce010f01cf011001d0011101d0011101d0011201cf011201ce011101cd011001cd011800000024030a001401ca011301cb011301cc011401cd011501cd011501cd011601cc011601cb011501ca0114
+01ca011800000024030a001901c6011801c7011801c8011901c9011a01c9011a01c9011b01c8011b01c7011a01c6011901c6011800000024030a001e01c2011d01c3011d01c4011e01c5011f01c5011f01c5012001c4012001c3011f01c2011e01c2011800000024030a002201be012101bf012101c0012201c1012301c101
+2301c1012401c0012401bf012301be012201be011800000024030a002701bb012601bc012601bd012701be012801be012801be012901bd012901bc012801bb012701bb011800000024030a002c01b7012b01b8012b01b9012c01ba012d01ba012d01ba012e01b9012e01b8012d01b7012c01b7011800000024030a003101b3
+013001b4013001b5013101b6013201b6013201b6013301b5013301b4013201b3013101b3011800000024030a003501b0013401b1013401b2013501b3013601b3013601b3013701b2013701b1013601b0013501b0011800000024030a003a01ac013901ad013901ae013a01af013b01af013b01af013c01ae013c01ad013b01
+ac013a01ac011800000024030a003f01a8013e01a9013e01aa013f01ab014001ab014001ab014101aa014101a9014001a8013f01a8011800000024030a004401a5014301a6014301a7014401a8014501a8014501a8014601a7014601a6014501a5014401a5011800000024030a004801a1014701a2014701a3014801a40149
+01a4014901a4014a01a3014a01a2014901a1014801a1011800000024030a004d019d014c019e014c019f014d01a0014e01a0014e01a0014f019f014f019e014e019d014d019d011800000024030a005201990151019a0151019b0152019c0153019c0153019c0154019b0154019a0153019901520199011800000024030a00
+560196015501970155019801560199015701990157019901580198015801970157019601560196011800000024030a005b0192015a0193015a0194015b0195015c0195015c0195015d0194015d0193015c0192015b0192011800000024030a0060018e015f018f015f0190016001910161019101610191016201900162018f
+0161018e0160018e011800000024030a0065018b0164018c0164018d0165018e0166018e0166018e0167018d0167018c0166018b0165018b011800000024030a0069018701680188016801890169018a016a018a016a018a016b0189016b0188016a018701690187011800000024030a006e0183016d0184016d0185016e01
+86016f0186016f01860170018501700184016f0183016e0183011800000024030a00730180017201810172018201730183017401830174018301750182017501810174018001730180011800000024030a0077017c0176017d0176017e0177017f0178017f0178017f0179017e0179017d0178017c0177017c011800000024
+030a007c0178017b0179017b017a017c017b017d017b017d017b017e017a017e0179017d0178017c0178011800000024030a00810175018001760180017701810178018201780182017801830177018301760182017501810175011800000024030a0086017101850172018501730186017401870174018701740188017301
+8801720187017101860171011800000024030a008a016d0189016e0189016f018a0170018b0170018b0170018c016f018c016e018b016d018a016d011800000024030a008f0169018e016a018e016b018f016c0190016c0190016c0191016b0191016a01900169018f0169011800000024030a009401660193016701930168
+01940169019501690195016901960168019601670195016601940166011800000024030a00990162019801630198016401990165019a0165019a0165019b0164019b0163019a016201990162011800000024030a009d015e019c015f019c0160019d0161019e0161019e0161019f0160019f015f019e015e019d015e011800
+000024030a00a2015b01a1015c01a1015d01a2015e01a3015e01a3015e01a4015d01a4015c01a3015b01a2015b011800000024030a00a7015701a6015801a6015901a7015a01a8015a01a8015a01a9015901a9015801a8015701a70157011800000024030a00ab015301aa015401aa015501ab015601ac015601ac015601ad
+015501ad015401ac015301ab0153011800000024030a00b0015001af015101af015201b0015301b1015301b1015301b2015201b2015101b1015001b00150011800000024030a00b5014c01b4014d01b4014e01b5014f01b6014f01b6014f01b7014e01b7014d01b6014c01b5014c011800000024030a00ba014801b9014901
+b9014a01ba014b01bb014b01bb014b01bc014a01bc014901bb014801ba0148011800000024030a00be014401bd014501bd014601be014701bf014701bf014701c0014601c0014501bf014401be0144011800000024030a00c3014101c2014201c2014301c3014401c4014401c4014401c5014301c5014201c4014101c30141
+011800000024030a00c8013d01c7013e01c7013f01c8014001c9014001c9014001ca013f01ca013e01c9013d01c8013d011800000024030a00cd013901cc013a01cc013b01cd013c01ce013c01ce013c01cf013b01cf013a01ce013901cd0139011800000024030a00d1013601d0013701d0013801d1013901d2013901d201
+3901d3013801d3013701d2013601d10136011800000024030a00d6013201d5013301d5013401d6013501d7013501d7013501d8013401d8013301d7013201d60132011800000024030a00db012e01da012f01da013001db013101dc013101dc013101dd013001dd012f01dc012e01db012e011800000024030a00df012b01de
+012c01de012d01df012e01e0012e01e0012e01e1012d01e1012c01e0012b01df012b011800000024030a00e4012701e3012801e3012901e4012a01e5012a01e5012a01e6012901e6012801e5012701e40127011800000024030a00e9012301e8012401e8012501e9012601ea012601ea012601eb012501eb012401ea012301
+e90123011800000024030a00ee011f01ed012001ed012101ee012201ef012201ef012201f0012101f0012001ef011f01ee011f011800000024030a00f2011c01f1011d01f1011e01f2011f01f3011f01f3011f01f4011e01f4011d01f3011c01f2011c011800000024030a00f7011801f6011901f6011a01f7011b01f8011b
+01f8011b01f9011a01f9011901f8011801f70118011800000024030a00fc011401fb011501fb011601fc011701fd011701fd011701fe011601fe011501fd011401fc0114011800000024030a00010211010002120100021301010214010202140102021401030213010302120102021101010211011800000024030a000502
+0d0104020e0104020f0105021001060210010602100107020f0107020e0106020d0105020d011800000024030a000a02090109020a0109020b010a020c010b020c010b020c010c020b010c020a010b0209010a0209011800000024030a000f0206010e0207010e0208010f0209011002090110020901110208011102070110
+0206010f0206011800000024030a00130202011202030112020401130205011402050114020501150204011502030114020201130202011800000024030a001802fe001702ff00170200011802010119020101190201011a0200011a02ff001902fe001802fe001800000024030a001d02fa001c02fb001c02fc001d02fd00
+1e02fd001e02fd001f02fc001f02fb001e02fa001d02fa001800000024030a002202f7002102f8002102f9002202fa002302fa002302fa002402f9002402f8002302f7002202f7001800000024030a002602f3002502f4002502f5002602f6002702f6002702f6002802f5002802f4002702f3002602f3001800000024030a
+002b02ef002a02f0002a02f1002b02f2002c02f2002c02f2002d02f1002d02f0002c02ef002b02ef001800000024030a003002ec002f02ed002f02ee003002ef003102ef003102ef003202ee003202ed003102ec003002ec001800000024030a003402e8003302e9003302ea003402eb003502eb003502eb003602ea003602
+e9003502e8003402e8001800000024030a003902e4003802e5003802e6003902e7003a02e7003a02e7003b02e6003b02e5003a02e4003902e4001800000024030a003e02e1003d02e2003d02e3003e02e4003f02e4003f02e4004002e3004002e2003f02e1003e02e1001800000024030a004302dd004202de004202df0043
+02e0004402e0004402e0004502df004502de004402dd004302dd001800000024030a004702d9004602da004602db004702dc004802dc004802dc004902db004902da004802d9004702d9001800000024030a004c02d6004b02d7004b02d8004c02d9004d02d9004d02d9004e02d8004e02d7004d02d6004c02d60018000000
+24030a005102d2005002d3005002d4005102d5005202d5005202d5005302d4005302d3005202d2005102d2001800000024030a005602ce005502cf005502d0005602d1005702d1005702d1005802d0005802cf005702ce005602ce001800000024030a005a02ca005902cb005902cc005a02cd005b02cd005b02cd005c02cc
+005c02cb005b02ca005a02ca001800000024030a005f02c7005e02c8005e02c9005f02ca006002ca006002ca006102c9006102c8006002c7005f02c7001800000024030a006402c3006302c4006302c5006402c6006502c6006502c6006602c5006602c4006502c3006402c3001800000024030a006802bf006702c0006702
+c1006802c2006902c2006902c2006a02c1006a02c0006902bf006802bf001800000024030a006d02bc006c02bd006c02be006d02bf006e02bf006e02bf006f02be006f02bd006e02bc006d02bc001800000024030a007202b8007102b9007102ba007202bb007302bb007302bb007402ba007402b9007302b8007202b80018
+00000024030a007702b4007602b5007602b6007702b7007802b7007802b7007902b6007902b5007802b4007702b4001800000024030a007b02b1007a02b2007a02b3007b02b4007c02b4007c02b4007d02b3007d02b2007c02b1007b02b1001800000024030a008002ad007f02ae007f02af008002b0008102b0008102b000
+8202af008202ae008102ad008002ad001800000024030a008502a9008402aa008402ab008502ac008602ac008602ac008702ab008702aa008602a9008502a9001800000024030a008a02a5008902a6008902a7008a02a8008b02a8008b02a8008c02a7008c02a6008b02a5008a02a5001800000024030a008e02a2008d02a3
+008d02a4008e02a5008f02a5008f02a5009002a4009002a3008f02a2008e02a2001800000024030a0093029e0092029f009202a0009302a1009402a1009402a1009502a00095029f0094029e0093029e001800000024030a0098029a0097029b0097029c0098029d0099029d0099029d009a029c009a029b0099029a009802
+9a001800000024030a009c0297009b0298009b0299009c029a009d029a009d029a009e0299009e0298009d0297009c0297001800000024030a00a1029300a0029400a0029500a1029600a2029600a2029600a3029500a3029400a2029300a10293001800000024030a00a6028f00a5029000a5029100a6029200a7029200a7
+029200a8029100a8029000a7028f00a6028f001800000024030a00ab028c00aa028d00aa028e00ab028f00ac028f00ac028f00ad028e00ad028d00ac028c00ab028c001800000024030a00af028800ae028900ae028a00af028b00b0028b00b0028b00b1028a00b1028900b0028800af0288001800000024030a00b4028400
+b3028500b3028600b4028700b5028700b5028700b6028600b6028500b5028400b40284001800000024030a00b9028000b8028100b8028200b9028300ba028300ba028300bb028200bb028100ba028000b90280001800000024030a00be027d00bd027e00bd027f00be028000bf028000bf028000c0027f00c0027e00bf027d
+00be027d001800000024030a00c2027900c1027a00c1027b00c2027c00c3027c00c3027c00c4027b00c4027a00c3027900c20279001800000024030a00c7027500c6027600c6027700c7027800c8027800c8027800c9027700c9027600c8027500c70275001800000024030a00cc027200cb027300cb027400cc027500cd02
+7500cd027500ce027400ce027300cd027200cc0272001800000024030a00d0026e00cf026f00cf027000d0027100d1027100d1027100d2027000d2026f00d1026e00d0026e001800000024030a00d5026a00d4026b00d4026c00d5026d00d6026d00d6026d00d7026c00d7026b00d6026a00d5026a001800000024030a00da
+026700d9026800d9026900da026a00db026a00db026a00dc026900dc026800db026700da0267001800000024030a00df026300de026400de026500df026600e0026600e0026600e1026500e1026400e0026300df0263001800000024030a00e3025f00e2026000e2026100e3026200e4026200e4026200e5026100e5026000
+e4025f00e3025f001800000024030a00e8025b00e7025c00e7025d00e8025e00e9025e00e9025e00ea025d00ea025c00e9025b00e8025b001800000024030a00ed025800ec025900ec025a00ed025b00ee025b00ee025b00ef025a00ef025900ee025800ed0258001800000024030a00f1025400f0025500f0025600f10257
+00f2025700f2025700f3025600f3025500f2025400f10254001800000024030a00f6025000f5025100f5025200f6025300f7025300f7025300f8025200f8025100f7025000f60250001800000024030a00fb024d00fa024e00fa024f00fb025000fc025000fc025000fd024f00fd024e00fc024d00fb024d00180000002403
+0a0000034900ff024a00ff024b0000034c0001034c0001034c0002034b0002034a0001034900000349001800000024030a00040345000303460003034700040348000503480005034800060347000603460005034500040345001800000024030a00090342000803430008034400090345000a0345000a0345000b0344000b
+0343000a034200090342001800000024030a000e033e000d033f000d0340000e0341000f0341000f0341001003400010033f000f033e000e033e001800000024030a0013033a0012033b0012033c0013033d0014033d0014033d0015033c0015033b0014033a0013033a001800000024030a00170336001603370016033800
+170339001803390018033900190338001903370018033600170336001800000024030a001c0333001b0334001b0335001c0336001d0336001d0336001e0335001e0334001d0333001c0333001800000024030a0021032f002003300020033100210332002203320022033200230331002303300022032f0021032f00180000
+0024030a0025032b0024032c0024032d0025032e0026032e0026032e0027032d0027032c0026032b0025032b001800000024030a002a0328002903290029032a002a032b002b032b002b032b002c032a002c0329002b0328002a0328001800000024030a002f0324002e0325002e0326002f03270030032700300327003103
+260031032500300324002f0324001800000024030a00340320003303210033032200340323003503230035032300360322003603210035032000340320001800000024030a0038031d0037031e0037031f003803200039032000390320003a031f003a031e0039031d0038031d000400000006010100040000002d01050004
+0000002d0104000800000026060f000600ffffffff0100040000002d0100000300000000000000000000000000000000000000000000}}{\fs24 
+\par 
+\par }\pard\plain \s47\qc\sa720\widctlpar\tx794\tx1191\tx1588\tx1985 \b\f5\fs22\lang2057 {\lang1033     Figure 2. Model with greater accuracy  \tab      Figure 3. Model with lower accuracy
+\par }\pard\plain \sb136\widctlpar\tx794\tx1191\tx1588\tx1985 \f5\fs22\lang2057 
+A number of metrics can be used to measure the average error, with root-mean-square (RMS) error being a common one. In order to incorporate the known variance in subjective DMOS data, the simple RMS error can also be weighted by the confidence intervals f
+or the mean DMOS data points. The Pearson linear correlation coefficient, although not a direct measur
+e of average error magnitude,  is another common metric that is related to the average error in that lower average errors lead to higher values of the correlation coefficient.
+\par {\i\fs24\ul Attribute2: Prediction Monotonicity}{\fs24 
+\par }An objective model\rquote s DMOS{\sub p} values should ideally be completely monotonic in their relationship to the matching DMOS values. The model should predict a change in DMOS{\sub p}
+ that has the same sign as the change in DMOS. Figures 4 and 5 below illustrate hypothetical relationships between DMOS{\sub p} and DMOS  for
+ two models of varying monotonicity. Both relationships have approximately the same prediction accuracy in terms of RMS error, but the model of Figure 4 has predictions that monotonically increase. The model in Figure 5 is less monotonic and falsely predi
+cts a decrease in DMOS{\sub p} for a case in which viewers actually see an increase in DMOS.
+\par {\fs24 
+\par }\pard \qc\sb136\widctlpar\tx794\tx1191\tx1588\tx1985 {\fs20 {\pict\wmetafile8\picw7620\pich5080\picwgoal4320\pichgoal2880 \box\brdrs\brdrw15 \picscalex83\picscaley91 
+010009000003a512000008001500000000001400000026060f001e00ffffffff040014000000576f72640e004d6963726f736f667420576f7264050000000b0200000000050000000c02580284030d000000fb02000000000000000000000000000000000001000c040000002d010000040000000201010015000000fb02d6
+ff0000000000009001000000000440001054696d6573204e657720526f6d616e005000040000002d01010005000000090200000000040000000201010007000000fc020100000000000000040000002d01020009000000fa02000003000000000000022200040000002d0103000700000018042d016a002c014b0007000000
+fc020000ffffff000000040000002d01040009000000fa02000000000000000000002200040000002d01050004000000f0010300040000002d01020009000000fa02000003000000000000022200040000002d010300070000001b049700a6005a000f00040000002d010400040000002d01050004000000f0010300030000
+001e000700000016049100a10060001500040000000201010005000000140262001500040000002e01010011000000320a62001500040004000000000084035802444d4f531e0025001e001700040000002e010000050000001402000000000400000002010100040000002701ffff040000002d01020009000000fa020000
+04000000000000022200040000002d0103000700000018045b0068023c004902040000002d010400040000002d01050004000000f0010300040000002d01020009000000fa02000004000000000000022200040000002d010300070000001804690178014a015901040000002d010400040000002d01050004000000f00103
+00040000002d01020009000000fa02000004000000000000022200040000002d0103000700000018040f01d201f000b301040000002d010400040000002d01050004000000f0010300040000002d01020009000000fa02000004000000000000022200040000002d01030007000000180497000e027800ef01040000002d01
+0400040000002d01050004000000f0010300040000002d01020009000000fa02000004000000000000022200040000002d010300070000001804c3016a00a4014b00040000002d010400040000002d01050004000000f0010300040000002d01020009000000fa02000004000000000000022200040000002d010300070000
+0018043b024c001c022d00040000002d010400040000002d01050004000000f0010300040000002d01020009000000fa02000004000000000000022200040000002d0103000700000018048701c4006801a500040000002d010400040000002d01050004000000f00103001000000026060f001600ffffffff00000d000000
+3a000000a60200001f02000009000000fa02050000000000ffffff002200040000002d01030007000000fc020000000000000000040000002d010600040000000601020014000000240308000f001b020e001c020f001d0210001d0210001d0210001c0210001b020f001b0214000000240308001200190211001a0212001b
+0213001b0213001b0213001a02130019021200190214000000240308001500160214001702150018021600180216001802160017021600160215001602140000002403080018001402180015021800160219001602190016021a001502190014021800140214000000240308001b0012021b0013021b0014021c0014021c00
+14021d0013021c0012021b00120214000000240308001f000f021e0010021f00110220001102200011022000100220000f021f000f02140000002403080022000d0221000e0222000f0223000f0223000f0223000e0223000d0222000d02140000002403080025000b0225000c0225000d0226000d0226000d0227000c0226
+000b0225000b021400000024030800280008022800090228000a0229000a0229000a022a000902290008022800080214000000240308002c0006022b0007022c0008022d0008022d0008022d0007022d0006022c00060214000000240308002f0003022e0004022f000502300005023000050230000402300003022f000302
+1400000024030800320001023200020232000302330003023300030234000202330001023200010214000000240308003500ff0135000002350001023600010236000102370000023600ff013500ff0114000000240308003900fc013800fd013900fe013a00fe013a00fe013a00fd013a00fc013900fc0114000000240308
+003c00fa013b00fb013c00fc013d00fc013d00fc013d00fb013d00fa013c00fa0114000000240308003f00f8013f00f9013f00fa014000fa014000fa014100f9014000f8013f00f80114000000240308004200f5014200f6014200f7014300f7014300f7014400f6014300f5014200f50114000000240308004500f3014500
+f4014500f5014600f5014600f5014700f4014600f3014500f30114000000240308004900f1014800f2014900f3014a00f3014a00f3014a00f2014a00f1014900f10114000000240308004c00ee014b00ef014c00f0014d00f0014d00f0014d00ef014d00ee014c00ee0114000000240308004f00ec014f00ed014f00ee0150
+00ee015000ee015100ed015000ec014f00ec0114000000240308005200ea015200eb015200ec015300ec015300ec015400eb015300ea015200ea0114000000240308005600e7015500e8015600e9015700e9015700e9015700e8015700e7015600e70114000000240308005900e5015800e6015900e7015a00e7015a00e701
+5a00e6015a00e5015900e50114000000240308005c00e3015c00e4015c00e5015d00e5015d00e5015e00e4015d00e3015c00e30114000000240308005f00e0015f00e1015f00e2016000e2016000e2016100e1016000e0015f00e00114000000240308006300de016200df016300e0016400e0016400e0016400df016400de
+016300de0114000000240308006600db016500dc016600dd016700dd016700dd016700dc016700db016600db0114000000240308006900d9016900da016900db016a00db016a00db016b00da016a00d9016900d90114000000240308006c00d7016c00d8016c00d9016d00d9016d00d9016e00d8016d00d7016c00d7011400
+0000240308007000d4016f00d5017000d6017100d6017100d6017100d5017100d4017000d40114000000240308007300d2017200d3017300d4017400d4017400d4017400d3017400d2017300d20114000000240308007600d0017600d1017600d2017700d2017700d2017800d1017700d0017600d001140000002403080079
+00cd017900ce017900cf017a00cf017a00cf017b00ce017a00cd017900cd0114000000240308007c00cb017c00cc017c00cd017d00cd017d00cd017e00cc017d00cb017c00cb0114000000240308008000c9017f00ca018000cb018100cb018100cb018100ca018100c9018000c90114000000240308008300c6018200c701
+8300c8018400c8018400c8018400c7018400c6018300c60114000000240308008600c4018600c5018600c6018700c6018700c6018800c5018700c4018600c40114000000240308008900c2018900c3018900c4018a00c4018a00c4018b00c3018a00c2018900c20114000000240308008d00bf018c00c0018d00c1018e00c1
+018e00c1018e00c0018e00bf018d00bf0114000000240308009000bd018f00be019000bf019100bf019100bf019100be019100bd019000bd0114000000240308009300bb019300bc019300bd019400bd019400bd019500bc019400bb019300bb0114000000240308009600b8019600b9019600ba019700ba019700ba019800
+b9019700b8019600b80114000000240308009a00b6019900b7019a00b8019b00b8019b00b8019b00b7019b00b6019a00b60114000000240308009d00b3019c00b4019d00b5019e00b5019e00b5019e00b4019e00b3019d00b3011400000024030800a000b101a000b201a000b301a100b301a100b301a200b201a100b101a0
+00b1011400000024030800a300af01a300b001a300b101a400b101a400b101a500b001a400af01a300af011400000024030800a700ac01a600ad01a700ae01a800ae01a800ae01a800ad01a800ac01a700ac011400000024030800aa00aa01a900ab01aa00ac01ab00ac01ab00ac01ab00ab01ab00aa01aa00aa0114000000
+24030800ad00a801ad00a901ad00aa01ae00aa01ae00aa01af00a901ae00a801ad00a8011400000024030800b000a501b000a601b000a701b100a701b100a701b200a601b100a501b000a5011400000024030800b300a301b300a401b300a501b400a501b400a501b500a401b400a301b300a3011400000024030800b700a1
+01b600a201b700a301b800a301b800a301b800a201b800a101b700a1011400000024030800ba009e01b9009f01ba00a001bb00a001bb00a001bb009f01bb009e01ba009e011400000024030800bd009c01bd009d01bd009e01be009e01be009e01bf009d01be009c01bd009c011400000024030800c0009a01c0009b01c000
+9c01c1009c01c1009c01c2009b01c1009a01c0009a011400000024030800c4009701c3009801c4009901c5009901c5009901c5009801c5009701c40097011400000024030800c7009501c6009601c7009701c8009701c8009701c8009601c8009501c70095011400000024030800ca009301ca009401ca009501cb009501cb
+009501cc009401cb009301ca0093011400000024030800cd009001cd009101cd009201ce009201ce009201cf009101ce009001cd0090011400000024030800d1008e01d0008f01d1009001d2009001d2009001d2008f01d2008e01d1008e011400000024030800d4008b01d3008c01d4008d01d5008d01d5008d01d5008c01
+d5008b01d4008b011400000024030800d7008901d7008a01d7008b01d8008b01d8008b01d9008a01d8008901d70089011400000024030800da008701da008801da008901db008901db008901dc008801db008701da0087011400000024030800de008401dd008501de008601df008601df008601df008501df008401de0084
+011400000024030800e1008201e0008301e1008401e2008401e2008401e2008301e2008201e10082011400000024030800e4008001e4008101e4008201e5008201e5008201e6008101e5008001e40080011400000024030800e7007d01e7007e01e7007f01e8007f01e8007f01e9007e01e8007d01e7007d01140000002403
+0800ea007b01ea007c01ea007d01eb007d01eb007d01ec007c01eb007b01ea007b011400000024030800ee007901ed007a01ee007b01ef007b01ef007b01ef007a01ef007901ee0079011400000024030800f1007601f0007701f1007801f2007801f2007801f2007701f2007601f10076011400000024030800f4007401f4
+007501f4007601f5007601f5007601f6007501f5007401f40074011400000024030800f7007201f7007301f7007401f8007401f8007401f9007301f8007201f70072011400000024030800fb006f01fa007001fb007101fc007101fc007101fc007001fc006f01fb006f011400000024030800fe006d01fd006e01fe006f01
+ff006f01ff006f01ff006e01ff006d01fe006d01140000002403080001016b0101016c0101016d0102016d0102016d0103016c0102016b0101016b011400000024030800040168010401690104016a0105016a0105016a01060169010501680104016801140000002403080008016601070167010801680109016801090168
+0109016701090166010801660114000000240308000b0163010a0164010b0165010c0165010c0165010c0164010c0163010b01630114000000240308000e0161010e0162010e0163010f0163010f016301100162010f0161010e016101140000002403080011015f0111016001110161011201610112016101130160011201
+5f0111015f01140000002403080015015c0114015d0115015e0116015e0116015e0116015d0116015c0115015c01140000002403080018015a0117015b0118015c0119015c0119015c0119015b0119015a0118015a0114000000240308001b0158011b0159011b015a011c015a011c015a011d0159011c0158011b01580114
+000000240308001e0155011e0156011e0157011f0157011f015701200156011f0155011e01550114000000240308002101530121015401210155012201550122015501230154012201530121015301140000002403080025015101240152012501530126015301260153012601520126015101250151011400000024030800
+28014e0127014f0128015001290150012901500129014f0129014e0128014e0114000000240308002b014c012b014d012b014e012c014e012c014e012d014d012c014c012b014c0114000000240308002e014a012e014b012e014c012f014c012f014c0130014b012f014a012e014a01140000002403080032014701310148
+0132014901330149013301490133014801330147013201470114000000240308003501450134014601350147013601470136014701360146013601450135014501140000002403080038014301380144013801450139014501390145013a014401390143013801430114000000240308003b0140013b0141013b0142013c01
+42013c0142013d0141013c0140013b01400114000000240308003f013e013e013f013f014001400140014001400140013f0140013e013f013e01140000002403080042013b0141013c0142013d0143013d0143013d0143013c0143013b0142013b0114000000240308004501390145013a0145013b0146013b0146013b0147
+013a014601390145013901140000002403080048013701480138014801390149013901490139014a013801490137014801370114000000240308004c0134014b0135014c0136014d0136014d0136014d0135014d0134014c01340114000000240308004f0132014e0133014f01340150013401500134015001330150013201
+4f01320114000000240308005201300151013101520132015301320153013201530131015301300152013001140000002403080055012d0155012e0155012f0156012f0156012f0157012e0156012d0155012d01140000002403080058012b0158012c0158012d0159012d0159012d015a012c0159012b0158012b01140000
+00240308005c0129015b012a015c012b015d012b015d012b015d012a015d0129015c01290114000000240308005f0126015e0127015f012801600128016001280160012701600126015f0126011400000024030800620124016201250162012601630126016301260164012501630124016201240114000000240308006501
+220165012301650124016601240166012401670123016601220165012201140000002403080069011f0168012001690121016a0121016a0121016a0120016a011f0169011f0114000000240308006c011d016b011e016c011f016d011f016d011f016d011e016d011d016c011d0114000000240308006f011b016f011c016f
+011d0170011d0170011d0171011c0170011b016f011b011400000024030800720118017201190172011a0173011a0173011a017401190173011801720118011400000024030800760116017501170176011801770118017701180177011701770116017601160114000000240308007901130178011401790115017a011501
+7a0115017a0114017a0113017901130114000000240308007c0111017c0112017c0113017d0113017d0113017e0112017d0111017c01110114000000240308007f010f017f0110017f01110180011101800111018101100180010f017f010f01140000002403080083010c0182010d0183010e0184010e0184010e0184010d
+0184010c0183010c01140000002403080086010a0185010b0186010c0187010c0187010c0187010b0187010a0186010a011400000024030800890108018801090189010a018a010a018a010a018a0109018a0108018901080114000000240308008c0105018c0106018c0107018d0107018d0107018e0106018d0105018c01
+050114000000240308008f0103018f0104018f010501900105019001050191010401900103018f0103011400000024030800930101019201020193010301940103019401030194010201940101019301010114000000240308009601fe009501ff009601000197010001970100019701ff009701fe009601fe001400000024
+0308009901fc009901fd009901fe009a01fe009a01fe009b01fd009a01fc009901fc0014000000240308009c01fa009c01fb009c01fc009d01fc009d01fc009e01fb009d01fa009c01fa001400000024030800a001f7009f01f800a001f900a101f900a101f900a101f800a101f700a001f7001400000024030800a301f500
+a201f600a301f700a401f700a401f700a401f600a401f500a301f5001400000024030800a601f300a601f400a601f500a701f500a701f500a801f400a701f300a601f3001400000024030800a901f000a901f100a901f200aa01f200aa01f200ab01f100aa01f000a901f0001400000024030800ad01ee00ac01ef00ad01f0
+00ae01f000ae01f000ae01ef00ae01ee00ad01ee001400000024030800b001ec00af01ed00b001ee00b101ee00b101ee00b101ed00b101ec00b001ec001400000024030800b301e900b301ea00b301eb00b401eb00b401eb00b501ea00b401e900b301e9001400000024030800b601e700b601e800b601e900b701e900b701
+e900b801e800b701e700b601e7001400000024030800ba01e400b901e500ba01e600bb01e600bb01e600bb01e500bb01e400ba01e4001400000024030800bd01e200bc01e300bd01e400be01e400be01e400be01e300be01e200bd01e2001400000024030800c001e000bf01e100c001e200c101e200c101e200c101e100c1
+01e000c001e0001400000024030800c301dd00c301de00c301df00c401df00c401df00c501de00c401dd00c301dd001400000024030800c601db00c601dc00c601dd00c701dd00c701dd00c801dc00c701db00c601db001400000024030800ca01d900c901da00ca01db00cb01db00cb01db00cb01da00cb01d900ca01d900
+1400000024030800cd01d600cc01d700cd01d800ce01d800ce01d800ce01d700ce01d600cd01d6001400000024030800d001d400d001d500d001d600d101d600d101d600d201d500d101d400d001d4001400000024030800d301d200d301d300d301d400d401d400d401d400d501d300d401d200d301d20014000000240308
+00d701cf00d601d000d701d100d801d100d801d100d801d000d801cf00d701cf001400000024030800da01cd00d901ce00da01cf00db01cf00db01cf00db01ce00db01cd00da01cd001400000024030800dd01cb00dd01cc00dd01cd00de01cd00de01cd00df01cc00de01cb00dd01cb001400000024030800e001c800e001
+c900e001ca00e101ca00e101ca00e201c900e101c800e001c8001400000024030800e401c600e301c700e401c800e501c800e501c800e501c700e501c600e401c6001400000024030800e701c400e601c500e701c600e801c600e801c600e801c500e801c400e701c4001400000024030800ea01c100ea01c200ea01c300eb
+01c300eb01c300ec01c200eb01c100ea01c1001400000024030800ed01bf00ed01c000ed01c100ee01c100ee01c100ef01c000ee01bf00ed01bf001400000024030800f101bc00f001bd00f101be00f201be00f201be00f201bd00f201bc00f101bc001400000024030800f401ba00f301bb00f401bc00f501bc00f501bc00
+f501bb00f501ba00f401ba001400000024030800f701b800f601b900f701ba00f801ba00f801ba00f801b900f801b800f701b8001400000024030800fa01b500fa01b600fa01b700fb01b700fb01b700fc01b600fb01b500fa01b5001400000024030800fd01b300fd01b400fd01b500fe01b500fe01b500ff01b400fe01b3
+00fd01b30014000000240308000102b1000002b2000102b3000202b3000202b3000202b2000202b1000102b10014000000240308000402ae000302af000402b0000502b0000502b0000502af000502ae000402ae0014000000240308000702ac000702ad000702ae000802ae000802ae000902ad000802ac000702ac001400
+0000240308000a02aa000a02ab000a02ac000b02ac000b02ac000c02ab000b02aa000a02aa0014000000240308000e02a7000d02a8000e02a9000f02a9000f02a9000f02a8000f02a7000e02a70014000000240308001102a5001002a6001102a7001202a7001202a7001202a6001202a5001102a500140000002403080014
+02a3001402a4001402a5001502a5001502a5001602a4001502a3001402a30014000000240308001702a0001702a1001702a2001802a2001802a2001902a1001802a0001702a00014000000240308001b029e001a029f001b02a0001c02a0001c02a0001c029f001c029e001b029e0014000000240308001e029c001d029d00
+1e029e001f029e001f029e001f029d001f029c001e029c0014000000240308002102990021029a0021029b0022029b0022029b0023029a002202990021029900140000002403080024029700240298002402990025029900250299002602980025029700240297001400000024030800280294002702950028029600290296
+002902960029029500290294002802940014000000240308002b0292002a0293002b0294002c0294002c0294002c0293002c0292002b02920014000000240308002e0290002d0291002e0292002f0292002f0292002f0291002f0290002e029000140000002403080031028d0031028e0031028f0032028f0032028f003302
+8e0032028d0031028d00140000002403080034028b0034028c0034028d0035028d0035028d0036028c0035028b0034028b0014000000240308003802890037028a0038028b0039028b0039028b0039028a00390289003802890014000000240308003b0286003a0287003b0288003c0288003c0288003c0287003c0286003b
+02860014000000240308003e0284003e0285003e0286003f0286003f028600400285003f0284003e02840014000000240308004102820041028300410284004202840042028400430283004202820041028200140000002403080045027f00440280004502810046028100460281004602800046027f0045027f0014000000
+2403080048027d0047027e0048027f0049027f0049027f0049027e0049027d0048027d0014000000240308004b027b004b027c004b027d004c027d004c027d004d027c004c027b004b027b0014000000240308004e0278004e0279004e027a004f027a004f027a00500279004f0278004e0278001400000024030800520276
+005102770052027800530278005302780053027700530276005202760014000000240308005502740054027500550276005602760056027600560275005602740055027400140000002403080058027100580272005802730059027300590273005a027200590271005802710014000000240308005b026f005b0270005b02
+71005c0271005c0271005d0270005c026f005b026f0014000000240308005e026c005e026d005e026e005f026e005f026e0060026d005f026c005e026c00140000002403080062026a0061026b0062026c0063026c0063026c0063026b0063026a0062026a001400000024030800650268006402690065026a0066026a0066
+026a00660269006602680065026800140000002403080068026500680266006802670069026700690267006a026600690265006802650014000000240308006b0263006b0264006b0265006c0265006c0265006d0264006c0263006b02630014000000240308006f0261006e0262006f026300700263007002630070026200
+700261006f026100140000002403080072025e0071025f0072026000730260007302600073025f0073025e0072025e00140000002403080075025c0075025d0075025e0076025e0076025e0077025d0076025c0075025c00140000002403080078025a0078025b0078025c0079025c0079025c007a025b0079025a0078025a
+0014000000240308007c0257007b0258007c0259007d0259007d0259007d0258007d0257007c02570014000000240308007f0255007e0256007f025700800257008002570080025600800255007f02550014000000240308008202530082025400820255008302550083025500840254008302530082025300140000002403
+08008502500085025100850252008602520086025200870251008602500085025000140000002403080089024e0088024f00890250008a0250008a0250008a024f008a024e0089024e0014000000240308008c024c008b024d008c024e008d024e008d024e008d024d008d024c008c024c0014000000240308008f0249008f
+024a008f024b0090024b0090024b0091024a00900249008f02490014000000240308009202470092024800920249009302490093024900940248009302470092024700140000002403080095024400950245009502460096024600960246009702450096024400950244001400000024030800990242009802430099024400
+9a0244009a0244009a0243009a0242009902420014000000240308009c0240009b0241009c0242009d0242009d0242009d0241009d0240009c02400014000000240308009f023d009f023e009f023f00a0023f00a0023f00a1023e00a0023d009f023d001400000024030800a2023b00a2023c00a2023d00a3023d00a3023d
+00a4023c00a3023b00a2023b000400000006010100040000002d010500040000002d0104000800000026060f000600ffffffff0100040000002d01020009000000fa02000003000000000000022200040000002d010700070000001b043b023a03fe018502040000002d010400040000002d01050004000000f00107000300
+00001e000700000016043502350304028b020400000002010100040000002d0101000500000009020000000005000000140206028b02040000002e01010013000000320a06028b02050004000000000084035802444d4f5370001e0025001e0017001500040000002e010000050000001402987fb0a2040000000201010004
+0000002701ffff040000002d0100000300000000000000000000000000000000000000000000}}{\fs24       }{\fs20 {\pict\wmetafile8\picw7620\pich5080\picwgoal4320\pichgoal2880 \box\brdrs\brdrw15 \picscalex83\picscaley91 
+0100090000038910000008001500000000001400000026060f001e00ffffffff040014000000576f72640e004d6963726f736f667420576f7264050000000b0200000000050000000c02580284030d000000fb02000000000000000000000000000000000001000c040000002d010000040000000201010015000000fb02d6
+ff0000000000009001000000000440001054696d6573204e657720526f6d616e005000040000002d01010005000000090200000000040000000201010007000000fc020100000000000000040000002d01020009000000fa02000003000000000000022200040000002d0103000700000018042d016a002c014b0007000000
+fc020000ffffff000000040000002d01040009000000fa02000000000000000000002200040000002d01050004000000f0010300040000002d01020009000000fa02000003000000000000022200040000002d010300070000001b049700a6005a000f00040000002d010400040000002d01050004000000f0010300030000
+001e000700000016049100a10060001500040000000201010005000000140262001500040000002e01010011000000320a62001500040004000000000084035802444d4f531e0025001e001700040000002e010000050000001402000000000400000002010100040000002701ffff040000002d01020009000000fa020000
+04000000000000022200040000002d010300070000001804c3013c01a4011d01040000002d010400040000002d01050004000000f0010300040000002d01020009000000fa02000004000000000000022200040000002d0103000700000018041d02c400fe01a500040000002d010400040000002d01050004000000f00103
+00040000002d01020009000000fa02000004000000000000022200040000002d010300070000001804ff019601e0017701040000002d010400040000002d01050004000000f0010300040000002d01020009000000fa02000004000000000000022200040000002d010300070000001804f1004a02d2002b02040000002d01
+0400040000002d01050004000000f0010300040000002d01020009000000fa02000004000000000000022200040000002d0103000700000018042d01a4020e018502040000002d010400040000002d01050004000000f0010300040000002d01020009000000fa02000004000000000000022200040000002d010300070000
+001804b5001c039600fd02040000002d010400040000002d01050004000000f0010300040000002d01020009000000fa02000004000000000000022200040000002d0103000700000018046901d2014a01b301040000002d010400040000002d01050004000000f00103001000000026060f001600ffffffff0000df000000
+760000001e0300001f02000009000000fa02050000000000ffffff002200040000002d01030007000000fc020000000000000000040000002d01060004000000060102001400000024030800e1001b02e0001c02e1001d02e2001d02e2001d02e2001c02e2001b02e1001b021400000024030800e4001902e3001a02e4001b
+02e5001b02e5001b02e5001a02e5001902e40019021400000024030800e7001602e6001702e7001802e8001802e8001802e8001702e8001602e70016021400000024030800ea001402ea001502ea001602eb001602eb001602ec001502eb001402ea0014021400000024030800ed001202ed001302ed001402ee001402ee00
+1402ef001302ee001202ed0012021400000024030800f1000f02f0001002f1001102f2001102f2001102f2001002f2000f02f1000f021400000024030800f4000d02f3000e02f4000f02f5000f02f5000f02f5000e02f5000d02f4000d021400000024030800f7000a02f7000b02f7000c02f8000c02f8000c02f9000b02f8
+000a02f7000a021400000024030800fa000802fa000902fa000a02fb000a02fb000a02fc000902fb000802fa0008021400000024030800fd000602fd000702fd000802fe000802fe000802ff000702fe000602fd00060214000000240308000101030200010402010105020201050202010502020104020201030201010302
+1400000024030800040101020301020204010302050103020501030205010202050101020401010214000000240308000701ff0107010002070101020801010208010102090100020801ff010701ff0114000000240308000a01fc010a01fd010a01fe010b01fe010b01fe010c01fd010b01fc010a01fc0114000000240308
+000e01fa010d01fb010e01fc010f01fc010f01fc010f01fb010f01fa010e01fa0114000000240308001101f7011001f8011101f9011201f9011201f9011201f8011201f7011101f70114000000240308001401f5011401f6011401f7011501f7011501f7011601f6011501f5011401f50114000000240308001701f3011701
+f4011701f5011801f5011801f5011901f4011801f3011701f30114000000240308001a01f0011a01f1011a01f2011b01f2011b01f2011c01f1011b01f0011a01f00114000000240308001e01ee011d01ef011e01f0011f01f0011f01f0011f01ef011f01ee011e01ee0114000000240308002101ec012001ed012101ee0122
+01ee012201ee012201ed012201ec012101ec0114000000240308002401e9012401ea012401eb012501eb012501eb012601ea012501e9012401e90114000000240308002701e7012701e8012701e9012801e9012801e9012901e8012801e7012701e70114000000240308002b01e4012a01e5012b01e6012c01e6012c01e601
+2c01e5012c01e4012b01e40114000000240308002e01e2012d01e3012e01e4012f01e4012f01e4012f01e3012f01e2012e01e20114000000240308003101e0013101e1013101e2013201e2013201e2013301e1013201e0013101e00114000000240308003401dd013401de013401df013501df013501df013601de013501dd
+013401dd0114000000240308003701db013701dc013701dd013801dd013801dd013901dc013801db013701db0114000000240308003b01d9013a01da013b01db013c01db013c01db013c01da013c01d9013b01d90114000000240308003e01d6013d01d7013e01d8013f01d8013f01d8013f01d7013f01d6013e01d6011400
+0000240308004101d4014101d5014101d6014201d6014201d6014301d5014201d4014101d40114000000240308004401d1014401d2014401d3014501d3014501d3014601d2014501d1014401d10114000000240308004801cf014701d0014801d1014901d1014901d1014901d0014901cf014801cf0114000000240308004b
+01cd014a01ce014b01cf014c01cf014c01cf014c01ce014c01cd014b01cd0114000000240308004e01ca014d01cb014e01cc014f01cc014f01cc014f01cb014f01ca014e01ca0114000000240308005101c8015101c9015101ca015201ca015201ca015301c9015201c8015101c80114000000240308005401c6015401c701
+5401c8015501c8015501c8015601c7015501c6015401c60114000000240308005801c3015701c4015801c5015901c5015901c5015901c4015901c3015801c30114000000240308005b01c1015a01c2015b01c3015c01c3015c01c3015c01c2015c01c1015b01c10114000000240308005e01be015e01bf015e01c0015f01c0
+015f01c0016001bf015f01be015e01be0114000000240308006101bc016101bd016101be016201be016201be016301bd016201bc016101bc0114000000240308006501ba016401bb016501bc016601bc016601bc016601bb016601ba016501ba0114000000240308006801b7016701b8016801b9016901b9016901b9016901
+b8016901b7016801b70114000000240308006b01b5016a01b6016b01b7016c01b7016c01b7016c01b6016c01b5016b01b50114000000240308006e01b3016e01b4016e01b5016f01b5016f01b5017001b4016f01b3016e01b30114000000240308007101b0017101b1017101b2017201b2017201b2017301b1017201b00171
+01b00114000000240308007501ae017401af017501b0017601b0017601b0017601af017601ae017501ae0114000000240308007801ab017701ac017801ad017901ad017901ad017901ac017901ab017801ab0114000000240308007b01a9017b01aa017b01ab017c01ab017c01ab017d01aa017c01a9017b01a90114000000
+240308007e01a7017e01a8017e01a9017f01a9017f01a9018001a8017f01a7017e01a70114000000240308008201a4018101a5018201a6018301a6018301a6018301a5018301a4018201a40114000000240308008501a2018401a3018501a4018601a4018601a4018601a3018601a2018501a20114000000240308008801a0
+018701a1018801a2018901a2018901a2018901a1018901a0018801a00114000000240308008b019d018b019e018b019f018c019f018c019f018d019e018c019d018b019d0114000000240308008e019b018e019c018e019d018f019d018f019d0190019c018f019b018e019b01140000002403080092019801910199019201
+9a0193019a0193019a0193019901930198019201980114000000240308009501960194019701950198019601980196019801960197019601960195019601140000002403080098019401980195019801960199019601990196019a019501990194019801940114000000240308009b0191019b0192019b0193019c0193019c
+0193019d0192019c0191019b01910114000000240308009e018f019e0190019e0191019f0191019f019101a00190019f018f019e018f011400000024030800a2018d01a1018e01a2018f01a3018f01a3018f01a3018e01a3018d01a2018d011400000024030800a5018a01a4018b01a5018c01a6018c01a6018c01a6018b01
+a6018a01a5018a011400000024030800a8018801a8018901a8018a01a9018a01a9018a01aa018901a9018801a80188011400000024030800ab018601ab018701ab018801ac018801ac018801ad018701ac018601ab0186011400000024030800af018301ae018401af018501b0018501b0018501b0018401b0018301af0183
+011400000024030800b2018101b1018201b2018301b3018301b3018301b3018201b3018101b20181011400000024030800b5017e01b5017f01b5018001b6018001b6018001b7017f01b6017e01b5017e011400000024030800b8017c01b8017d01b8017e01b9017e01b9017e01ba017d01b9017c01b8017c01140000002403
+0800bb017a01bb017b01bb017c01bc017c01bc017c01bd017b01bc017a01bb017a011400000024030800bf017701be017801bf017901c0017901c0017901c0017801c0017701bf0177011400000024030800c2017501c1017601c2017701c3017701c3017701c3017601c3017501c20175011400000024030800c5017301c5
+017401c5017501c6017501c6017501c7017401c6017301c50173011400000024030800c8017001c8017101c8017201c9017201c9017201ca017101c9017001c80170011400000024030800cc016e01cb016f01cc017001cd017001cd017001cd016f01cd016e01cc016e011400000024030800cf016b01ce016c01cf016d01
+d0016d01d0016d01d0016c01d0016b01cf016b011400000024030800d2016901d2016a01d2016b01d3016b01d3016b01d4016a01d3016901d20169011400000024030800d5016701d5016801d5016901d6016901d6016901d7016801d6016701d50167011400000024030800d8016401d8016501d8016601d9016601d90166
+01da016501d9016401d80164011400000024030800dc016201db016301dc016401dd016401dd016401dd016301dd016201dc0162011400000024030800df016001de016101df016201e0016201e0016201e0016101e0016001df0160011400000024030800e2015d01e2015e01e2015f01e3015f01e3015f01e4015e01e301
+5d01e2015d011400000024030800e5015b01e5015c01e5015d01e6015d01e6015d01e7015c01e6015b01e5015b011400000024030800e9015801e8015901e9015a01ea015a01ea015a01ea015901ea015801e90158011400000024030800ec015601eb015701ec015801ed015801ed015801ed015701ed015601ec01560114
+00000024030800ef015401ee015501ef015601f0015601f0015601f1015501f0015401ef0154011400000024030800f2015101f2015201f2015301f3015301f3015301f4015201f3015101f20151011400000024030800f5014f01f5015001f5015101f6015101f6015101f7015001f6014f01f5014f011400000024030800
+f9014d01f8014e01f9014f01fa014f01fa014f01fa014e01fa014d01f9014d011400000024030800fc014a01fb014b01fc014c01fd014c01fd014c01fd014b01fd014a01fc014a011400000024030800ff014801ff014901ff014a0100024a0100024a010102490100024801ff014801140000002403080002024501020246
+010202470103024701030247010402460103024501020245011400000024030800060243010502440106024501070245010702450107024401070243010602430114000000240308000902410108024201090243010a0243010a0243010a0242010a0241010902410114000000240308000c023e010b023f010c0240010d02
+40010d0240010d023f010d023e010c023e0114000000240308000f023c010f023d010f023e0110023e0110023e0111023d0110023c010f023c01140000002403080012023a0112023b0112023c0113023c0113023c0114023b0113023a0112023a011400000024030800160237011502380116023901170239011702390117
+023801170237011602370114000000240308001902350118023601190237011a0237011a0237011a0236011a0235011902350114000000240308001c0232011c0233011c0234011d0234011d0234011e0233011d0232011c02320114000000240308001f0230011f0231011f02320120023201200232012102310120023001
+1f023001140000002403080023022e0122022f0123023001240230012402300124022f0124022e0123022e01140000002403080026022b0125022c0126022d0127022d0127022d0127022c0127022b0126022b0114000000240308002902290128022a0129022b012a022b012a022b012a022a012a02290129022901140000
+00240308002c0227012c0228012c0229012d0229012d0229012e0228012d0227012c02270114000000240308002f0224012f0225012f022601300226013002260131022501300224012f0224011400000024030800330222013202230133022401340224013402240134022301340222013302220114000000240308003602
+1f01350220013602210137022101370221013702200137021f0136021f01140000002403080039021d0139021e0139021f013a021f013a021f013b021e013a021d0139021d0114000000240308003c021b013c021c013c021d013d021d013d021d013e021c013d021b013c021b011400000024030800400218013f02190140
+021a0141021a0141021a01410219014102180140021801140000002403080043021601420217014302180144021801440218014402170144021601430216011400000024030800460214014502150146021601470216014702160147021501470214014602140114000000240308004902110149021201490213014a021301
+4a0213014b0212014a0211014902110114000000240308004c020f014c0210014c0211014d0211014d0211014e0210014d020f014c020f01140000002403080050020d014f020e0150020f0151020f0151020f0151020e0151020d0150020d01140000002403080053020a0152020b0153020c0154020c0154020c0154020b
+0154020a0153020a011400000024030800560208015602090156020a0157020a0157020a0158020901570208015602080114000000240308005902050159020601590207015a0207015a0207015b0206015a0205015902050114000000240308005c0203015c0204015c0205015d0205015d0205015e0204015d0203015c02
+03011400000024030800600201015f02020160020301610203016102030161020201610201016002010114000000240308006302fe006202ff006302000164020001640200016402ff006402fe006302fe0014000000240308006602fc006602fd006602fe006702fe006702fe006802fd006702fc006602fc001400000024
+0308006902fa006902fb006902fc006a02fc006a02fc006b02fb006a02fa006902fa0014000000240308006d02f7006c02f8006d02f9006e02f9006e02f9006e02f8006e02f7006d02f70014000000240308007002f5006f02f6007002f7007102f7007102f7007102f6007102f5007002f50014000000240308007302f200
+7302f3007302f4007402f4007402f4007502f3007402f2007302f20014000000240308007602f0007602f1007602f2007702f2007702f2007802f1007702f0007602f00014000000240308007902ee007902ef007902f0007a02f0007a02f0007b02ef007a02ee007902ee0014000000240308007d02eb007c02ec007d02ed
+007e02ed007e02ed007e02ec007e02eb007d02eb0014000000240308008002e9007f02ea008002eb008102eb008102eb008102ea008102e9008002e90014000000240308008302e7008302e8008302e9008402e9008402e9008502e8008402e7008302e70014000000240308008602e4008602e5008602e6008702e6008702
+e6008802e5008702e4008602e40014000000240308008a02e2008902e3008a02e4008b02e4008b02e4008b02e3008b02e2008a02e20014000000240308008d02df008c02e0008d02e1008e02e1008e02e1008e02e0008e02df008d02df0014000000240308009002dd009002de009002df009102df009102df009202de0091
+02dd009002dd0014000000240308009302db009302dc009302dd009402dd009402dd009502dc009402db009302db0014000000240308009602d8009602d9009602da009702da009702da009802d9009702d8009602d80014000000240308009a02d6009902d7009a02d8009b02d8009b02d8009b02d7009b02d6009a02d600
+14000000240308009d02d4009c02d5009d02d6009e02d6009e02d6009e02d5009e02d4009d02d4001400000024030800a002d100a002d200a002d300a102d300a102d300a202d200a102d100a002d1001400000024030800a302cf00a302d000a302d100a402d100a402d100a502d000a402cf00a302cf0014000000240308
+00a702cc00a602cd00a702ce00a802ce00a802ce00a802cd00a802cc00a702cc001400000024030800aa02ca00a902cb00aa02cc00ab02cc00ab02cc00ab02cb00ab02ca00aa02ca001400000024030800ad02c800ac02c900ad02ca00ae02ca00ae02ca00ae02c900ae02c800ad02c8001400000024030800b002c500b002
+c600b002c700b102c700b102c700b202c600b102c500b002c5001400000024030800b302c300b302c400b302c500b402c500b402c500b502c400b402c300b302c3001400000024030800b702c100b602c200b702c300b802c300b802c300b802c200b802c100b702c1001400000024030800ba02be00b902bf00ba02c000bb
+02c000bb02c000bb02bf00bb02be00ba02be001400000024030800bd02bc00bd02bd00bd02be00be02be00be02be00bf02bd00be02bc00bd02bc001400000024030800c002b900c002ba00c002bb00c102bb00c102bb00c202ba00c102b900c002b9001400000024030800c402b700c302b800c402b900c502b900c502b900
+c502b800c502b700c402b7001400000024030800c702b500c602b600c702b700c802b700c802b700c802b600c802b500c702b5001400000024030800ca02b200c902b300ca02b400cb02b400cb02b400cb02b300cb02b200ca02b2001400000024030800cd02b000cd02b100cd02b200ce02b200ce02b200cf02b100ce02b0
+00cd02b0001400000024030800d002ae00d002af00d002b000d102b000d102b000d202af00d102ae00d002ae001400000024030800d402ab00d302ac00d402ad00d502ad00d502ad00d502ac00d502ab00d402ab001400000024030800d702a900d602aa00d702ab00d802ab00d802ab00d802aa00d802a900d702a9001400
+000024030800da02a600da02a700da02a800db02a800db02a800dc02a700db02a600da02a6001400000024030800dd02a400dd02a500dd02a600de02a600de02a600df02a500de02a400dd02a4001400000024030800e102a200e002a300e102a400e202a400e202a400e202a300e202a200e102a2001400000024030800e4
+029f00e302a000e402a100e502a100e502a100e502a000e5029f00e4029f001400000024030800e7029d00e6029e00e7029f00e8029f00e8029f00e8029e00e8029d00e7029d001400000024030800ea029b00ea029c00ea029d00eb029d00eb029d00ec029c00eb029b00ea029b001400000024030800ed029800ed029900
+ed029a00ee029a00ee029a00ef029900ee029800ed0298001400000024030800f1029600f0029700f1029800f2029800f2029800f2029700f2029600f10296001400000024030800f4029300f3029400f4029500f5029500f5029500f5029400f5029300f40293001400000024030800f7029100f7029200f7029300f80293
+00f8029300f9029200f8029100f70291001400000024030800fa028f00fa029000fa029100fb029100fb029100fc029000fb028f00fa028f001400000024030800fd028c00fd028d00fd028e00fe028e00fe028e00ff028d00fe028c00fd028c00140000002403080001038a0000038b0001038c0002038c0002038c000203
+8b0002038a0001038a001400000024030800040388000303890004038a0005038a0005038a000503890005038800040388001400000024030800070385000703860007038700080387000803870009038600080385000703850014000000240308000a0383000a0384000a0385000b0385000b0385000c0384000b0383000a
+03830014000000240308000e0381000d0382000e0383000f0383000f0383000f0382000f0381000e038100140000002403080011037e0010037f0011038000120380001203800012037f0012037e0011037e00140000002403080014037c0014037d0014037e0015037e0015037e0016037d0015037c0014037c0014000000
+240308001703790017037a0017037b0018037b0018037b0019037a00180379001703790014000000240308001a0377001a0378001a0379001b0379001b0379001c0378001b0377001a0377000400000006010100040000002d010500040000002d0104000800000026060f000600ffffffff0100040000002d010200090000
+00fa02000003000000000000022200040000002d010700070000001b043b027603fe01c102040000002d010400040000002d01050004000000f0010700030000001e00070000001604350271030402c7020400000002010100040000002d010100050000000902000000000500000014020602c702040000002e0101001300
+0000320a0602c702050004000000000084035802444d4f5370001e0025001e0017001500040000002e010000050000001402587bb0a20400000002010100040000002701ffff040000002d0100000300000000000000000000000000000000000000000000}}{\fs24 
+\par 
+\par }\pard\plain \s47\qc\sa720\widctlpar\tx794\tx1191\tx1588\tx1985 \b\f5\fs22\lang2057       Figure 4. Model with more Monotonicity     Figure 5. Model with less Monotonicity
+\par \pard\plain \sb136\widctlpar\tx794\tx1191\tx1588\tx1985 \f5\fs22\lang2057 The Spearman rank-order correlation between DMOS{\sub p} and DMOS  is a sensitive
+ measure of Monotonicity. It also has the added benefit that it is a nonparametric test that makes no assumptions about the form of the relationship (linear, polynomial, etc.). Another method to understand model Monotonicity is to perform pair-wise compar
+isons on HRC\rquote s by type of sequence, bitrate, and any other parameters defining an HRC). The change between the pairs in DMOS should correlate with the change in DMOS{\sub p}.
+\par {\i\fs24\ul Attribute3: Prediction Consistency}{\fs24 
+\par }This attribute relates to the objective quality model\rquote s ability to provide consistently accurate predictions for all types of video sequences and not fail excessively for a subset of sequences. 
+\par {\fs24 
+\par }\pard \qc\sb136\widctlpar\tx794\tx1191\tx1588\tx1985 {\fs20 {\pict\wmetafile8\picw7620\pich5080\picwgoal4320\pichgoal2880 \box\brdrs\brdrw15 \picscalex85 
+0100090000039511000007001800000000001400000026060f001e00ffffffff040014000000576f72640e004d6963726f736f667420576f7264050000000b0200000000050000000c02580284030d000000fb02000000000000000000000000000000000001000c040000002d010000040000000201010015000000fb02d6
+ff0000000000009001000000000440001054696d6573204e657720526f6d616e005000040000002d01010005000000090200000000040000000201010007000000fc020100000000000000040000002d01020009000000fa02000004000000000000022200040000002d0103000700000018043b026a001c024b0007000000
+fc020000ffffff000000040000002d01040009000000fa02000000000000000000002200040000002d01050004000000f0010300040000002d01020009000000fa02000004000000000000022200040000002d010300070000001804e1011e01c201ff00040000002d010400040000002d01050004000000f0010300040000
+002d01020009000000fa02000004000000000000022200040000002d0103000700000018043b02e2001c02c300040000002d010400040000002d01050004000000f0010300040000002d01020009000000fa02000004000000000000022200040000002d010300070000001804e1017801c2015901040000002d0104000400
+00002d01050004000000f0010300040000002d01020009000000fa02000004000000000000022200040000002d0103000700000018043d0058031e003903040000002d010400040000002d01050004000000f0010300040000002d01020009000000fa02000004000000000000022200040000002d01030007000000180479
+00fe025a00df02040000002d010400040000002d01050004000000f0010300040000002d01020009000000fa02000004000000000000022200040000002d0103000700000018040f01a402f0008502040000002d010400040000002d01050004000000f0010300040000002d01020009000000fa0200000400000000000002
+2200040000002d0103000700000018043b02f0011c02d101040000002d010400040000002d01050004000000f0010300040000002d01020009000000fa02000004000000000000022200040000002d0103000700000018043d0096011e007701040000002d010400040000002d01050004000000f0010300040000002d0102
+0009000000fa02000004000000000000022200040000002d010300070000001804d3004a02b4002b02040000002d010400040000002d01050004000000f0010300040000002d01020009000000fa02000004000000000000022200040000002d010300070000001b040f01a600d2000f00040000002d010400040000002d01
+050004000000f0010300030000001e000700000016040901a100d80015000400000002010100050000001402da001500040000002e01010011000000320ada001500040004000000000084035802444d4f531e0025001e001700040000002e010000050000001402000000000400000002010100040000002701ffff040000
+002d01020009000000fa02000004000000000000022200040000002d010300070000001b0459021c031c026702040000002d010400040000002d01050004000000f0010300030000001e000700000016045302170322026d020400000002010100040000002d0101000500000009020000000005000000140224026d020400
+00002e01010013000000320a24026d02050004000000000084035802444d4f5370001e0025001e0017001500040000002e010000050000001402010064dc0400000002010100040000002701ffff040000002d01020009000000fa02000004000000000000022200040000002d0103000700000018042d010e020e01ef0104
+0000002d010400040000002d01050004000000f00103001000000026060f001600ffffffff0000850000001c000000780300003d02000009000000fa02050000000000ffffff002200040000002d01030007000000fc020000000000000000040000002d01060004000000060102001800000024030a008700390286003a02
+86003a0287003b0288003c0288003b0289003a028900390288003802870038021800000024030a008b0035028a0036028a0037028b0038028c0038028c0038028d0037028d0036028c0035028b0035021800000024030a00900031028f0032028f003302900034029100340291003402920033029200320291003102900031
+021800000024030a0095002e0294002f02940030029500310296003102960031029700300297002f0296002e0295002e021800000024030a009a002a0299002b0299002c029a002d029b002d029b002d029c002c029c002b029b002a029a002a021800000024030a009f0027029e0028029e0029029f002a02a0002a02a000
+2a02a1002902a1002802a00027029f0027021800000024030a00a4002302a3002402a3002502a4002602a5002602a5002602a6002502a6002402a5002302a40023021800000024030a00a9002002a8002102a8002202a9002302aa002302aa002302ab002202ab002102aa002002a90020021800000024030a00ad001c02ac
+001d02ac001e02ad001f02ae001f02ae001f02af001e02af001d02ae001c02ad001c021800000024030a00b2001902b1001a02b1001b02b2001c02b3001c02b3001c02b4001b02b4001a02b3001902b20019021800000024030a00b7001502b6001602b6001702b7001802b8001802b8001802b9001702b9001602b8001502
+b70015021800000024030a00bc001202bb001302bb001402bc001502bd001502bd001502be001402be001302bd001202bc0012021800000024030a00c1000e02c0000f02c0001002c1001102c2001102c2001102c3001002c3000f02c2000e02c1000e021800000024030a00c6000b02c5000c02c5000d02c6000e02c7000e
+02c7000e02c8000d02c8000c02c7000b02c6000b021800000024030a00cb000702ca000802ca000902cb000a02cc000a02cc000a02cd000902cd000802cc000702cb0007021800000024030a00d0000402cf000502cf000602d0000702d1000702d1000702d2000602d2000502d1000402d00004021800000024030a00d400
+0002d3000102d3000202d4000302d5000302d5000302d6000202d6000102d5000002d40000021800000024030a00d900fd01d800fe01d800ff01d9000002da000002da000002db00ff01db00fe01da00fd01d900fd011800000024030a00de00f901dd00fa01dd00fb01de00fc01df00fc01df00fc01e000fb01e000fa01df
+00f901de00f9011800000024030a00e300f601e200f701e200f801e300f901e400f901e400f901e500f801e500f701e400f601e300f6011800000024030a00e800f201e700f301e700f401e800f501e900f501e900f501ea00f401ea00f301e900f201e800f2011800000024030a00ed00ef01ec00f001ec00f101ed00f201
+ee00f201ee00f201ef00f101ef00f001ee00ef01ed00ef011800000024030a00f200eb01f100ec01f100ed01f200ee01f300ee01f300ee01f400ed01f400ec01f300eb01f200eb011800000024030a00f600e801f500e901f500ea01f600eb01f700eb01f700eb01f800ea01f800e901f700e801f600e8011800000024030a
+00fb00e401fa00e501fa00e601fb00e701fc00e701fc00e701fd00e601fd00e501fc00e401fb00e4011800000024030a000001e101ff00e201ff00e3010001e4010101e4010101e4010201e3010201e2010101e1010001e1011800000024030a000501dd010401de010401df010501e0010601e0010601e0010701df010701
+de010601dd010501dd011800000024030a000a01da010901db010901dc010a01dd010b01dd010b01dd010c01dc010c01db010b01da010a01da011800000024030a000f01d6010e01d7010e01d8010f01d9011001d9011001d9011101d8011101d7011001d6010f01d6011800000024030a001401d3011301d4011301d50114
+01d6011501d6011501d6011601d5011601d4011501d3011401d3011800000024030a001901cf011801d0011801d1011901d2011a01d2011a01d2011b01d1011b01d0011a01cf011901cf011800000024030a001d01cc011c01cd011c01ce011d01cf011e01cf011e01cf011f01ce011f01cd011e01cc011d01cc0118000000
+24030a002201c8012101c9012101ca012201cb012301cb012301cb012401ca012401c9012301c8012201c8011800000024030a002701c5012601c6012601c7012701c8012801c8012801c8012901c7012901c6012801c5012701c5011800000024030a002c01c1012b01c2012b01c3012c01c4012d01c4012d01c4012e01c3
+012e01c2012d01c1012c01c1011800000024030a003101be013001bf013001c0013101c1013201c1013201c1013301c0013301bf013201be013101be011800000024030a003601ba013501bb013501bc013601bd013701bd013701bd013801bc013801bb013701ba013601ba011800000024030a003b01b7013a01b8013a01
+b9013b01ba013c01ba013c01ba013d01b9013d01b8013c01b7013b01b7011800000024030a004001b3013f01b4013f01b5014001b6014101b6014101b6014201b5014201b4014101b3014001b3011800000024030a004401b0014301b1014301b2014401b3014501b3014501b3014601b2014601b1014501b0014401b00118
+00000024030a004901ac014801ad014801ae014901af014a01af014a01af014b01ae014b01ad014a01ac014901ac011800000024030a004e01a9014d01aa014d01ab014e01ac014f01ac014f01ac015001ab015001aa014f01a9014e01a9011800000024030a005301a5015201a6015201a7015301a8015401a8015401a801
+5501a7015501a6015401a5015301a5011800000024030a005801a2015701a3015701a4015801a5015901a5015901a5015a01a4015a01a3015901a2015801a2011800000024030a005d019e015c019f015c01a0015d01a1015e01a1015e01a1015f01a0015f019f015e019e015d019e011800000024030a0062019b0161019c
+0161019d0162019e0163019e0163019e0164019d0164019c0163019b0162019b011800000024030a0066019701650198016501990166019a0167019a0167019a01680199016801980167019701660197011800000024030a006b0194016a0195016a0196016b0197016c0197016c0197016d0196016d0195016c0194016b01
+94011800000024030a00700190016f0191016f019201700193017101930171019301720192017201910171019001700190011800000024030a0075018d0174018e0174018f0175019001760190017601900177018f0177018e0176018d0175018d011800000024030a007a01890179018a0179018b017a018c017b018c017b
+018c017c018b017c018a017b0189017a0189011800000024030a007f0186017e0187017e0188017f01890180018901800189018101880181018701800186017f0186011800000024030a00840182018301830183018401840185018501850185018501860184018601830185018201840182011800000024030a0089017f01
+8801800188018101890182018a0182018a0182018b0181018b0180018a017f0189017f011800000024030a008d017b018c017c018c017d018d017e018e017e018e017e018f017d018f017c018e017b018d017b011800000024030a00920178019101790191017a0192017b0193017b0193017b0194017a0194017901930178
+01920178011800000024030a00970174019601750196017601970177019801770198017701990176019901750198017401970174011800000024030a009c0171019b0172019b0173019c0174019d0174019d0174019e0173019e0172019d0171019c0171011800000024030a00a1016d01a0016e01a0016f01a1017001a201
+7001a2017001a3016f01a3016e01a2016d01a1016d011800000024030a00a6016a01a5016b01a5016c01a6016d01a7016d01a7016d01a8016c01a8016b01a7016a01a6016a011800000024030a00ab016601aa016701aa016801ab016901ac016901ac016901ad016801ad016701ac016601ab0166011800000024030a00b0
+016301af016401af016501b0016601b1016601b1016601b2016501b2016401b1016301b00163011800000024030a00b4015f01b3016001b3016101b4016201b5016201b5016201b6016101b6016001b5015f01b4015f011800000024030a00b9015c01b8015d01b8015e01b9015f01ba015f01ba015f01bb015e01bb015d01
+ba015c01b9015c011800000024030a00be015801bd015901bd015a01be015b01bf015b01bf015b01c0015a01c0015901bf015801be0158011800000024030a00c3015501c2015601c2015701c3015801c4015801c4015801c5015701c5015601c4015501c30155011800000024030a00c8015101c7015201c7015301c80154
+01c9015401c9015401ca015301ca015201c9015101c80151011800000024030a00cd014e01cc014f01cc015001cd015101ce015101ce015101cf015001cf014f01ce014e01cd014e011800000024030a00d2014a01d1014b01d1014c01d2014d01d3014d01d3014d01d4014c01d4014b01d3014a01d2014a01180000002403
+0a00d6014701d5014801d5014901d6014a01d7014a01d7014a01d8014901d8014801d7014701d60147011800000024030a00db014301da014401da014501db014601dc014601dc014601dd014501dd014401dc014301db0143011800000024030a00e0014001df014101df014201e0014301e1014301e1014301e2014201e2
+014101e1014001e00140011800000024030a00e5013c01e4013d01e4013e01e5013f01e6013f01e6013f01e7013e01e7013d01e6013c01e5013c011800000024030a00ea013901e9013a01e9013b01ea013c01eb013c01eb013c01ec013b01ec013a01eb013901ea0139011800000024030a00ef013501ee013601ee013701
+ef013801f0013801f0013801f1013701f1013601f0013501ef0135011800000024030a00f4013201f3013301f3013401f4013501f5013501f5013501f6013401f6013301f5013201f40132011800000024030a00f9012e01f8012f01f8013001f9013101fa013101fa013101fb013001fb012f01fa012e01f9012e01180000
+0024030a00fd012b01fc012c01fc012d01fd012e01fe012e01fe012e01ff012d01ff012c01fe012b01fd012b011800000024030a0002022701010228010102290102022a0103022a0103022a01040229010402280103022701020227011800000024030a000702240106022501060226010702270108022701080227010902
+26010902250108022401070224011800000024030a000c0220010b0221010b0222010c0223010d0223010d0223010e0222010e0221010d0220010c0220011800000024030a0011021d0110021e0110021f0111022001120220011202200113021f0113021e0112021d0111021d011800000024030a001602190115021a0115
+021b0116021c0117021c0117021c0118021b0118021a0117021901160219011800000024030a001b0216011a0217011a0218011b0219011c0219011c0219011d0218011d0217011c0216011b0216011800000024030a00200212011f0213011f02140120021501210215012102150122021401220213012102120120021201
+1800000024030a0024020f012302100123021101240212012502120125021201260211012602100125020f0124020f011800000024030a0029020b0128020c0128020d0129020e012a020e012a020e012b020d012b020c012a020b0129020b011800000024030a002e0207012d0208012d0209012e020a012f020a012f020a
+0130020901300208012f0207012e0207011800000024030a00330204013202050132020601330207013402070134020701350206013502050134020401330204011800000024030a003802000137020101370202013802030139020301390203013a0202013a02010139020001380200011800000024030a003d02fd003c02
+fe003c02ff003d0200013e0200013e0200013f02ff003f02fe003e02fd003d02fd001800000024030a004202f9004102fa004102fb004202fc004302fc004302fc004402fb004402fa004302f9004202f9001800000024030a004602f6004502f7004502f8004602f9004702f9004702f9004802f8004802f7004702f60046
+02f6001800000024030a004b02f2004a02f3004a02f4004b02f5004c02f5004c02f5004d02f4004d02f3004c02f2004b02f2001800000024030a005002ef004f02f0004f02f1005002f2005102f2005102f2005202f1005202f0005102ef005002ef001800000024030a005502eb005402ec005402ed005502ee005602ee00
+5602ee005702ed005702ec005602eb005502eb001800000024030a005a02e8005902e9005902ea005a02eb005b02eb005b02eb005c02ea005c02e9005b02e8005a02e8001800000024030a005f02e4005e02e5005e02e6005f02e7006002e7006002e7006102e6006102e5006002e4005f02e4001800000024030a006402e1
+006302e2006302e3006402e4006502e4006502e4006602e3006602e2006502e1006402e1001800000024030a006902dd006802de006802df006902e0006a02e0006a02e0006b02df006b02de006a02dd006902dd001800000024030a006d02da006c02db006c02dc006d02dd006e02dd006e02dd006f02dc006f02db006e02
+da006d02da001800000024030a007202d6007102d7007102d8007202d9007302d9007302d9007402d8007402d7007302d6007202d6001800000024030a007702d3007602d4007602d5007702d6007802d6007802d6007902d5007902d4007802d3007702d3001800000024030a007c02cf007b02d0007b02d1007c02d2007d
+02d2007d02d2007e02d1007e02d0007d02cf007c02cf001800000024030a008102cc008002cd008002ce008102cf008202cf008202cf008302ce008302cd008202cc008102cc001800000024030a008602c8008502c9008502ca008602cb008702cb008702cb008802ca008802c9008702c8008602c8001800000024030a00
+8b02c5008a02c6008a02c7008b02c8008c02c8008c02c8008d02c7008d02c6008c02c5008b02c5001800000024030a009002c1008f02c2008f02c3009002c4009102c4009102c4009202c3009202c2009102c1009002c1001800000024030a009402be009302bf009302c0009402c1009502c1009502c1009602c0009602bf
+009502be009402be001800000024030a009902ba009802bb009802bc009902bd009a02bd009a02bd009b02bc009b02bb009a02ba009902ba001800000024030a009e02b7009d02b8009d02b9009e02ba009f02ba009f02ba00a002b900a002b8009f02b7009e02b7001800000024030a00a302b300a202b400a202b500a302
+b600a402b600a402b600a502b500a502b400a402b300a302b3001800000024030a00a802b000a702b100a702b200a802b300a902b300a902b300aa02b200aa02b100a902b000a802b0001800000024030a00ad02ac00ac02ad00ac02ae00ad02af00ae02af00ae02af00af02ae00af02ad00ae02ac00ad02ac001800000024
+030a00b202a900b102aa00b102ab00b202ac00b302ac00b302ac00b402ab00b402aa00b302a900b202a9001800000024030a00b602a500b502a600b502a700b602a800b702a800b702a800b802a700b802a600b702a500b602a5001800000024030a00bb02a200ba02a300ba02a400bb02a500bc02a500bc02a500bd02a400
+bd02a300bc02a200bb02a2001800000024030a00c0029e00bf029f00bf02a000c002a100c102a100c102a100c202a000c2029f00c1029e00c0029e001800000024030a00c5029b00c4029c00c4029d00c5029e00c6029e00c6029e00c7029d00c7029c00c6029b00c5029b001800000024030a00ca029700c9029800c90299
+00ca029a00cb029a00cb029a00cc029900cc029800cb029700ca0297001800000024030a00cf029400ce029500ce029600cf029700d0029700d0029700d1029600d1029500d0029400cf0294001800000024030a00d4029000d3029100d3029200d4029300d5029300d5029300d6029200d6029100d5029000d40290001800
+000024030a00d9028d00d8028e00d8028f00d9029000da029000da029000db028f00db028e00da028d00d9028d001800000024030a00dd028900dc028a00dc028b00dd028c00de028c00de028c00df028b00df028a00de028900dd0289001800000024030a00e2028600e1028700e1028800e2028900e3028900e3028900e4
+028800e4028700e3028600e20286001800000024030a00e7028200e6028300e6028400e7028500e8028500e8028500e9028400e9028300e8028200e70282001800000024030a00ec027f00eb028000eb028100ec028200ed028200ed028200ee028100ee028000ed027f00ec027f001800000024030a00f1027b00f0027c00
+f0027d00f1027e00f2027e00f2027e00f3027d00f3027c00f2027b00f1027b001800000024030a00f6027800f5027900f5027a00f6027b00f7027b00f7027b00f8027a00f8027900f7027800f60278001800000024030a00fb027400fa027500fa027600fb027700fc027700fc027700fd027600fd027500fc027400fb0274
+001800000024030a00ff027100fe027200fe027300ff0274000003740000037400010373000103720000037100ff0271001800000024030a0004036d0003036e0003036f0004037000050370000503700006036f0006036e0005036d0004036d001800000024030a0009036a0008036b0008036c0009036d000a036d000a03
+6d000b036c000b036b000a036a0009036a001800000024030a000e0366000d0367000d0368000e0369000f0369000f03690010036800100367000f0366000e0366001800000024030a00130363001203640012036500130366001403660014036600150365001503640014036300130363001800000024030a0018035f0017
+036000170361001803620019036200190362001a0361001a03600019035f0018035f001800000024030a001d035c001c035d001c035e001d035f001e035f001e035f001f035e001f035d001e035c001d035c001800000024030a00220358002103590021035a0022035b0023035b0023035b0024035a002403590023035800
+220358001800000024030a00260355002503560025035700260358002703580027035800280357002803560027035500260355001800000024030a002b0351002a0352002a0353002b0354002c0354002c0354002d0353002d0352002c0351002b0351001800000024030a0030034e002f034f002f03500030035100310351
+00310351003203500032034f0031034e0030034e001800000024030a0035034a0034034b0034034c0035034d0036034d0036034d0037034c0037034b0036034a0035034a001800000024030a003a03470039034800390349003a034a003b034a003b034a003c0349003c0348003b0347003a0347001800000024030a003f03
+43003e0344003e0345003f03460040034600400346004103450041034400400343003f0343001800000024030a00440340004303410043034200440343004503430045034300460342004603410045034000440340001800000024030a0049033c0048033d0048033e0049033f004a033f004a033f004b033e004b033d004a
+033c0049033c001800000024030a004d0339004c033a004c033b004d033c004e033c004e033c004f033b004f033a004e0339004d0339001800000024030a00520335005103360051033700520338005303380053033800540337005403360053033500520335001800000024030a0057033200560333005603340057033500
+5803350058033500590334005903330058033200570332001800000024030a005c032e005b032f005b0330005c0331005d0331005d0331005e0330005e032f005d032e005c032e001800000024030a0061032b0060032c0060032d0061032e0062032e0062032e0063032d0063032c0062032b0061032b001800000024030a
+0066032700650328006503290066032a0067032a0067032a00680329006803280067032700660327001800000024030a006b0324006a0325006a0326006b0327006c0327006c0327006d0326006d0325006c0324006b0324001800000024030a006f0320006e0321006e0322006f0323007003230070032300710322007103
+2100700320006f0320001800000024030a0074031d0073031e0073031f0074032000750320007503200076031f0076031e0075031d0074031d000400000006010100040000002d010500040000002d0104000800000026060f000600ffffffff0100040000002d010000030000000000000000000000000000000000000000
+0000}}{\fs24          }{\fs20 {\pict\wmetafile8\picw7620\pich5080\picwgoal4320\pichgoal2880 \box\brdrs\brdrw15 \picscalex86 
+010009000003b110000007001800000000001400000026060f001e00ffffffff040014000000576f72640e004d6963726f736f667420576f7264050000000b0200000000050000000c02580284030d000000fb02000000000000000000000000000000000001000c040000002d010000040000000201010015000000fb02d6
+ff0000000000009001000000000440001054696d6573204e657720526f6d616e005000040000002d01010005000000090200000000040000000201010007000000fc020100000000000000040000002d01020009000000fa02000004000000000000022200040000002d010300070000001804ff016a00e0014b0007000000
+fc020000ffffff000000040000002d01040009000000fa02000000000000000000002200040000002d01050004000000f0010300040000002d01020009000000fa02000004000000000000022200040000002d010300070000001804c3011e01a401ff00040000002d010400040000002d01050004000000f0010300040000
+002d01020009000000fa02000004000000000000022200040000002d0103000700000018045902e2003a02c300040000002d010400040000002d01050004000000f0010300040000002d01020009000000fa02000004000000000000022200040000002d010300070000001804ff017801e0015901040000002d0104000400
+00002d01050004000000f0010300040000002d01020009000000fa02000004000000000000022200040000002d0103000700000018043d0058031e003903040000002d010400040000002d01050004000000f0010300040000002d01020009000000fa02000004000000000000022200040000002d01030007000000180497
+00fe027800df02040000002d010400040000002d01050004000000f0010300040000002d01020009000000fa02000004000000000000022200040000002d0103000700000018043d00a4021e008502040000002d010400040000002d01050004000000f0010300040000002d01020009000000fa0200000400000000000002
+2200040000002d01030007000000180469010e024a01ef01040000002d010400040000002d01050004000000f0010300040000002d01020009000000fa02000004000000000000022200040000002d010300070000001804690196014a017701040000002d010400040000002d01050004000000f0010300040000002d0102
+0009000000fa02000004000000000000022200040000002d010300070000001804b5004a0296002b02040000002d010400040000002d01050004000000f0010300040000002d01020009000000fa02000004000000000000022200040000002d010300070000001b040f01a600d2000f00040000002d010400040000002d01
+050004000000f0010300030000001e000700000016040901a100d80015000400000002010100050000001402da001500040000002e01010011000000320ada001500040004000000000084035802444d4f531e0025001e001700040000002e010000050000001402000000000400000002010100040000002701ffff040000
+002d01020009000000fa02000004000000000000022200040000002d010300070000001b045902c2021c020d02040000002d010400040000002d01050004000000f0010300030000001e000700000016045302bd02220213020400000002010100040000002d01010005000000090200000000050000001402240213020400
+00002e01010013000000320a24021302050004000000000084035802444d4f5370001e0025001e0017001500040000002e010000050000001402987fb0a20400000002010100040000002701ffff1000000026060f001600ffffffff0000850000001c0000003c0300003d02000009000000fa02050000000000ffffff0022
+00040000002d01030007000000fc020000000000000000040000002d01060004000000060102001800000024030a008700390286003a0286003a0287003b0288003c0288003b0289003a028900390288003802870038021800000024030a008b0035028a0036028a0037028b0038028c0038028c0038028d0037028d003602
+8c0035028b0035021800000024030a00900031028f0032028f003302900034029100340291003402920033029200320291003102900031021800000024030a0095002d0294002e0294002f0295003002960030029600300297002f0297002e0296002d0295002d021800000024030a0099002a0298002b0298002c0299002d
+029a002d029a002d029b002c029b002b029a002a0299002a021800000024030a009e0026029d0027029d0028029e0029029f0029029f002902a0002802a00027029f0026029e0026021800000024030a00a3002202a2002302a2002402a3002502a4002502a4002502a5002402a5002302a4002202a3002202180000002403
+0a00a8001f02a7002002a7002102a8002202a9002202a9002202aa002102aa002002a9001f02a8001f021800000024030a00ac001b02ab001c02ab001d02ac001e02ad001e02ad001e02ae001d02ae001c02ad001b02ac001b021800000024030a00b1001702b0001802b0001902b1001a02b2001a02b2001a02b3001902b3
+001802b2001702b10017021800000024030a00b6001402b5001502b5001602b6001702b7001702b7001702b8001602b8001502b7001402b60014021800000024030a00ba001002b9001102b9001202ba001302bb001302bb001302bc001202bc001102bb001002ba0010021800000024030a00bf000c02be000d02be000e02
+bf000f02c0000f02c0000f02c1000e02c1000d02c0000c02bf000c021800000024030a00c4000802c3000902c3000a02c4000b02c5000b02c5000b02c6000a02c6000902c5000802c40008021800000024030a00c9000502c8000602c8000702c9000802ca000802ca000802cb000702cb000602ca000502c9000502180000
+0024030a00cd000102cc000202cc000302cd000402ce000402ce000402cf000302cf000202ce000102cd0001021800000024030a00d200fd01d100fe01d100ff01d2000002d3000002d3000002d400ff01d400fe01d300fd01d200fd011800000024030a00d700fa01d600fb01d600fc01d700fd01d800fd01d800fd01d900
+fc01d900fb01d800fa01d700fa011800000024030a00dc00f601db00f701db00f801dc00f901dd00f901dd00f901de00f801de00f701dd00f601dc00f6011800000024030a00e000f201df00f301df00f401e000f501e100f501e100f501e200f401e200f301e100f201e000f2011800000024030a00e500ef01e400f001e4
+00f101e500f201e600f201e600f201e700f101e700f001e600ef01e500ef011800000024030a00ea00eb01e900ec01e900ed01ea00ee01eb00ee01eb00ee01ec00ed01ec00ec01eb00eb01ea00eb011800000024030a00ee00e701ed00e801ed00e901ee00ea01ef00ea01ef00ea01f000e901f000e801ef00e701ee00e701
+1800000024030a00f300e301f200e401f200e501f300e601f400e601f400e601f500e501f500e401f400e301f300e3011800000024030a00f800e001f700e101f700e201f800e301f900e301f900e301fa00e201fa00e101f900e001f800e0011800000024030a00fd00dc01fc00dd01fc00de01fd00df01fe00df01fe00df
+01ff00de01ff00dd01fe00dc01fd00dc011800000024030a000101d8010001d9010001da010101db010201db010201db010301da010301d9010201d8010101d8011800000024030a000601d5010501d6010501d7010601d8010701d8010701d8010801d7010801d6010701d5010601d5011800000024030a000b01d1010a01
+d2010a01d3010b01d4010c01d4010c01d4010d01d3010d01d2010c01d1010b01d1011800000024030a001001cd010f01ce010f01cf011001d0011101d0011101d0011201cf011201ce011101cd011001cd011800000024030a001401ca011301cb011301cc011401cd011501cd011501cd011601cc011601cb011501ca0114
+01ca011800000024030a001901c6011801c7011801c8011901c9011a01c9011a01c9011b01c8011b01c7011a01c6011901c6011800000024030a001e01c2011d01c3011d01c4011e01c5011f01c5011f01c5012001c4012001c3011f01c2011e01c2011800000024030a002201be012101bf012101c0012201c1012301c101
+2301c1012401c0012401bf012301be012201be011800000024030a002701bb012601bc012601bd012701be012801be012801be012901bd012901bc012801bb012701bb011800000024030a002c01b7012b01b8012b01b9012c01ba012d01ba012d01ba012e01b9012e01b8012d01b7012c01b7011800000024030a003101b3
+013001b4013001b5013101b6013201b6013201b6013301b5013301b4013201b3013101b3011800000024030a003501b0013401b1013401b2013501b3013601b3013601b3013701b2013701b1013601b0013501b0011800000024030a003a01ac013901ad013901ae013a01af013b01af013b01af013c01ae013c01ad013b01
+ac013a01ac011800000024030a003f01a8013e01a9013e01aa013f01ab014001ab014001ab014101aa014101a9014001a8013f01a8011800000024030a004401a5014301a6014301a7014401a8014501a8014501a8014601a7014601a6014501a5014401a5011800000024030a004801a1014701a2014701a3014801a40149
+01a4014901a4014a01a3014a01a2014901a1014801a1011800000024030a004d019d014c019e014c019f014d01a0014e01a0014e01a0014f019f014f019e014e019d014d019d011800000024030a005201990151019a0151019b0152019c0153019c0153019c0154019b0154019a0153019901520199011800000024030a00
+560196015501970155019801560199015701990157019901580198015801970157019601560196011800000024030a005b0192015a0193015a0194015b0195015c0195015c0195015d0194015d0193015c0192015b0192011800000024030a0060018e015f018f015f0190016001910161019101610191016201900162018f
+0161018e0160018e011800000024030a0065018b0164018c0164018d0165018e0166018e0166018e0167018d0167018c0166018b0165018b011800000024030a0069018701680188016801890169018a016a018a016a018a016b0189016b0188016a018701690187011800000024030a006e0183016d0184016d0185016e01
+86016f0186016f01860170018501700184016f0183016e0183011800000024030a00730180017201810172018201730183017401830174018301750182017501810174018001730180011800000024030a0077017c0176017d0176017e0177017f0178017f0178017f0179017e0179017d0178017c0177017c011800000024
+030a007c0178017b0179017b017a017c017b017d017b017d017b017e017a017e0179017d0178017c0178011800000024030a00810175018001760180017701810178018201780182017801830177018301760182017501810175011800000024030a0086017101850172018501730186017401870174018701740188017301
+8801720187017101860171011800000024030a008a016d0189016e0189016f018a0170018b0170018b0170018c016f018c016e018b016d018a016d011800000024030a008f0169018e016a018e016b018f016c0190016c0190016c0191016b0191016a01900169018f0169011800000024030a009401660193016701930168
+01940169019501690195016901960168019601670195016601940166011800000024030a00990162019801630198016401990165019a0165019a0165019b0164019b0163019a016201990162011800000024030a009d015e019c015f019c0160019d0161019e0161019e0161019f0160019f015f019e015e019d015e011800
+000024030a00a2015b01a1015c01a1015d01a2015e01a3015e01a3015e01a4015d01a4015c01a3015b01a2015b011800000024030a00a7015701a6015801a6015901a7015a01a8015a01a8015a01a9015901a9015801a8015701a70157011800000024030a00ab015301aa015401aa015501ab015601ac015601ac015601ad
+015501ad015401ac015301ab0153011800000024030a00b0015001af015101af015201b0015301b1015301b1015301b2015201b2015101b1015001b00150011800000024030a00b5014c01b4014d01b4014e01b5014f01b6014f01b6014f01b7014e01b7014d01b6014c01b5014c011800000024030a00ba014801b9014901
+b9014a01ba014b01bb014b01bb014b01bc014a01bc014901bb014801ba0148011800000024030a00be014401bd014501bd014601be014701bf014701bf014701c0014601c0014501bf014401be0144011800000024030a00c3014101c2014201c2014301c3014401c4014401c4014401c5014301c5014201c4014101c30141
+011800000024030a00c8013d01c7013e01c7013f01c8014001c9014001c9014001ca013f01ca013e01c9013d01c8013d011800000024030a00cd013901cc013a01cc013b01cd013c01ce013c01ce013c01cf013b01cf013a01ce013901cd0139011800000024030a00d1013601d0013701d0013801d1013901d2013901d201
+3901d3013801d3013701d2013601d10136011800000024030a00d6013201d5013301d5013401d6013501d7013501d7013501d8013401d8013301d7013201d60132011800000024030a00db012e01da012f01da013001db013101dc013101dc013101dd013001dd012f01dc012e01db012e011800000024030a00df012b01de
+012c01de012d01df012e01e0012e01e0012e01e1012d01e1012c01e0012b01df012b011800000024030a00e4012701e3012801e3012901e4012a01e5012a01e5012a01e6012901e6012801e5012701e40127011800000024030a00e9012301e8012401e8012501e9012601ea012601ea012601eb012501eb012401ea012301
+e90123011800000024030a00ee011f01ed012001ed012101ee012201ef012201ef012201f0012101f0012001ef011f01ee011f011800000024030a00f2011c01f1011d01f1011e01f2011f01f3011f01f3011f01f4011e01f4011d01f3011c01f2011c011800000024030a00f7011801f6011901f6011a01f7011b01f8011b
+01f8011b01f9011a01f9011901f8011801f70118011800000024030a00fc011401fb011501fb011601fc011701fd011701fd011701fe011601fe011501fd011401fc0114011800000024030a00010211010002120100021301010214010202140102021401030213010302120102021101010211011800000024030a000502
+0d0104020e0104020f0105021001060210010602100107020f0107020e0106020d0105020d011800000024030a000a02090109020a0109020b010a020c010b020c010b020c010c020b010c020a010b0209010a0209011800000024030a000f0206010e0207010e0208010f0209011002090110020901110208011102070110
+0206010f0206011800000024030a00130202011202030112020401130205011402050114020501150204011502030114020201130202011800000024030a001802fe001702ff00170200011802010119020101190201011a0200011a02ff001902fe001802fe001800000024030a001d02fa001c02fb001c02fc001d02fd00
+1e02fd001e02fd001f02fc001f02fb001e02fa001d02fa001800000024030a002202f7002102f8002102f9002202fa002302fa002302fa002402f9002402f8002302f7002202f7001800000024030a002602f3002502f4002502f5002602f6002702f6002702f6002802f5002802f4002702f3002602f3001800000024030a
+002b02ef002a02f0002a02f1002b02f2002c02f2002c02f2002d02f1002d02f0002c02ef002b02ef001800000024030a003002ec002f02ed002f02ee003002ef003102ef003102ef003202ee003202ed003102ec003002ec001800000024030a003402e8003302e9003302ea003402eb003502eb003502eb003602ea003602
+e9003502e8003402e8001800000024030a003902e4003802e5003802e6003902e7003a02e7003a02e7003b02e6003b02e5003a02e4003902e4001800000024030a003e02e1003d02e2003d02e3003e02e4003f02e4003f02e4004002e3004002e2003f02e1003e02e1001800000024030a004302dd004202de004202df0043
+02e0004402e0004402e0004502df004502de004402dd004302dd001800000024030a004702d9004602da004602db004702dc004802dc004802dc004902db004902da004802d9004702d9001800000024030a004c02d6004b02d7004b02d8004c02d9004d02d9004d02d9004e02d8004e02d7004d02d6004c02d60018000000
+24030a005102d2005002d3005002d4005102d5005202d5005202d5005302d4005302d3005202d2005102d2001800000024030a005602ce005502cf005502d0005602d1005702d1005702d1005802d0005802cf005702ce005602ce001800000024030a005a02ca005902cb005902cc005a02cd005b02cd005b02cd005c02cc
+005c02cb005b02ca005a02ca001800000024030a005f02c7005e02c8005e02c9005f02ca006002ca006002ca006102c9006102c8006002c7005f02c7001800000024030a006402c3006302c4006302c5006402c6006502c6006502c6006602c5006602c4006502c3006402c3001800000024030a006802bf006702c0006702
+c1006802c2006902c2006902c2006a02c1006a02c0006902bf006802bf001800000024030a006d02bc006c02bd006c02be006d02bf006e02bf006e02bf006f02be006f02bd006e02bc006d02bc001800000024030a007202b8007102b9007102ba007202bb007302bb007302bb007402ba007402b9007302b8007202b80018
+00000024030a007702b4007602b5007602b6007702b7007802b7007802b7007902b6007902b5007802b4007702b4001800000024030a007b02b1007a02b2007a02b3007b02b4007c02b4007c02b4007d02b3007d02b2007c02b1007b02b1001800000024030a008002ad007f02ae007f02af008002b0008102b0008102b000
+8202af008202ae008102ad008002ad001800000024030a008502a9008402aa008402ab008502ac008602ac008602ac008702ab008702aa008602a9008502a9001800000024030a008a02a5008902a6008902a7008a02a8008b02a8008b02a8008c02a7008c02a6008b02a5008a02a5001800000024030a008e02a2008d02a3
+008d02a4008e02a5008f02a5008f02a5009002a4009002a3008f02a2008e02a2001800000024030a0093029e0092029f009202a0009302a1009402a1009402a1009502a00095029f0094029e0093029e001800000024030a0098029a0097029b0097029c0098029d0099029d0099029d009a029c009a029b0099029a009802
+9a001800000024030a009c0297009b0298009b0299009c029a009d029a009d029a009e0299009e0298009d0297009c0297001800000024030a00a1029300a0029400a0029500a1029600a2029600a2029600a3029500a3029400a2029300a10293001800000024030a00a6028f00a5029000a5029100a6029200a7029200a7
+029200a8029100a8029000a7028f00a6028f001800000024030a00ab028c00aa028d00aa028e00ab028f00ac028f00ac028f00ad028e00ad028d00ac028c00ab028c001800000024030a00af028800ae028900ae028a00af028b00b0028b00b0028b00b1028a00b1028900b0028800af0288001800000024030a00b4028400
+b3028500b3028600b4028700b5028700b5028700b6028600b6028500b5028400b40284001800000024030a00b9028000b8028100b8028200b9028300ba028300ba028300bb028200bb028100ba028000b90280001800000024030a00be027d00bd027e00bd027f00be028000bf028000bf028000c0027f00c0027e00bf027d
+00be027d001800000024030a00c2027900c1027a00c1027b00c2027c00c3027c00c3027c00c4027b00c4027a00c3027900c20279001800000024030a00c7027500c6027600c6027700c7027800c8027800c8027800c9027700c9027600c8027500c70275001800000024030a00cc027200cb027300cb027400cc027500cd02
+7500cd027500ce027400ce027300cd027200cc0272001800000024030a00d0026e00cf026f00cf027000d0027100d1027100d1027100d2027000d2026f00d1026e00d0026e001800000024030a00d5026a00d4026b00d4026c00d5026d00d6026d00d6026d00d7026c00d7026b00d6026a00d5026a001800000024030a00da
+026700d9026800d9026900da026a00db026a00db026a00dc026900dc026800db026700da0267001800000024030a00df026300de026400de026500df026600e0026600e0026600e1026500e1026400e0026300df0263001800000024030a00e3025f00e2026000e2026100e3026200e4026200e4026200e5026100e5026000
+e4025f00e3025f001800000024030a00e8025b00e7025c00e7025d00e8025e00e9025e00e9025e00ea025d00ea025c00e9025b00e8025b001800000024030a00ed025800ec025900ec025a00ed025b00ee025b00ee025b00ef025a00ef025900ee025800ed0258001800000024030a00f1025400f0025500f0025600f10257
+00f2025700f2025700f3025600f3025500f2025400f10254001800000024030a00f6025000f5025100f5025200f6025300f7025300f7025300f8025200f8025100f7025000f60250001800000024030a00fb024d00fa024e00fa024f00fb025000fc025000fc025000fd024f00fd024e00fc024d00fb024d00180000002403
+0a0000034900ff024a00ff024b0000034c0001034c0001034c0002034b0002034a0001034900000349001800000024030a00040345000303460003034700040348000503480005034800060347000603460005034500040345001800000024030a00090342000803430008034400090345000a0345000a0345000b0344000b
+0343000a034200090342001800000024030a000e033e000d033f000d0340000e0341000f0341000f0341001003400010033f000f033e000e033e001800000024030a0013033a0012033b0012033c0013033d0014033d0014033d0015033c0015033b0014033a0013033a001800000024030a00170336001603370016033800
+170339001803390018033900190338001903370018033600170336001800000024030a001c0333001b0334001b0335001c0336001d0336001d0336001e0335001e0334001d0333001c0333001800000024030a0021032f002003300020033100210332002203320022033200230331002303300022032f0021032f00180000
+0024030a0025032b0024032c0024032d0025032e0026032e0026032e0027032d0027032c0026032b0025032b001800000024030a002a0328002903290029032a002a032b002b032b002b032b002c032a002c0329002b0328002a0328001800000024030a002f0324002e0325002e0326002f03270030032700300327003103
+260031032500300324002f0324001800000024030a00340320003303210033032200340323003503230035032300360322003603210035032000340320001800000024030a0038031d0037031e0037031f003803200039032000390320003a031f003a031e0039031d0038031d000400000006010100040000002d01050004
+0000002d0104000800000026060f000600ffffffff0100040000002d0100000300000000000000000000000000000000000000000000}}{\fs24 
+\par 
+\par }\pard\plain \s47\qc\sa720\widctlpar\tx794\tx1191\tx1588\tx1985 \b\f5\fs22\lang2057 {\lang1033    Fig. 6.  Model with large outlying errors  \tab       Fig. 7. Model with consistent errors
+\par }\pard\plain \sb136\widctlpar\tx794\tx1191\tx1588\tx1985 \f5\fs22\lang2057 
+Figures 6 and 7 show models with approximately equal RMS errors between predicted and measured DMOS. Figure 6 is an example of a model that has quite accurate predictions for the majority of sequences but has large prediction error for the two points in t
+he middle of the figure. Figure 7 is an example of  a model that has a balanced set of prediction errors - it is not as accurate as the model of Figure 6 for most of the sequences but it performs \ldblquote consistently\rdblquote 
+ by providing reasonable predictions for all the sequences. The model\rquote 
+s prediction consistency can be measured by the number of outlier points (defined as having an error greater than a given threshold such as one confidence interval) as a fraction of the total number of points. A smaller outlier fraction means the model
+\rquote s predictions are more consistent. Another metric that relates to consistency is Kurtosis, which is a dimensionless quantity that relates only to the shape of the error distribution and not to the distribution\rquote 
+s width. Two models may have identical RMS error, but the model with an error distribution having larger \ldblquote tails\rdblquote  to the distribution will have a greater Kurtosis.
+\par {\fs24 
+\par }\pard\plain \s48\qc\sb720\widctlpar\tx794\tx1191\tx1588\tx1985 \f5\fs22\lang2057 \page {\*\bkmkstart _Toc411186367}Annex 2
+\par \pard\plain \s50\qc\sb240\sa284\widctlpar\tx794\tx1191\tx1588\tx1985 \b\f5\fs22\lang2057 VQEG Objective Video Quality Ad-hoc Group Members{\*\bkmkend _Toc411186367}
+\par \pard\plain \sb136\widctlpar\tx794\tx1191\tx1588\tx1985 \f5\fs22\lang2057 {\*\bkmkstart _Toc411186368}Co-chairs:{\*\bkmkend _Toc411186368} 
+\par {\fs24      Ravel, Mihir  <mihir.ravel@tek.com>
+\par      Beerends, John  <j.g.beerends@research.kpn.com>
+\par Members:
+\par      Webster, Arthur  <awebster@its.bldrdoc.gov>
+\par      Corriveau, Phil  <philc@dgbt.doc.ca>
+\par      Hamada, Takahiro  <ta-hamada@kdd.co.jp>
+\par      Brill, Michael  <mbrill@sarnoff.com>
+\par      Winkler, Stefan  <winkler@ltssg3.epfl.ch>
+\par      Pefferkorn, Stephane  <stephane.pefferkorn@cnet.francetelecom.fr>
+\par      Contin, Laura  <laura.contin@cselt.stet.it>
+\par      Pascal, Dominique  <dominique.pascal@cnet.francetelecom.fr>
+\par      Zou,William  <}{\lang1033 wzou@gi.com>. 
+\par      }{\fs24 Morton, Al  <acmorton@att.com >
+\par      Fibush, David <davef@tv.tv.tek.com>
+\par      Wolf, Steve  <steve@its.bldrdoc.gov >
+\par      Schertz, Alexander <schertz@dav.irt.de>
+\par      Fenimore, Charles <fenimore@eeel.nist.gov>
+\par      Libert, John  <libert@eeel.nist.gov> 
+\par }{\fs24\lang1033      Watson, Andrew   <abwatson@mail.arc.nasa.gov>
+\par }
+\par \pard \qc\sb136\widctlpar\tx794\tx1191\tx1588\tx1985 ____________
+\par }

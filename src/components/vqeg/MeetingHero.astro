@@ -1,0 +1,29 @@
+---
+const base = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE_URL : `${import.meta.env.BASE_URL}/`;
+const asset = `${base}media/mwafe2ux/last_vqeg_meeting_photo.jpg`;
+---
+
+<section class="vqeg-meeting-hero">
+  <img src={asset} alt="VQEG meeting participants" />
+  <div>
+    <slot />
+  </div>
+</section>
+
+<style>
+  .vqeg-meeting-hero {
+    display: grid;
+    gap: 2.5rem;
+    align-items: center;
+    margin-bottom: 3.5rem;
+  }
+  .vqeg-meeting-hero img {
+    width: 100%;
+    margin: 0;
+  }
+  @media (min-width: 768px) {
+    .vqeg-meeting-hero {
+      grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+    }
+  }
+</style>

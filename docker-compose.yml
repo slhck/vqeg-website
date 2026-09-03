@@ -1,6 +1,6 @@
 services:
-  astrowind:
+  vqeg-website:
     build: .
-    container_name: astrowind
+    container_name: vqeg-website
     ports:
       - 8080:8080
